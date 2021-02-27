@@ -1597,8 +1597,8 @@
       </div>
   </div>
         </div>
-        <div class="block block__sub" data-state-based-visibility="school-has-programs">
-          <h3 class="h4">Select your graduate program</h3>
+        <div class="block block__sub program-select">
+          <h3 class="h4">Select your program</h3>
           <div class="a-select">
             <select id="program-select">
             </select>
@@ -2751,7 +2751,7 @@
     <div class="financial-item_label">
         <label class="a-label a-label__heading" for="savings__collegeSavings">
             College savings plan (like 529 plans)
-        </label><p id="ht_savings__collegeSavings"><small>529 college savings plans are tax-advantaged savings plans that help families save for higher education so they can be less reliant on student loans. <a class="link-external a-link a-link__icon" href="https://studentaid.gov/resources/tax-benefits#529-plans"><span class="a-link_text">Learn more here.</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a></small></p></div>
+        </label><p id="ht_savings__collegeSavings"><small>529 college savings plans are tax-advantaged savings plans that help families save for higher education so they can be less reliant on student loans. <a class="a-link a-link__icon" href="https://studentaid.gov/resources/tax-benefits#529-plans" rel="noreferrer noopener" target="_blank"><span class="a-link_text">Learn more here.</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a></small></p></div>
     <div class="financial-item_value">
         <input class="a-text-input"
                type="text"
@@ -4143,7 +4143,7 @@
     </div>
     <div class="debt-guideline_salary-info">
     <div class="number-callout number-callout__large">
-    <div class="number-callout_header">Median salary of this <span class="undergrad-content">school's recent students</span><span class="graduate-content">program's graduates</span></div>
+    <div class="number-callout_header">Median salary of this <span class="no-program-selected">school's recent students</span><span data-state-based-visibility="program-is-selected">program's graduates</span></div>
     <div class="number-callout_value">
       <span data-financial-item="salary_annual">
           $0
@@ -4152,15 +4152,15 @@
 </div>
         <p class="undergrad-content">Median earnings of federally-aided students working and not enrolled 6 years after starting at this school—includes students who did not graduate</p>
         <p class="graduate-content">Median first-year earnings of federally-aided program graduates who were working and not enrolled during the first year following graduation</p>
-        <h4>Your projected debt vs. the median <span class="undergrad-content">salary of recent students</span><span class="graduate-content">first-year salary of program graduates</span></h4>
+        <h4>Your projected debt vs. the median <span class="no-program-selected">salary of recent students</span><span data-state-based-visibility="program-is-selected">first-year salary of program graduates</span></h4>
         <div id="max-debt-guideline_chart"></div>
         <div data-state-based-visibility="debt-rule-violation">
   <div class="m-notification m-notification__error m-notification__visible">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm50.3 770.7c0 27.6-22.4 50-50 50s-50-22.4-50-50V547.3c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6zm-50-439.1c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7 71.7 32.1 71.7 71.7-32.1 71.7-71.7 71.7z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Your projected total debt is more than the <span class="undergrad-content">median salary of this school's recent students</span><span class="graduate-content">median first-year salary of this program's graduates</span>. Consider whether this plan is right for you.</div>
-              <div class="m-notification_explanation">Your projected total debt is <span data-financial-item="other_debtGuideDifference">$XXXX</span> higher than the <span class="undergrad-content">median salary of this school's recent students</span><span class="graduate-content">median first-year salary of this program's graduates</span>. Your actual salary will depend on factors like your field of work and where you live. <a class="external-link a-link a-link__icon" href="https://www.bls.gov/bls/blswage.htm" rel="noreferrer noopener" target="_blank"><span class="a-link_text">Visit the BLS Wage Data site for more information.</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a></div>
+          <div class="h4 m-notification_message">Your projected total debt is more than the <span class="no=program-selected">median salary of this school's recent students</span><span data-state-based-visibility="program-is-selected">median first-year salary of this program's graduates</span>. Consider whether this plan is right for you.</div>
+              <div class="m-notification_explanation">Your projected total debt is <span data-financial-item="other_debtGuideDifference">$XXXX</span> higher than the <span class="no-program-selected">median salary of this school's recent students</span><span data-state-based-visibility="program-is-selected">median first-year salary of this program's graduates</span>. Your actual salary will depend on factors like your field of work and where you live. <a class="external-link a-link a-link__icon" href="https://www.bls.gov/bls/blswage.htm" rel="noreferrer noopener" target="_blank"><span class="a-link_text">Visit the BLS Wage Data site for more information.</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a></div>
       </div>
   </div>
         </div>
@@ -4169,7 +4169,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm50.3 770.7c0 27.6-22.4 50-50 50s-50-22.4-50-50V547.3c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6zm-50-439.1c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7 71.7 32.1 71.7 71.7-32.1 71.7-71.7 71.7z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Your projected total debt is not higher than the <span class="undergrad-content">median salary of this school's recent students</span><span class="graduate-content">median first-year salary of this program's graduates</span></div>
+          <div class="h4 m-notification_message">Your projected total debt is not higher than the <span class="no-program-selected">median salary of this school's recent students</span><span data-state-based-visibility="program-is-selected">median first-year salary of this program's graduates</span></div>
               <div class="m-notification_explanation">Your actual salary will depend on factors like your field of work and where you live. <a class="external-link a-link a-link__icon" href="https://www.bls.gov/bls/blswage.htm" rel="noreferrer noopener" target="_blank"><span class="a-link_text">Visit the BLS Wage Data site for more information.</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a></div>
       </div>
   </div>
@@ -4296,7 +4296,7 @@
     </div>
 </div>
         <p>Your payment will depend on your total debt and your repayment plan. This estimate assumes a standard plan, where you pay the same amount every month for 10 years; other plans with lower monthly payments (and higher total costs of borrowing) are available.</p>
-        <div class="undergrad-content">
+        <div class="no-program-selected">
             <div class="number-callout number-callout__large number-callout__border-top">
     <div class="number-callout_header">Monthly median salary for this school&#39;s recent students</div>
     <div class="number-callout_value">
@@ -5132,6 +5132,7 @@
 </div>
                 </div>
                 <div class="undergrad-content">
+                    <div class="no-program-selected">
                     <div class="financial-item
             financial-item__text
             ">
@@ -5143,8 +5144,10 @@
         </span> 
     </div>
 </div>
+                    </div>
                 </div>
-                <div data-state-based-visibility="no-program-selected">
+                <div class="graduate-content">
+                    <div class="no-program-selected">
                     <div class="financial-item
             financial-item__text
             ">
@@ -5156,6 +5159,7 @@
         </span> 
     </div>
 </div>
+                    </div>
                 </div>
     </div>
 </div>
@@ -5270,6 +5274,7 @@
 </div>
                 </div>
                 <div class="undergrad-content">
+                    <div class="no-program-selected">
                     <div class="financial-item
             financial-item__text
             ">
@@ -5281,8 +5286,10 @@
         </span> 
     </div>
 </div>
+                    </div>
                 </div>
-                <div data-state-based-visibility="no-program-selected">
+                <div class="graduate-content">
+                    <div class="no-program-selected">
                     <div class="financial-item
             financial-item__text
             ">
@@ -5294,6 +5301,7 @@
         </span> 
     </div>
 </div>
+                    </div>
                 </div>
                 <div class="financial-item
             financial-item__text
