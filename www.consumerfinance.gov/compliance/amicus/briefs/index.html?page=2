@@ -701,9 +701,9 @@
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/enforcement/payments-harmed-consumers/enforcement-database/"
+       href="/enforcement/enforcement-by-the-numbers/"
        >
-        Enforcement Database
+        Enforcement by the Numbers
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
@@ -919,9 +919,9 @@
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/enforcement/payments-harmed-consumers/enforcement-database/"
+       href="/enforcement/enforcement-by-the-numbers/"
        >
-        Enforcement Database
+        Enforcement by the Numbers
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
@@ -1374,10 +1374,10 @@
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="fair-lending">Fair lending</option>
   <option value="mortgages">Mortgages</option>
   <option value="enforcement">Enforcement</option>
@@ -1456,13 +1456,61 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">53 filtered results</div>
+          <div class="h4 m-notification_message">54 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Federal Circuit Court
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed
+                        <span class="datetime"><time class="datetime_date" datetime="2016-02-23T00:00:00">FEB 23, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/amicus/briefs/alexander-ameripro-funding/">
+                    Alexander v. Ameripro Funding, Inc.
+                </a>
+            </h3>
+                <div class="o-post-preview_subtitle">
+                    5th Circuit Court of Appeals
+                </div>
+                <div class="o-post-preview_description">
+                    <p>The Equal Credit Opportunity Act prohibits a creditor from, among other things, discriminating against an applicant for a mortgage loan because all or part of the applicant’s income derives from public assistance income. <br/></p><p></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/compliance/amicus/briefs/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Equal Credit Opportunity Act
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2735,57 +2783,6 @@
                 <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Fair Debt Collection Practices Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        U.S. Supreme Court
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed
-                        <span class="datetime"><time class="datetime_date" datetime="2011-12-23T00:00:00">DEC 23, 2011</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/amicus/briefs/fein-such-kahn-shepard-allen/">
-                    Fein, Such, Kahn & Shepard, P.C. v. Allen
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>This case presents the question whether communications from debt collectors to consumers’ attorneys are categorically excluded from the coverage of the Fair Debt Collection Practices Act (FDCPA), which in relevant part prohibits debt collectors from engaging in “[t]he collection of any amount . . . unless such amount is expressly authorized by the agreement creating the debt or permitted by law.” 15 U.S.C. 1692f(1). <br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Debt Collection Practices Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
                 </a>
             </li>
             <li class="tags_tag">

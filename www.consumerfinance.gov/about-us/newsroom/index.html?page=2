@@ -701,9 +701,9 @@
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/enforcement/payments-harmed-consumers/enforcement-database/"
+       href="/enforcement/enforcement-by-the-numbers/"
        >
-        Enforcement Database
+        Enforcement by the Numbers
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
@@ -919,9 +919,9 @@
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/enforcement/payments-harmed-consumers/enforcement-database/"
+       href="/enforcement/enforcement-by-the-numbers/"
        >
-        Enforcement Database
+        Enforcement by the Numbers
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
@@ -1393,10 +1393,10 @@
   <option value="research">Research</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
-  <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="foreclosure">Foreclosure</option>
-  <option value="financial-well-being">Financial well-being</option>
+  <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="academic-research-council">Academic Research Council</option>
+  <option value="financial-well-being">Financial well-being</option>
   <option value="innovation">Innovation</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="financial-service-providers">Financial service providers</option>
@@ -1410,14 +1410,14 @@
   <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
   <option value="call-for-evidence">Call for evidence</option>
-  <option value="bureau-milestones">Bureau milestones</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="open-government">Open government</option>
+  <option value="bureau-milestones">Bureau milestones</option>
   <option value="regulation-e">Regulation E</option>
   <option value="credit-unions">Credit unions</option>
+  <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="arbitration">Arbitration</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
@@ -1427,46 +1427,46 @@
   <option value="youth">Youth</option>
   <option value="credit-card-act">Credit CARD Act</option>
   <option value="saving">Saving</option>
+  <option value="regulation-m">Regulation M</option>
   <option value="financial-coaching">Financial coaching</option>
   <option value="retirement">Retirement</option>
   <option value="medical-debt">Medical debt</option>
-  <option value="regulation-m">Regulation M</option>
   <option value="debit-cards">Debit cards</option>
-  <option value="add-on-products">Add-on products</option>
-  <option value="reverse-mortgages">Reverse mortgages</option>
   <option value="privacy">Privacy</option>
+  <option value="reverse-mortgages">Reverse mortgages</option>
+  <option value="add-on-products">Add-on products</option>
   <option value="partnerships">Partnerships</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
-  <option value="housing-counselor">Housing counselor</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="business-loans">Business loans</option>
-  <option value="parents">Parents</option>
-  <option value="community-banks">Community banks</option>
-  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
+  <option value="housing-counselor">Housing counselor</option>
   <option value="cfpb-en-espanol">CFPB en español</option>
+  <option value="community-banks">Community banks</option>
+  <option value="parents">Parents</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="redlining">Redlining</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="foia">FOIA</option>
   <option value="sbrefa">SBREFA</option>
   <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
+  <option value="regulation-p">Regulation P</option>
+  <option value="homebuying">Homebuying</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="libraries">Libraries</option>
   <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
-  <option value="homebuying">Homebuying</option>
-  <option value="regulation-p">Regulation P</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
   <option value="regulation-o">Regulation O</option>
+  <option value="fair-credit-billing-act">Fair Credit Billing Act</option>
   <option value="native-communities">Native communities</option>
-  <option value="financial-institutions">Financial Institutions</option>
-  <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
   <option value="people-with-disabilities">People with disabilities</option>
+  <option value="regulation-n">Regulation N</option>
   <option value="credit">Credit</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
-  <option value="fair-credit-billing-act">Fair Credit Billing Act</option>
-  <option value="regulation-n">Regulation N</option>
+  <option value="financial-institutions">Financial Institutions</option>
   <option value="procurement">Procurement</option>
   <option value="remittances">remittances</option>
+  <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
   <option value="reports">reports</option>
 </select>
                             </div>
@@ -1698,15 +1698,15 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/about-us/newsroom/?topics=deceptive-practices" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Deceptive practices
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
                 </a>
             </li>
     </ul>
@@ -2059,16 +2059,22 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/consumer-financial-protection-bureau-sues-debt-settlement-company-fdatr-inc-and-owners-dean-tucci-and-kenneth-wayne-halverson/">
-                    Consumer Financial Protection Bureau Sues Debt Settlement Company FDATR, Inc., and Owners Dean Tucci and Kenneth Wayne Halverson
+                <a href="/about-us/newsroom/consumer-financial-protection-bureau-settles-us-equity-advantage-inc-and-owner-robert-m-steenbergh-deceptive-sales-practices/">
+                    Consumer Financial Protection Bureau Settles with U.S. Equity Advantage, Inc. and Its Owner, Robert M. Steenbergh, for Deceptive Sales Practices
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>On November 20, 2020, the Consumer Financial Protection Bureau filed a lawsuit against FDATR, Inc., and its owners, Dean Tucci and Kenneth Wayne Halverson.</p>
+                    <p>On November 20, 2020, the Consumer Financial Protection Bureau issued a consent order against U.S. Equity Advantage, Inc. and its owner, Robert M. Steenbergh.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=deceptive-practices" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Deceptive practices
+                </a>
+            </li>
             <li class="tags_tag">
                 <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
@@ -2099,22 +2105,16 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/consumer-financial-protection-bureau-settles-us-equity-advantage-inc-and-owner-robert-m-steenbergh-deceptive-sales-practices/">
-                    Consumer Financial Protection Bureau Settles with U.S. Equity Advantage, Inc. and Its Owner, Robert M. Steenbergh, for Deceptive Sales Practices
+                <a href="/about-us/newsroom/consumer-financial-protection-bureau-sues-debt-settlement-company-fdatr-inc-and-owners-dean-tucci-and-kenneth-wayne-halverson/">
+                    Consumer Financial Protection Bureau Sues Debt Settlement Company FDATR, Inc., and Owners Dean Tucci and Kenneth Wayne Halverson
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>On November 20, 2020, the Consumer Financial Protection Bureau issued a consent order against U.S. Equity Advantage, Inc. and its owner, Robert M. Steenbergh.</p>
+                    <p>On November 20, 2020, the Consumer Financial Protection Bureau filed a lawsuit against FDATR, Inc., and its owners, Dean Tucci and Kenneth Wayne Halverson.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=deceptive-practices" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Deceptive practices
-                </a>
-            </li>
             <li class="tags_tag">
                 <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
@@ -2420,15 +2420,15 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/about-us/newsroom/?topics=deceptive-practices" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Deceptive practices
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
                 </a>
             </li>
     </ul>
@@ -2466,15 +2466,15 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/about-us/newsroom/?topics=deceptive-practices" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Deceptive practices
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
                 </a>
             </li>
     </ul>
@@ -2547,20 +2547,20 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/consumer-financial-protection-bureau-issues-final-rule-improves-clarity-transparency-amending-disclosure-records-information-regulation/">
-                    Consumer Financial Protection Bureau Issues Final Rule, Improves Clarity and Transparency by Amending Disclosure of Records and Information Regulation
+                <a href="/about-us/newsroom/agencies-propose-regulation-role-supervisory-guidance/">
+                    Agencies Propose Regulation on the Role of Supervisory Guidance
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>The Consumer Financial Protection Bureau issued today a final rule amending its Disclosure of Records and Information Regulation.</p>
+                    <p>Five federal financial regulatory agencies today invited comment on a proposal outlining and confirming the agencies’ use of supervisory guidance for regulated institutions.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
+                <a href="/about-us/newsroom/?topics=supervision" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
+                    Supervision
                 </a>
             </li>
     </ul>
@@ -2587,20 +2587,20 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/agencies-propose-regulation-role-supervisory-guidance/">
-                    Agencies Propose Regulation on the Role of Supervisory Guidance
+                <a href="/about-us/newsroom/consumer-financial-protection-bureau-issues-final-rule-improves-clarity-transparency-amending-disclosure-records-information-regulation/">
+                    Consumer Financial Protection Bureau Issues Final Rule, Improves Clarity and Transparency by Amending Disclosure of Records and Information Regulation
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>Five federal financial regulatory agencies today invited comment on a proposal outlining and confirming the agencies’ use of supervisory guidance for regulated institutions.</p>
+                    <p>The Consumer Financial Protection Bureau issued today a final rule amending its Disclosure of Records and Information Regulation.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=supervision" class="tags_link">
+                <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
+                    Rulemaking
                 </a>
             </li>
     </ul>

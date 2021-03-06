@@ -700,9 +700,9 @@
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/enforcement/payments-harmed-consumers/enforcement-database/"
+       href="/enforcement/enforcement-by-the-numbers/"
        >
-        Enforcement Database
+        Enforcement by the Numbers
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
@@ -918,9 +918,9 @@
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/enforcement/payments-harmed-consumers/enforcement-database/"
+       href="/enforcement/enforcement-by-the-numbers/"
        >
-        Enforcement Database
+        Enforcement by the Numbers
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
@@ -2000,51 +2000,9 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=discrimination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Discrimination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=compliance" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Compliance
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=equal-credit-opportunity-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Equal Credit Opportunity Act
+                    Home Mortgage Disclosure Act
                 </a>
             </li>
             <li class="tags_tag">
@@ -2054,9 +2012,51 @@
                 </a>
             </li>
             <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <a href="/data-research/research-reports/?topics=equal-credit-opportunity-act" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
+                    Equal Credit Opportunity Act
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=compliance" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Compliance
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=discrimination" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Discrimination
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair lending
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Access to credit
                 </a>
             </li>
     </ul>
