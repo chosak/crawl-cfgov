@@ -1514,6 +1514,47 @@
         <div class="m-meta-header">
             <div class="m-meta-header_right">
                 <span class="a-date">
+                        <span class="datetime"><time class="datetime_date" datetime="2011-09-15T22:49:00-0400">SEP 16, 2011</time>
+</span>
+                </span>
+            </div>
+        </div>
+                <div class="o-post-preview_image-container">
+                        <img class="o-post-preview_image"
+                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-75.1327,40.0115,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
+                             alt="">
+                </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="Sep"
+                      data-day="15"
+                      datetime="Thu 15 Sep 2011 10:49:00 PM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/livestream-of-raj-date-speech-on-lessons-from-financial-crisis-philadelphia-pa/">
+                    Raj Date speech on lessons from financial crisis in Philadelphia, PA
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                        Philadelphia, PA
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2011-09-15T22:49:00-0400">SEP 16, 2011</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2011-09-15T22:49:00-0400">
+        10:49 PM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p>Raj Date spoke at the National Constitution Center in Philadelphia about the lessons learned from the mortgage market meltdown and how those lessons can be applied to the consumer bureau’s work moving forward. <br/></p>
+                </div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
                         <span class="datetime"><time class="datetime_date" datetime="2011-09-15T12:30:00-0400">SEP 15, 2011</time>
 </span>
                 </span>
@@ -1549,47 +1590,6 @@
                     </div>
                 <div class="o-post-preview_description">
                     <p>Raj Date spoke at the National Constitution Center in Philadelphia about the lessons learned from the mortgage market meltdown and how those lessons can be applied to the consumer bureau’s work moving forward.</p>
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                        <span class="datetime"><time class="datetime_date" datetime="2011-09-15T22:49:00-0400">SEP 16, 2011</time>
-</span>
-                </span>
-            </div>
-        </div>
-                <div class="o-post-preview_image-container">
-                        <img class="o-post-preview_image"
-                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-75.1327,40.0115,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
-                             alt="">
-                </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Sep"
-                      data-day="15"
-                      datetime="Thu 15 Sep 2011 10:49:00 PM EDT"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/livestream-of-raj-date-speech-on-lessons-from-financial-crisis-philadelphia-pa/">
-                    Raj Date speech on lessons from financial crisis in Philadelphia, PA
-                </a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                        Philadelphia, PA
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2011-09-15T22:49:00-0400">SEP 16, 2011</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2011-09-15T22:49:00-0400">
-        10:49 PM EDT
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    <p>Raj Date spoke at the National Constitution Center in Philadelphia about the lessons learned from the mortgage market meltdown and how those lessons can be applied to the consumer bureau’s work moving forward. <br/></p>
                 </div>
         </div>
     </article>

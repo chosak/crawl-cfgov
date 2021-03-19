@@ -1882,27 +1882,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/how-can-debt-collector-contact-you-our-new-rule-will-help-clarify/">
-                        <span class="h4 u-mb0">
-                            How can a debt collector contact you? Our new rule will help clarify.
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-10-30T00:00:00">OCT 30, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -1914,6 +1893,27 @@
                     <a href="/about-us/newsroom/consumer-financial-protection-bureau-issues-final-rule-implement-fair-debt-collection-practices-act/">
                         <span class="h4 u-mb0">
                             Consumer Financial Protection Bureau Issues Final Rule to Implement the Fair Debt Collection Practices Act
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-10-30T00:00:00">OCT 30, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/how-can-debt-collector-contact-you-our-new-rule-will-help-clarify/">
+                        <span class="h4 u-mb0">
+                            How can a debt collector contact you? Our new rule will help clarify.
                         </span>
                     </a>
                 </td>
@@ -2667,9 +2667,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-sues-debt-collectors-and-debt-buyers-encore-capital-group-et-al/">
+                    <a href="/about-us/newsroom/cfpb-new-york-attorney-general-take-action-against-debt-collection-operation/">
                         <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Sues Debt Collectors and Debt Buyers Encore Capital Group, Midland Funding, Midland Credit Management, and Asset Acceptance Capital Corp.
+                            Consumer Financial Protection Bureau and New York Attorney General Take Action Against Debt-Collection Operation and Its Owners and Managers
                         </span>
                     </a>
                 </td>
@@ -2688,9 +2688,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-new-york-attorney-general-take-action-against-debt-collection-operation/">
+                    <a href="/about-us/newsroom/cfpb-sues-debt-collectors-and-debt-buyers-encore-capital-group-et-al/">
                         <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau and New York Attorney General Take Action Against Debt-Collection Operation and Its Owners and Managers
+                            Consumer Financial Protection Bureau Sues Debt Collectors and Debt Buyers Encore Capital Group, Midland Funding, Midland Credit Management, and Asset Acceptance Capital Corp.
                         </span>
                     </a>
                 </td>
@@ -2869,27 +2869,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-report-examines-pandemic-impact-on-consumer-credit/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Report Examines Early Impact of Pandemic on Consumer Credit
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-08-31T00:00:00">AUG 31, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
@@ -2901,6 +2880,27 @@
                     <a href="/about-us/blog/falling-for-scams-could-be-disaster/">
                         <span class="h4 u-mb0">
                             Falling for scams could be a disaster
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-08-31T00:00:00">AUG 31, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-report-examines-pandemic-impact-on-consumer-credit/">
+                        <span class="h4 u-mb0">
+                            Consumer Financial Protection Bureau Report Examines Early Impact of Pandemic on Consumer Credit
                         </span>
                     </a>
                 </td>
@@ -3100,27 +3100,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/back-to-school-resources-teachers-parents-financial-education-practitioners/">
-                        <span class="h4 u-mb0">
-                            Back to school resources for teachers, parents and financial education practitioners
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-08-25T00:00:00">AUG 25, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -3132,6 +3111,27 @@
                     <a href="/about-us/newsroom/cfpb-launches-public-service-announcements-compensation-siringoringo-case/">
                         <span class="h4 u-mb0">
                             CFPB Launches Public Service Announcements to Reach Consumers Eligible for Compensation in Siringoringo Case
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-08-25T00:00:00">AUG 25, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/back-to-school-resources-teachers-parents-financial-education-practitioners/">
+                        <span class="h4 u-mb0">
+                            Back to school resources for teachers, parents and financial education practitioners
                         </span>
                     </a>
                 </td>
@@ -3457,27 +3457,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/what-to-consider-when-sharing-your-financial-data/">
-                        <span class="h4 u-mb0">
-                            What to consider when sharing your financial data
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-24T00:00:00">JUL 24, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -3510,6 +3489,27 @@
                     <a href="/data-research/research-reports/bureau-symposium-consumer-access-financial-records-summary-proceedings/">
                         <span class="h4 u-mb0">
                             Bureau Symposium: Consumer Access to Financial Records, a summary of the proceedings
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-24T00:00:00">JUL 24, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/what-to-consider-when-sharing-your-financial-data/">
+                        <span class="h4 u-mb0">
+                            What to consider when sharing your financial data
                         </span>
                     </a>
                 </td>
@@ -3562,27 +3562,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/coprestatario-de-prestamo-estudiantil-covid-19/">
-                        <span class="h4 u-mb0">
-                            ¿Es usted el coprestatario de un préstamo estudiantil privado? Le tenemos consejos para que se proteja durante la pandemia del COVID-19
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-22T00:00:00">JUL 22, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -3594,6 +3573,27 @@
                     <a href="/about-us/newsroom/cfpb-host-symposium-july-29/">
                         <span class="h4 u-mb0">
                             CFPB to Host Symposium July 29
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-22T00:00:00">JUL 22, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/coprestatario-de-prestamo-estudiantil-covid-19/">
+                        <span class="h4 u-mb0">
+                            ¿Es usted el coprestatario de un préstamo estudiantil privado? Le tenemos consejos para que se proteja durante la pandemia del COVID-19
                         </span>
                     </a>
                 </td>
@@ -3646,27 +3646,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/report-synthesizes-evidence-based-strategies-build-emergency-savings/">
-                        <span class="h4 u-mb0">
-                            New report synthesizes evidence-based strategies to build emergency savings
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=report"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
@@ -3688,17 +3667,17 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
+        <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Press release
+        Blog
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-announces-new-consumer-complaint-database-capability/">
+                    <a href="/about-us/blog/report-synthesizes-evidence-based-strategies-build-emergency-savings/">
                         <span class="h4 u-mb0">
-                            CFPB Announces New Capability for the Consumer Complaint Database, Expands Ability to View Complaint Data Over Time
+                            New report synthesizes evidence-based strategies to build emergency savings
                         </span>
                     </a>
                 </td>
@@ -3720,6 +3699,27 @@
                     <a href="/about-us/blog/closing-remarks-consumer-financial-protection-week/">
                         <span class="h4 u-mb0">
                             Closing remarks: Consumer Financial Protection Week
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-announces-new-consumer-complaint-database-capability/">
+                        <span class="h4 u-mb0">
+                            CFPB Announces New Capability for the Consumer Complaint Database, Expands Ability to View Complaint Data Over Time
                         </span>
                     </a>
                 </td>
