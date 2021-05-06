@@ -1356,8 +1356,8 @@
   <option value="consumer-complaints">Consumer complaints</option>
   <option value="financial-education">Financial education</option>
   <option value="debt-collection">Debt collection</option>
-  <option value="financial-well-being">Financial well-being</option>
   <option value="mortgages">Mortgages</option>
+  <option value="financial-well-being">Financial well-being</option>
   <option value="student-loans">Student loans</option>
   <option value="credit-cards">Credit cards</option>
   <option value="supervision">Supervision</option>
@@ -1370,8 +1370,8 @@
   <option value="access-to-credit">Access to credit</option>
   <option value="enforcement">Enforcement</option>
   <option value="fair-lending">Fair lending</option>
-  <option value="banking">Banking</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="banking">Banking</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="youth">Youth</option>
   <option value="credit-card-act">Credit CARD Act</option>
@@ -1404,12 +1404,12 @@
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="procurement">Procurement</option>
   <option value="retirement">Retirement</option>
+  <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="libraries">Libraries</option>
   <option value="medical-debt">Medical debt</option>
-  <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="credit-unions">Credit unions</option>
   <option value="business-loans">Business loans</option>
   <option value="arbitration">Arbitration</option>
@@ -1496,13 +1496,142 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">406 filtered results</div>
+          <div class="h4 m-notification_message">409 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        To Congress
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-10-08T00:00:00">OCT 08, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/semi-annual-report-spring-2019/">
+                    Semi-Annual Report Spring 2019
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Spring 2019 Semi-Annual Report of the Bureau of Consumer Financial Protection.<br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Open government
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Consumer education and empowerment
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-10-03T00:00:00">OCT 03, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/market-snapshot-background-screening-reports/">
+                    Market Snapshot: Background Screening Reports
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p><span>This report describes the background screening industry and developments in the market. While background screening reports can include various types of information and be used for several purposes, this paper focuses on reports used for employment purposes that include criminal history information.</span><br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Research
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Data
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Industry and markets
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-09-25T00:00:00">SEP 25, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/quarterly-consumer-credit-trends-consumer-bankruptcy-bapcpa-great-recession/">
+                    Quarterly Consumer Credit Trends: Consumer Bankruptcy, BAPCPA, and the Great Recession
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Quarterly consumer credit trends reports focus on a specific consumer financial product or issue using a longitudinal, nationally-representative sample of de-identified credit records maintained by a nationwide credit reporting company.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Research
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Data
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2845,175 +2974,6 @@ identified by a range of stakeholders.</span></p>
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        To Congress
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-03-30T00:00:00">MAR 30, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/no-fear-act-annual-report-fiscal-year-fy-2018/">
-                    No FEAR Act annual report for fiscal year (FY) 2018
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p><span>The
-CFPB presents its Notification and Federal Employee Antidiscrimination and
-Retaliation Act of 2002 (No FEAR Act) Annual Report of Fiscal Year (FY) 2018.</span><br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Open government
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=discrimination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Discrimination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=people-with-disabilities" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    People with disabilities
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Diversity and inclusion
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Consumer complaint
-</span>
-                            <span class="m-meta-header_separator">|</span>
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        To Congress
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-03-29T00:00:00">MAR 29, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/2018-consumer-response-annual-report/">
-                    2018 Consumer Response annual report
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p><span>We began consumer response operations on July 21, 2011 as the nation’s first federal agency specifically mandated to protect American consumers in the financial marketplace.</span></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        To Congress
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-03-20T00:00:00">MAR 20, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/fair-debt-collection-practices-act-annual-report-2019/">
-                    Fair Debt Collection Practices Act Annual Report 2019
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p><span>The
-Bureau, along with its partners at the Federal Trade Commission, is pleased to
-submit to Congress its annual report summarizing their 2018 activities to
-administer the Fair Debt Collection Practices Act (“FDCPA”).</span></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-debt-collection-practices-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Debt Collection Practices Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=financial-education" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial education
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3127,6 +3087,18 @@ administer the Fair Debt Collection Practices Act (“FDCPA”).</span></p>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/making-ends-meet-series-consumer-use-payday-auto-title-pawn-loans/">
+                        Making Ends Meet series: Consumer use of payday, auto title, and pawn loans
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-05-05T00:00:00">MAY 05, 2021</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/making-ends-meet-series-changes-in-consumer-financial-status-during-early-months-pandemic/">
                         Making Ends Meet series: Changes in consumer financial status during the early months of the pandemic
                     </a>
@@ -3145,18 +3117,6 @@ administer the Fair Debt Collection Practices Act (“FDCPA”).</span></p>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2020-12-17T00:00:00">DEC 17, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/new-report-explores-prevalence-actual-payment-information-consumer-credit-reporting/">
-                        New report explores the prevalence of actual payment information in consumer credit reporting
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
 </span>
                 </p>
             </li>

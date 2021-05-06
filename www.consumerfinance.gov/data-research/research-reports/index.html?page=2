@@ -1404,12 +1404,12 @@
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="procurement">Procurement</option>
   <option value="retirement">Retirement</option>
+  <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="libraries">Libraries</option>
   <option value="medical-debt">Medical debt</option>
-  <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="credit-unions">Credit unions</option>
   <option value="business-loans">Business loans</option>
   <option value="arbitration">Arbitration</option>
@@ -1496,7 +1496,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">408 filtered results</div>
+          <div class="h4 m-notification_message">409 filtered results</div>
       </div>
   </div>
         </div>
@@ -1528,6 +1528,75 @@
             </h3>
                 <div class="o-post-preview_description">
                     <p>This report describes the TRID Rule, the market, and the Bureau’s findings on the Rule’s effectiveness in meeting factors outlined in Dodd-Frank.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgage origination
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Research
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=truth-in-lending-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Truth in Lending Act (TILA)
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Real Estate Settlement Procedures Act (RESPA)
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=mortgage-closing" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgage closing
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Data point
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-10-01T00:00:00">OCT 01, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/data-point-how-mortgages-change-before-origination/">
+                    Data point: How mortgages change before origination
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>This Data Point provides new information about the types of changes that occur during the mortgage origination process.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
@@ -1647,39 +1716,9 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=money-transfers" class="tags_link">
+                <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Money transfers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Credit Reporting Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
+                    Home Mortgage Disclosure Act
                 </a>
             </li>
             <li class="tags_tag">
@@ -1689,9 +1728,39 @@
                 </a>
             </li>
             <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
+                    Debt collection
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgage servicing
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair Credit Reporting Act
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair lending
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=money-transfers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Money transfers
                 </a>
             </li>
     </ul>
@@ -2824,63 +2893,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        To Congress
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-03-30T00:00:00">MAR 30, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/no-fear-act-annual-report-fiscal-year-2019/">
-                    No FEAR Act Annual Report for fiscal year 2019
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The CFPB presents its Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act) Annual Report of Fiscal Year (FY) 2019.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Open government
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=discrimination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Discrimination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=personnel" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Personnel
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Diversity and inclusion
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2994,6 +3006,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/making-ends-meet-series-consumer-use-payday-auto-title-pawn-loans/">
+                        Making Ends Meet series: Consumer use of payday, auto title, and pawn loans
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-05-05T00:00:00">MAY 05, 2021</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/making-ends-meet-series-changes-in-consumer-financial-status-during-early-months-pandemic/">
                         Making Ends Meet series: Changes in consumer financial status during the early months of the pandemic
                     </a>
@@ -3012,18 +3036,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2020-12-17T00:00:00">DEC 17, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/new-report-explores-prevalence-actual-payment-information-consumer-credit-reporting/">
-                        New report explores the prevalence of actual payment information in consumer credit reporting
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
 </span>
                 </p>
             </li>
