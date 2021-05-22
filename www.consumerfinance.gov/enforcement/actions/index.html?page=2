@@ -1519,13 +1519,39 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">289 filtered results</div>
+          <div class="h4 m-notification_message">290 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2020-10-27T00:00:00">OCT 27, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/washington-federal-na/">
+                    Washington Federal, N.A.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>On October 27, 2020, the Consumer Financial Protection Bureau (Bureau) settled with Washington Federal Bank, N.A., a federally insured, for-profit national bank headquartered in Seattle, Washington.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2142,32 +2168,6 @@
             </h3>
                 <div class="o-post-preview_description">
                     <p>On May 22, 2020, the Bureau and Commonwealth of Massachusetts Attorney General Maura Healey jointly filed a lawsuit against Commonwealth Equity Group, LLC, which does business as Key Credit Repair, and Nikitas Tsoukales (also known as Nikitas Tsoukalis), Key Credit Repair’s president and owner.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2020-05-11T00:00:00">MAY 11, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/specialized-loan-servicing-llc/">
-                    Specialized Loan Servicing, LLC
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>On May 11 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Specialized Loan Servicing, LLC (SLS), a mortgage-loan servicer in Colorado.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
