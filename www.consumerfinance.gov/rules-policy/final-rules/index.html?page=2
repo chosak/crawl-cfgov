@@ -1518,13 +1518,71 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">105 filtered results</div>
+          <div class="h4 m-notification_message">106 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Final rule
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                        <span class="datetime"><time class="datetime_date" datetime="2020-05-11T00:00:00">MAY 11, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/final-rules/electronic-fund-transfers-regulation-e/">
+                    Electronic Fund Transfers (Regulation E); Amendments
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Regulation E implements the Electronic Fund Transfer Act. It regulates electronic fund transfers, prepaid accounts, remittance transfers, gift cards and gift certificates.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=money-transfers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1551,50 +1609,52 @@
                     <p>The Bureau of Consumer Financial Protection (Bureau) is issuing this interpretive rule to provide guidance to creditors and other covered persons involved in the mortgage origination process in light of the COVID-19 pandemic.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-closing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage closing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Real Estate Settlement Procedures Act (RESPA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage origination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=disasters-and-emergencies" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1625,20 +1685,22 @@
                     <p>The final rule adjusts Regulation C’s institutional and transactional coverage thresholds for closed-end mortgage loans and open-end lines of credit.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1669,38 +1731,40 @@
                     <p>The Bureau is issuing this interpretive rule to provide guidance to government agencies distributing aid to consumers in response to the COVID-19 pandemic.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Electronic payments
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=prepaid-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Prepaid cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation E
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=disasters-and-emergencies" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1731,14 +1795,16 @@
                     <p>Policy statement to announce a new Bureau guidance designation, known as “Compliance Aids,” and to explain the legal status of that guidance designation.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=compliance" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Compliance
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=compliance" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1769,32 +1835,34 @@
                     <p>The Bureau is amending the official commentary that interprets the requirements of the Bureau’s Regulation Z (Truth in Lending) to reflect a change in the asset-size threshold for certain creditors to qualify for an exemption to the requirement to establish an escrow account for a higher-priced mortgage loan based on the annual percentage change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) for the 12-month period ending in November.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1825,32 +1893,34 @@
                     <p>The Bureau of Consumer Financial Protection (Bureau) is issuing a final rule amending the official commentary that interprets the requirements of the Bureau&#x27;s Regulation C (Home Mortgage Disclosure) to reflect the asset-size exemption threshold for banks, savings associations, and credit unions based on the annual percentage change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W).</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1881,20 +1951,22 @@
                     <p>The Bureau of Consumer Financial Protection (Bureau) announces that the ceiling on allowable charges under section 612(f) of the Fair Credit Reporting Act (FCRA) will increase to $13.00, effective for 2021.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=fair-credit-reporting-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Credit Reporting Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=fair-credit-reporting-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1925,38 +1997,40 @@
                     <p>This interpretive rule construes Regulation Z, which implements the Truth in Lending Act (TILA).  </p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=regulation-g" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation G
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage origination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=regulation-h" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation H
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=regulation-g" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation G
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=regulation-h" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation H
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1987,20 +2061,22 @@
                     <p>The Bureau is amending Regulation C to extend to January 1, 2022 the threshold of 500 open-end lines of credit for reporting data about open-end lines of credit and to incorporate into Regulation C the partial exemptions created by the Economic Growth, Regulatory Relief, and Consumer Protection Act.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2031,20 +2107,22 @@
                     <p>The Board of Governors of the Federal Reserve System and the Consumer Financial Protection Bureau are amending Regulation CC, which implements the Expedited Funds Availability Act, to adjust dollar amounts to inflation and to extend coverage to American Samoa, the Commonwealth of the Northern Mariana Islands, and Guam.  </p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2075,68 +2153,70 @@
                     <p>The Bureau has issued this final rule to delay the August 19, 2019 compliance date for the mandatory underwriting provisions of the regulation promulgated by the Bureau in November 2017 governing Payday, Vehicle Title, and Certain High-Cost Installment Loans.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=payday-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Payday loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=auto-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Auto loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=small-dollar-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Small-dollar loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=compliance" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Compliance
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=add-on-products" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Add-on products
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Electronic payments
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=payday-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=auto-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=small-dollar-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Small-dollar loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=compliance" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=add-on-products" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Add-on products
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2167,44 +2247,46 @@
                     <p>The Bureau is issuing technical specifications for submissions of prepaid account agreements, as required by the Bureau’s 2016 final rule regarding prepaid accounts (as subsequently amended).</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Electronic payments
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=prepaid-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Prepaid cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation E
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=credit-card-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit CARD Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=credit-card-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2235,20 +2317,22 @@
                     <p>This final rule amends the procedures used to obtain information from the Bureau under the FOIA, the Privacy Act of 1974, and in legal proceedings.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Privacy
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=foia" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    FOIA
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Privacy
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=foia" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                FOIA
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2279,26 +2363,28 @@
                     <p>The Bureau is issuing an interim final rule to update the Bureau’s model forms for the Summary of Consumer Identity Theft Rights and the Summary of Consumer Rights in Appendices I and K to Regulation V to incorporate a notice required by new Fair Credit Reporting Act section 605A(i)(5), added by the Economic Growth, Regulatory Relief, and Consumer Protection Act.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=identity-theft-fraud" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Identity theft and fraud
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=fair-credit-reporting-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Credit Reporting Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=identity-theft-fraud" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Identity theft and fraud
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=fair-credit-reporting-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2329,20 +2415,22 @@
                     <p>The Bureau is issuing an interpretive and procedural rule to implement and clarify the requirements of section 104(a) of the Economic Growth, Regulatory Relief, and Consumer Protection Act, which amended certain provisions of the Home Mortgage Disclosure Act. </p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2373,26 +2461,28 @@
                     <p>The Bureau of Consumer Financial Protection (Bureau) is amending Regulation P to implement a December 2015 statutory amendment to the Gramm-Leach-Bliley Act providing an exception to the annual notice requirement, for financial institutions that meet certain conditions.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=regulation-p" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation P
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Privacy
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=regulation-p" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation P
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Privacy
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2423,44 +2513,46 @@
                     <p>The Bureau is amending Federal mortgage disclosure requirements under RESPA and TILA that are implemented in Regulation Z. <br/></p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage origination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-closing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage closing
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2491,32 +2583,34 @@
                     <p>The Bureau of Consumer Financial Protection (Bureau) issued a rule amending certain Regulation Z mortgage servicing rules issued in 2016 relating to periodic statements.  These amendments revise the timing requirements for servicers transitioning between modified or unmodified periodic statements and coupon books in connection with a consumer’s bankruptcy case.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2547,44 +2641,46 @@
                     <p>The Bureau is finalizing amendments to its rule governing prepaid accounts under Regulations E and Z that make modifications to several aspects of that rule and extend the overall effective date of the rule to April 1, 2019.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Electronic payments
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=prepaid-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Prepaid cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation E
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=credit-card-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit CARD Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=credit-card-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2608,32 +2704,34 @@
                     <p>The Bureau is publishing a Federal Register notice pursuant to section 706(e) of the Equal Credit Opportunity Act concerning the update of the redesigned Uniform Residential Loan Application (URLA) to include an applicant language preference question.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=equal-credit-opportunity-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Equal Credit Opportunity Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=fair-lending" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2664,68 +2762,70 @@
                     <p>The Bureau of Consumer Financial Protection has issued this final rule to create consumer protections for payday loans, and for certain vehicle title and high-cost installment loans.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=payday-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Payday loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=auto-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Auto loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=small-dollar-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Small-dollar loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=compliance" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Compliance
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=add-on-products" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Add-on products
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Electronic payments
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=payday-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=auto-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=small-dollar-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Small-dollar loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=compliance" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=add-on-products" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Add-on products
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2756,50 +2856,52 @@
                     <p>The Bureau issued an interim final rule amending a provision in Regulation X that it issued in 2016 relating to the timing for mortgage servicers to provide modified written early intervention notices to borrowers who have invoked their cease communication rights under the Fair Debt Collection Practices Act.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=fair-debt-collection-practices-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Debt Collection Practices Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Real Estate Settlement Procedures Act (RESPA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=foreclosure" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Foreclosure
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=fair-debt-collection-practices-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Debt Collection Practices Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=foreclosure" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Foreclosure
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2830,32 +2932,34 @@
                     <p>The Bureau of Consumer Financial Protection is issuing a final rule that amends Regulation B to permit creditors additional flexibility in complying with Regulation B in order to facilitate compliance with Regulation C, adds certain model forms and removes others from Regulation B, and makes various other amendments to Regulation B and its commentary to facilitate the collection and retention of information about the ethnicity, sex, and race of certain mortgage applicants.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=equal-credit-opportunity-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Equal Credit Opportunity Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2886,64 +2990,16 @@
                     <p>The Bureau has issued this final rule to amend the Supplemental Standards of Ethical Conduct for Employees of the Consumer Financial Protection Bureau.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=personnel" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Personnel
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Final rule
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                        <span class="datetime"><time class="datetime_date" datetime="2017-07-10T00:00:00">JUL 10, 2017</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/final-rules/arbitration-agreements/">
-                    Arbitration agreements
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Pursuant to section 1028(b) of the Dodd-Frank Act, the Bureau issued a final rule establishing 12 CFR part 1040 to regulate arbitration agreements in contracts for specified consumer financial product and services.  </p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=arbitration" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Arbitration
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=personnel" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Personnel
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -3094,24 +3150,24 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
-                       href="/about-us/newsroom/prepared-remarks-acting-director-uejio-afrs-celebration-cfpbs-10th-birthday/">
-                        Prepared Remarks of Acting Director Uejio For AFR’s Celebration of the CFPB’s 10th Birthday
+                       href="/about-us/newsroom/cfpb-issues-interpretive-rule-on-certain-mortgage-and-disclosure-timing-requirements-for-the-2021-juneteenth-federal-holiday/">
+                        CFPB Issues Interpretive Rule on Certain Mortgage and Disclosure Timing Requirements for the 2021 Juneteenth Federal Holiday
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2021-07-19T00:00:00">JUL 19, 2021</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2021-08-05T00:00:00">AUG 05, 2021</time>
 </span>
                 </p>
             </li>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
-                       href="/about-us/newsroom/manufactured-housing-loan-borrowers-face-higher-interest-rates-risks-and-barriers-to-credit/">
-                        Manufactured Housing Loan Borrowers Face Higher Interest Rates, Risks, and Barriers to Credit, New CFPB Report Finds
+                       href="/about-us/newsroom/prepared-remarks-acting-director-uejio-afrs-celebration-cfpbs-10th-birthday/">
+                        Prepared Remarks of Acting Director Uejio For AFR’s Celebration of the CFPB’s 10th Birthday
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2021-05-27T00:00:00">MAY 27, 2021</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2021-07-19T00:00:00">JUL 19, 2021</time>
 </span>
                 </p>
             </li>

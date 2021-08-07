@@ -1499,14 +1499,16 @@
                     <p>Fall 2020 Semi-Annual Report of the Bureau of Consumer Financial Protection.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Open government
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Open government
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1538,38 +1540,40 @@
                     <p>This is a special edition of Supervisory Highlights that details the Bureau’s Prioritized Assessment (PA) work. PA observations are described in the areas of mortgage, auto and student loan servicing, credit card account management, consumer reporting-furnishing, debt collection, deposits, prepaid cards, and small business lending.</p><p>The report does not impose any new or different legal requirements, and all observations described in the report are based only on those specific facts and circumstances noted during those PAs.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=prepaid-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Prepaid cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Supervision
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1601,14 +1605,16 @@
                     <p>The Consumer Financial Protection Bureau Taskforce on Federal Consumer Financial Law released a report with recommendations on how to improve consumer protection in the financial marketplace.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=taskforce-on-federal-consumer-financial-law" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Taskforce on Federal Consumer Financial Law
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=taskforce-on-federal-consumer-financial-law" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Taskforce on Federal Consumer Financial Law
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1640,56 +1646,58 @@
                     <p>The 2020 Financial Literacy Annual Report of the Consumer Financial Protection Bureau details the Bureau’s financial literacy activities and strategy to improve the financial literacy of consumers. Overall, this report describes the Bureau’s efforts in a broad range of financial literacy areas relevant to consumers’ financial lives.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=servicemembers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Servicemembers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=older-americans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Older Americans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=financial-education" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial education
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=youth" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Youth
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=financial-well-being" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial well-being
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=financial-coaching" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial coaching
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=servicemembers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=older-americans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Older Americans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=financial-education" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial education
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=youth" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Youth
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Student loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=financial-well-being" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial well-being
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=financial-coaching" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial coaching
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1721,14 +1729,16 @@
                     <p>This report provides an overview of the Bureau’s publicly available website and digital services, in accordance with the reporting requirements of the 21st Century Integrated Digital Experience Act or the 21st Century IDEA (Public Law No. 115-336).</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Open government
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Open government
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1760,38 +1770,40 @@
                     <p>This report explores the prevalence of actual payment information in consumer credit reporting.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Credit Reporting Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1823,20 +1835,22 @@
                     <p>This report is a follow-on study to our <a href="/data-research/research-reports/financially-fit-comparing-credit-records-young-servicemembers-civilians/">Financially Fit research report</a>. Rather than focus on the credit histories of young servicemembers, this study takes a closer look at the credit records of young veterans in the first year after separation from the military.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=servicemembers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Servicemembers
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=servicemembers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1868,38 +1882,40 @@
                     <p>2020 Bureau of Consumer Financial Protection (CFPB/BCFP) report on college credit card agreements.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=students" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Students
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-card-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit CARD Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=students" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Students
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-card-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1931,20 +1947,22 @@
                     <p>Children’s Savings Account (CSA) programs provide children and families with long-term savings or investment accounts and incentives to save for postsecondary education.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=saving" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Saving
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=saving" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Saving
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -1976,44 +1994,46 @@
                     <p>This Data Point provides new information about the types of changes that occur during the mortgage origination process.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage origination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Real Estate Settlement Procedures Act (RESPA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-closing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage closing
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2045,44 +2065,46 @@
                     <p>This report describes the TRID Rule, the market, and the Bureau’s findings on the Rule’s effectiveness in meeting factors outlined in Dodd-Frank.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage origination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Real Estate Settlement Procedures Act (RESPA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-closing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage closing
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2114,20 +2136,22 @@
                     <p>The Office of Research released a research brief that explores consumers’ perceived financial preparedness, saving habits, and financial security.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=saving" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Saving
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=saving" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Saving
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2159,56 +2183,58 @@
                     <p>In this edition of <i>Supervisory Highlights</i>, we report examination findings in the areas of consumer reporting, debt collection, deposits, fair lending, mortgage servicing and payday lending. The report does not impose any new or different legal requirements, and all violations described in the report are based only on those specific facts and circumstances noted during those examinations.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-debt-collection-practices-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Debt Collection Practices Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Credit Reporting Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=money-transfers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Money transfers
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=fair-debt-collection-practices-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Debt Collection Practices Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Supervision
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=money-transfers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2240,14 +2266,16 @@
                     <p>This is the seventh report on the Bureau’s compliance with the Plain Language Act of 2010.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=compliance" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Compliance
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=compliance" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2279,50 +2307,52 @@
                     <p>This second COVID-19 Special Issue Brief describes trends in delinquency rates, payment assistance, credit access, and account balance measures with a focus on the period since the start of the COVID-19 pandemic.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=auto-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Auto loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=auto-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Student loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=disasters-and-emergencies" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2354,32 +2384,34 @@
                     <p>The goal of this article is to help the public become more familiar with the new and revised data points in the 2019 HMDA data and to provide some initial observations about the nation’s mortgage market in 2019 using those new and revised data points. As in last year’s article, the focus of this article is on cross-sectional analyses, i.e. using the data contained in one year’s loan application registrar (LAR) to explore various patterns and relationships between different data fields to provide some initial observations.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage origination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2411,20 +2443,22 @@
                     <p>This report summarizes the Bureau’s February 26, 2020, symposium on Consumer Access to Financial Records and Section 1033 of the Dodd-Frank Act.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Innovation
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Innovation
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2456,20 +2490,22 @@
                     <p>The Office of Research released a report that synthesizes the rigorous research of programs and strategies aiming to help consumers achieve greater liquid savings.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=saving" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Saving
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=saving" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Saving
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2501,26 +2537,28 @@
                     <p>This Complaint Bulletin reflects complaint data from complaints submitted in 2020 and highlights trends in complaints mentioning coronavirus keywords.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Consumer complaints
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=disasters-and-emergencies" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2552,20 +2590,22 @@
                     <p>This report uses a representative sample of young servicemembers’ credit reports to show how their credit histories evolve from the time they turn 18 until their mid-twenties. It also compares servicemembers to a cohort of same-age civilians.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=servicemembers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Servicemembers
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=servicemembers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2597,20 +2637,22 @@
                     <p>Credit Builder Loans are designed for consumers looking to establish a credit score or improve an existing one, while at the same time giving them a chance to build their savings.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2642,20 +2684,22 @@
                     <p>This report summarizes the initial results from the Making Ends Meet survey, a nationally representative survey of adults with a credit record developed by the CFPB’s Office of Research.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2687,38 +2731,40 @@
                     <p>Quarterly consumer credit trends reports focus on a specific consumer financial product or issue using a longitudinal, nationally representative sample of de-identified credit records maintained by a nationwide consumer reporting agency.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2750,14 +2796,16 @@
                     <p>Spring 2020 Semi-Annual Report of the Bureau of Consumer Financial Protection.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Open government
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Open government
+            </a>
+        </li>
     </ul>
 </div>
         </div>
@@ -2789,32 +2837,34 @@
                     <p>2019 HMDA Mortgage Market Activity and Trends summarizes the historical data points in the 2019 HMDA data, as well as recent trends in mortgage and housing markets.</p>
                 </div>
 <div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage origination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
-                </a>
-            </li>
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
     </ul>
 </div>
         </div>
