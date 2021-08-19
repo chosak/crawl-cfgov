@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.38440ca23789.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.116c2ae772cc.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -231,12 +231,15 @@
             aria-haspopup="menu">
         <span class="o-mega-menu_trigger-open">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 19" class="cf-icon-svg"><path d="M.789 4.836a1.03 1.03 0 0 1 1.03-1.029h10.363a1.03 1.03 0 1 1 0 2.059H1.818A1.03 1.03 0 0 1 .79 4.836zm12.422 4.347a1.03 1.03 0 0 1-1.03 1.029H1.819a1.03 1.03 0 0 1 0-2.059h10.364a1.03 1.03 0 0 1 1.029 1.03zm0 4.345a1.03 1.03 0 0 1-1.03 1.03H1.819a1.03 1.03 0 1 1 0-2.059h10.364a1.03 1.03 0 0 1 1.029 1.03z"/></svg>
+            <span class="u-visually-hidden">
+                Open the main menu
+            </span>
         </span>
         <span class="o-mega-menu_trigger-close">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 19" class="cf-icon-svg"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
-        </span>
-        <span class="u-visually-hidden">
-            Main menu
+            <span class="u-visually-hidden">
+                Close the main menu
+            </span>
         </span>
     </button>
 <div class="o-mega-menu_content o-mega-menu_content-1 "
@@ -1307,8 +1310,8 @@
                 </label>
                 <select name="topics" id="o-filterable-list-controls_topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
-  <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
   <option value="video">Video</option>
+  <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
   <option value="academic-research-council">Academic Research Council</option>
   <option value="financial-education">Financial education</option>
@@ -1414,69 +1417,13 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">133 filtered results</div>
+          <div class="h4 m-notification_message">132 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    On
-                        <span class="datetime"><time class="datetime_date" datetime="2016-03-24T15:00:00-0400">MAR 24, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-                <div class="o-post-preview_image-container">
-                        <img class="o-post-preview_image"
-                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-77.0366,38.895,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
-                             alt="">
-                </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Mar"
-                      data-day="24"
-                      datetime="Thu 24 Mar 2016 03:00:00 PM EDT"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/spring-2016-credit-union-advisory-council-meeting-washington-dc/">
-                    Spring 2016 Credit Union Advisory Council meeting in Washington, DC
-                </a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                        Washington, DC
-                            Consumer Financial Protection Bureau
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2016-03-24T15:00:00-0400">MAR 24, 2016</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2016-03-24T15:00:00-0400">
-        03:00 PM EDT
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    Join us for a Credit Union Advisory Council meeting with Director Cordray where we will discuss the CFPB’s strategic outlook and elder financial abuse.
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit Union Advisory Council
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2655,6 +2602,49 @@
         </li>
     </ul>
 </div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    On
+                        <span class="datetime"><time class="datetime_date" datetime="2014-09-18T11:00:00-0400">SEP 18, 2014</time>
+</span>
+                </span>
+            </div>
+        </div>
+                <div class="o-post-preview_image-container">
+                        <img class="o-post-preview_image"
+                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-86.1584,39.7683,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
+                             alt="">
+                </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="Sep"
+                      data-day="18"
+                      datetime="Thu 18 Sep 2014 11:00:00 AM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/field-hearing-on-auto-finance/">
+                    Field hearing on auto finance in Indianapolis, IN
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                        Indianapolis, IN
+                            Indiana University - Purdue University Indianapolis
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2014-09-18T11:00:00-0400">SEP 18, 2014</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2014-09-18T11:00:00-0400">
+        11:00 AM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p>After taking action against banks for discriminatory practices in auto lending, the CFPB announced a proposal to oversee larger nonbank auto finance companies. </p>
+                </div>
         </div>
     </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
