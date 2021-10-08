@@ -1336,10 +1336,10 @@
   <option value="banking">Banking</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="mortgage-origination">Mortgage origination</option>
-  <option value="youth">Youth</option>
   <option value="credit-card-act">Credit CARD Act</option>
-  <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
+  <option value="youth">Youth</option>
   <option value="auto-loans">Auto loans</option>
+  <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="compliance">Compliance</option>
@@ -1467,13 +1467,119 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">426 filtered results</div>
+          <div class="h4 m-notification_message">428 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Data point
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-08-27T00:00:00">AUG 27, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/revised-data-points-hmda/">
+                    An updated review of the new and revised data points in HMDA: Further observations using the 2019 HMDA data
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The goal of this article is to help the public become more familiar with the new and revised data points in the 2019 HMDA data and to provide some initial observations about the nation’s mortgage market in 2019 using those new and revised data points. As in last year’s article, the focus of this article is on cross-sectional analyses, i.e. using the data contained in one year’s loan application registrar (LAR) to explore various patterns and relationships between different data fields to provide some initial observations.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Industry and markets
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-24T00:00:00">JUL 24, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/bureau-symposium-consumer-access-financial-records-summary-proceedings/">
+                    Bureau Symposium: Consumer Access to Financial Records, a summary of the proceedings
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>This report summarizes the Bureau’s February 26, 2020, symposium on Consumer Access to Financial Records and Section 1033 of the Dodd-Frank Act.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Innovation
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2712,136 +2818,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Supervisory Highlights
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-02-14T00:00:00">FEB 14, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/supervisory-highlights-winter-2020/">
-                    Supervisory Highlights, Issue No. 21 (Winter 2020)
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>In this issue of <i>Supervisory Highlights</i>, we report examination findings in the areas of debt collection, mortgage servicing, payday lending, and student loan servicing that were completed between April 2019 and August 2019. The report does not impose any new or different legal requirements, and all violations described in the report are based only on those specific facts and circumstances noted during those examinations.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Debt Collection Practices Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=payday-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Payday loans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Supervision
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        To Congress
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-02-03T00:00:00">FEB 03, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/semi-annual-report-fall-2019/">
-                    Semi-Annual Report Fall 2019
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p><span>Fall 2019 Semi-Annual Report of the Bureau of Consumer Financial Protection</span></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Open government
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2955,6 +2931,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/comparing-auto-loans-borrowers-with-subprime-credit-scores/">
+                        Comparing auto loans for borrowers with subprime credit scores
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-09-30T00:00:00">SEP 30, 2021</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/credit-access-declined-during-pandemic-for-credit-cards-increased-for-mortgages-and-auto-loans/">
                         Credit access declined during the pandemic for credit cards, but increased for mortgages and auto loans
                     </a>
@@ -2973,18 +2961,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2021-08-11T00:00:00">AUG 11, 2021</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/credit-card-use-still-declining-compared-to-pre-pandemic-levels/">
-                        Credit card use is still declining compared to pre-pandemic levels
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2021-07-30T00:00:00">JUL 30, 2021</time>
 </span>
                 </p>
             </li>
