@@ -1790,33 +1790,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgage-closing" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Disasters and emergencies
             </a>
         </li>
         <li class="tags_tag">
@@ -1826,9 +1802,33 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=disasters-and-emergencies" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
             </a>
         </li>
     </ul>
