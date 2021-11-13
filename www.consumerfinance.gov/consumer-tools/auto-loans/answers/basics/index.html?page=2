@@ -1321,6 +1321,9 @@
         <section class="results">
             <div class="page-links">
             <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/843" href="/ask-cfpb/can-i-prepay-my-loan-at-any-time-without-penalty-en-843/">Can I prepay my loan at any time without penalty?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/841" href="/ask-cfpb/whats-the-difference-between-a-simple-interest-rate-and-precomputed-interest-in-an-auto-loan-contract-en-841/">What's the difference between a simple interest rate and precomputed interest in an auto loan contract?</a></div>
             </article>
             <article>
@@ -1391,9 +1394,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/785" href="/ask-cfpb/will-an-auto-loan-help-me-rebuild-my-credit-en-785/">Will an auto loan help me rebuild my credit?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/783" href="/ask-cfpb/what-are-manufacturer-incentives-en-783/">What are manufacturer incentives?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
