@@ -1389,14 +1389,14 @@
   <option value="financial-well-being">Financial well-being</option>
   <option value="fair-lending">Fair lending</option>
   <option value="financial-service-providers">Financial service providers</option>
-  <option value="mortgage-origination">Mortgage origination</option>
   <option value="discrimination">Discrimination</option>
+  <option value="mortgage-origination">Mortgage origination</option>
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
   <option value="innovation">Innovation</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
-  <option value="checking-account">Checking account</option>
   <option value="money-transfers">Money transfers</option>
   <option value="prepaid-cards">Prepaid cards</option>
+  <option value="checking-account">Checking account</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
@@ -1409,8 +1409,8 @@
   <option value="regulation-e">Regulation E</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="overdrafts">Overdrafts</option>
   <option value="arbitration">Arbitration</option>
+  <option value="overdrafts">Overdrafts</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="electronic-payments">Electronic payments</option>
   <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
@@ -1418,10 +1418,10 @@
   <option value="youth">Youth</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="saving">Saving</option>
-  <option value="regulation-m">Regulation M</option>
   <option value="financial-coaching">Financial coaching</option>
   <option value="retirement">Retirement</option>
   <option value="medical-debt">Medical debt</option>
+  <option value="regulation-m">Regulation M</option>
   <option value="business-loans">Business loans</option>
   <option value="add-on-products">Add-on products</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
@@ -1549,158 +1549,13 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1472 filtered results</div>
+          <div class="h4 m-notification_message">1468 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-10-19T00:00:00">OCT 19, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-penalizes-jpay-for-siphoning-taxpayer-funded-benefits-intended-to-help-people-re-enter-society-after-incarceration/">
-                    CFPB Penalizes JPay for Siphoning Taxpayer-Funded Benefits Intended to Help People Re-enter Society After Incarceration
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="mbgvr">The Consumer Financial Protection Bureau (CFPB) today took action against the prison financial services company JPay for violating the Consumer Financial Protection Act by charging consumers fees to access their own money on prepaid debit cards that consumers were forced to use.</p>
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 19" class="cf-icon-svg"><path d="M6.808 11.29a3.19 3.19 0 0 1 .097 1.464 3.236 3.236 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.905 3.905 0 0 1 .26 12.269a4.433 4.433 0 0 1-.052-.653 5.807 5.807 0 0 1 .027-.74 5.497 5.497 0 0 1 .33-1.388 5.684 5.684 0 0 1 1.498-2.193A6.744 6.744 0 0 1 4.41 5.923q.344-.118.699-.201a1.241 1.241 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.624 5.624 0 0 0-1.356.458 4.567 4.567 0 0 0-1.988 1.812 3.05 3.05 0 0 1 .998-.367 3.092 3.092 0 0 1 3.248 1.552 3.057 3.057 0 0 1 .257.611zm8.941.435a3.053 3.053 0 0 1 .038.708 3.185 3.185 0 0 1-1.207 2.265 3.334 3.334 0 0 1-2.609.615 3.375 3.375 0 0 1-2.165-1.35 3.722 3.722 0 0 1-.55-1.085 4.446 4.446 0 0 1-.203-1.224 5.63 5.63 0 0 1 .567-2.656 5.76 5.76 0 0 1 1.598-1.967 6.88 6.88 0 0 1 2.357-1.21 4.863 4.863 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.277 1.277 0 0 1-.542.201 5.487 5.487 0 0 0-1.278.47 4.536 4.536 0 0 0-1.885 1.76 3.051 3.051 0 0 1 1.242-.4 3.098 3.098 0 0 1 3.359 2.631z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Director's statement
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-10-19T00:00:00">OCT 19, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-on-the-jpay-enforcement-action/">
-                    Statement of CFPB Director Rohit Chopra on the JPay Enforcement Action
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="xco0e">Today, the Consumer Financial Protection Bureau has penalized JPay for engaging in unlawful conduct that targeted people released from the corrections system, siphoning off taxpayer-funded benefits and people’s own hard-earned money in the process.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Rohit Chopra</a>
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-10-14T00:00:00">OCT 14, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-ftc-and-north-carolina-department-of-justice-file-amicus-brief-in-henderson-v-the-source-for-public-data-lp/">
-                    CFPB, FTC and North Carolina Department of Justice File Amicus Brief in Henderson v. The Source for Public Data, L.P.
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="wntf2">Today the Consumer Financial Protection Bureau (CFPB), Federal Trade Commission (FTC) and North Carolina Department of Justice filed an amicus brief in support of the consumer plaintiffs in <i>Henderson v. The Source for Public Data, L.P.</i></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 19" class="cf-icon-svg"><path d="M6.808 11.29a3.19 3.19 0 0 1 .097 1.464 3.236 3.236 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.905 3.905 0 0 1 .26 12.269a4.433 4.433 0 0 1-.052-.653 5.807 5.807 0 0 1 .027-.74 5.497 5.497 0 0 1 .33-1.388 5.684 5.684 0 0 1 1.498-2.193A6.744 6.744 0 0 1 4.41 5.923q.344-.118.699-.201a1.241 1.241 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.624 5.624 0 0 0-1.356.458 4.567 4.567 0 0 0-1.988 1.812 3.05 3.05 0 0 1 .998-.367 3.092 3.092 0 0 1 3.248 1.552 3.057 3.057 0 0 1 .257.611zm8.941.435a3.053 3.053 0 0 1 .038.708 3.185 3.185 0 0 1-1.207 2.265 3.334 3.334 0 0 1-2.609.615 3.375 3.375 0 0 1-2.165-1.35 3.722 3.722 0 0 1-.55-1.085 4.446 4.446 0 0 1-.203-1.224 5.63 5.63 0 0 1 .567-2.656 5.76 5.76 0 0 1 1.598-1.967 6.88 6.88 0 0 1 2.357-1.21 4.863 4.863 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.277 1.277 0 0 1-.542.201 5.487 5.487 0 0 0-1.278.47 4.536 4.536 0 0 0-1.885 1.76 3.051 3.051 0 0 1 1.242-.4 3.098 3.098 0 0 1 3.359 2.631z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Director's statement
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-10-14T00:00:00">OCT 14, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-and-ftc-chair-lina-m-khan-on-amicus-brief-filed-in-henderson-v-the-source-for-public-data-lp/">
-                    Statement of CFPB Director Rohit Chopra and FTC Chair Lina M. Khan on Amicus Brief filed in Henderson v. The Source for Public Data, L.P.
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="xco0e">The Consumer Financial Protection Bureau (CFPB), Federal Trade Commission (FTC), and North Carolina Department of Justice filed an amicus brief today with the U.S. Court of Appeals for the Fourth Circuit to urge the Court to overturn a problematic District Court decision that would undermine the Fair Credit Reporting Act (FCRA) by granting immunity to consumer reporting agencies under Section 230 of the Communications Decency Act. The case is <i>Henderson v. The Source for Public Data, L.P.</i></p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Rohit Chopra</a>
-                    and 
-                    Lina M. Khan</a>
-                </div>
-        </div>
-    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2857,6 +2712,234 @@
             <a href="/about-us/newsroom/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Data
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-07-28T00:00:00">JUL 28, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-releases-online-tool-to-help-renters-and-landlords-access-federal-assistance/">
+                    CFPB Releases Online Tool to Help Renters and Landlords Access Federal Assistance
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau (CFPB) today released an online tool to help renters and landlords impacted by the pandemic easily find and apply for payment assistance for rent, utilities and other expenses.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=disasters-and-emergencies" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial education
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-07-27T00:00:00">JUL 27, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-finds-credit-applications-have-mostly-recovered-to-pre-pandemic-levels/">
+                    CFPB Finds Credit Applications Have Mostly Recovered to Pre-Pandemic Levels
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau (CFPB) today published an issue brief showing that consumer applications for auto loans, new mortgages and revolving credit cards had mostly returned to pre-pandemic levels by May 2021.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=coronavirus" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                coronavirus
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=credit-applications" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit Applications
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=credit-inquiries" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit Inquiries
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=consumer-credit-panel" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Consumer Credit Panel
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 19" class="cf-icon-svg"><path d="M11.665 7.915v1.31a5.257 5.257 0 0 1-1.514 3.694 5.174 5.174 0 0 1-1.641 1.126 5.04 5.04 0 0 1-1.456.384v1.899h2.312a.554.554 0 0 1 0 1.108H3.634a.554.554 0 0 1 0-1.108h2.312v-1.899a5.045 5.045 0 0 1-1.456-.384 5.174 5.174 0 0 1-1.641-1.126 5.257 5.257 0 0 1-1.514-3.695v-1.31a.554.554 0 1 1 1.109 0v1.31a4.131 4.131 0 0 0 1.195 2.917 3.989 3.989 0 0 0 5.722 0 4.133 4.133 0 0 0 1.195-2.917v-1.31a.554.554 0 1 1 1.109 0zM3.77 10.37a2.875 2.875 0 0 1-.233-1.146V4.738A2.905 2.905 0 0 1 3.77 3.58a3 3 0 0 1 1.59-1.59 2.902 2.902 0 0 1 1.158-.233 2.865 2.865 0 0 1 1.152.233 2.977 2.977 0 0 1 1.793 2.748l-.012 4.487a2.958 2.958 0 0 1-.856 2.09 3.025 3.025 0 0 1-.937.634 2.865 2.865 0 0 1-1.152.233 2.905 2.905 0 0 1-1.158-.233A2.957 2.957 0 0 1 3.77 10.37z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Speech
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-07-19T00:00:00">JUL 19, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/prepared-remarks-acting-director-uejio-afrs-celebration-cfpbs-10th-birthday/">
+                    Prepared Remarks of Acting Director Uejio For AFR’s Celebration of the CFPB’s 10th Birthday
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Acting Director Dave Uejio remarks at the Americans for Financial Reform’s Celebration of the CFPB’s 10 Year Anniversary.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=disasters-and-emergencies" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=supervision" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Supervision
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=consumer-complaints" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Consumer complaints
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=payday-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-07-14T00:00:00">JUL 14, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-and-fdic-release-enhanced-version-money-smart-for-older-adults/">
+                    CFPB and FDIC Release Enhanced Version of Money Smart for Older Adults
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau (CFPB) and the Federal Deposit Insurance Corporation (FDIC) today announced the joint release of an enhanced version of the award-winning financial education curriculum, <i>Money Smart for Older Adults.</i> The enhanced version includes a new section to help people avoid “romance scams” and an updated <a class="a-link a-link__icon" data-pretty-href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flnks.gd%2Fl%2FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTA2MTUuNDE5NTUyMDEiLCJ1cmwiOiJodHRwczovL3B1ZWJsby5ncG8uZ292L0NGUEJQdWJzL0NGUEJQdWJzLnBocD9QdWJJRD0xMzAzOSJ9.xEwGkK6KKwTy0X8TYOS73jWObZblPP3u_UQJfeOrs8U%2Fs%2F118161312%2Fbr%2F107941251684-l&amp;data=04%7C01%7CJenefer.Duane%40cfpb.gov%7Cc2fc8b19455f496868b808d93022cffb%7Cc817bf69ef414ed6ac5f1f44da3798c0%7C0%7C0%7C637593748338472156%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=c2fj0kUSoXMG4EVS7TEt%2Fe2fmLdErhefJNoS6L87plM%3D&amp;reserved=0" href="/external-site/?ext_url=https%3A%2F%2Fgcc02.safelinks.protection.outlook.com%2F%3Furl%3Dhttps%253A%252F%252Flnks.gd%252Fl%252FeyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMTA2MTUuNDE5NTUyMDEiLCJ1cmwiOiJodHRwczovL3B1ZWJsby5ncG8uZ292L0NGUEJQdWJzL0NGUEJQdWJzLnBocD9QdWJJRD0xMzAzOSJ9.xEwGkK6KKwTy0X8TYOS73jWObZblPP3u_UQJfeOrs8U%252Fs%252F118161312%252Fbr%252F107941251684-l%26data%3D04%257C01%257CJenefer.Duane%2540cfpb.gov%257Cc2fc8b19455f496868b808d93022cffb%257Cc817bf69ef414ed6ac5f1f44da3798c0%257C0%257C0%257C637593748338472156%257CUnknown%257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%253D%257C1000%26sdata%3Dc2fj0kUSoXMG4EVS7TEt%252Fe2fmLdErhefJNoS6L87plM%253D%26reserved%3D0&amp;signature=N8OmKSM79uYhhIwTg02B4GRuf5w"><span class="a-link_text">resource guide</span> <svg class="cf-icon-svg" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554zM8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>. The enhancements to <i>Money Smart for Older Adults</i> are based on stakeholder feedback and recent research conducted by the FDIC and CFPB for this collaborative effort.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=older-americans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Older Americans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=fraud-and-scams_1" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fraud and scams
             </a>
         </li>
     </ul>
