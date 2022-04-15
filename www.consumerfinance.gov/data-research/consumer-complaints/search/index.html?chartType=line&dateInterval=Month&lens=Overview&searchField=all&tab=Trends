@@ -1214,7 +1214,25 @@
           id="main">
 <div class="wrapper content_wrapper">
     <div class="content_main  ccdb-search"><section class="content_main-inner" >
-  <div id="ccdb-ui-root"></div>
+  <div id="ccdb-ui-root">
+    <div class="js-is-hidden wrapper u-mt60 u-mb60">
+  <div class="m-notification m-notification__error m-notification__visible">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-6.804.01 3.032-3.033a.792.792 0 0 0-1.12-1.12L8.494 9.173 5.46 6.14a.792.792 0 0 0-1.12 1.12l3.034 3.033-3.033 3.033a.792.792 0 0 0 1.12 1.119l3.032-3.033 3.033 3.033a.792.792 0 0 0 1.12-1.12z"/></svg>
+      <div class="m-notification_content"
+          >
+          <div class="h4 m-notification_message">This interactive tool is not supported in your web browser</div>
+              <div class="m-notification_explanation">Please use a newer browser or download the data.</div>
+                  <ul class="m-list m-list__links">
+                      <li class="m-list_item">
+                          <a class="m-list_link" href="/data-research/consumer-complaints/#download-the-data">
+                              Download the data
+                          </a>
+                      </li>
+                  </ul>
+      </div>
+  </div>
+    </div>
+  </div>
         </section>
     </div>
 </div>
