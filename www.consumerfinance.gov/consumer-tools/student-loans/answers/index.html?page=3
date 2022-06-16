@@ -1345,13 +1345,22 @@
         <section class="results">
             <div class="page-links">
             <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/599" href="/ask-cfpb/do-federal-student-loans-affect-my-taxes-en-599/">Do federal student loans affect my taxes?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/595" href="/ask-cfpb/what-happens-to-my-federal-student-loans-if-i-die-or-become-disabled-en-595/">What happens to my federal student loans if I die or become disabled?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/593" href="/ask-cfpb/how-does-interest-accrue-while-i-am-in-school-en-593/">How does interest accrue while I am in school?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/591" href="/ask-cfpb/how-do-i-know-who-to-pay-and-when-to-pay-my-federal-student-loans-en-591/">How do I know who to pay and when to pay my federal student loans?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/585" href="/ask-cfpb/when-do-i-need-to-start-paying-my-federal-student-loans-en-585/">When do I need to start paying my federal student loans?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/583" href="/ask-cfpb/what-is-student-loan-servicer-en-583/">What is a student loan servicer?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/581" href="/ask-cfpb/do-student-loans-affect-my-credit-score-en-581/">Do student loans affect my credit score?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/579" href="/ask-cfpb/how-much-should-i-borrow-in-student-loans-en-579/">How much should I borrow in student loans?</a></div>
@@ -1375,19 +1384,10 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/567" href="/ask-cfpb/should-i-choose-federal-student-loans-or-private-student-loans-en-567/">Should I choose federal student loans or private student loans?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/565" href="/ask-cfpb/what-is-a-cosigner-student-loan-en-565/">What is a co-signer for a student loan?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/561" href="/ask-cfpb/should-i-consolidate-refinance-student-loans-en-561/">Should I consolidate or refinance my student loans?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/559" href="/ask-cfpb/what-are-private-or-alternative-education-loans-en-559/">What are private or alternative education loans?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/553" href="/ask-cfpb/what-is-a-direct-plus-loan-en-553/">What is a Direct PLUS loan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/551" href="/ask-cfpb/what-is-a-perkins-loan-en-551/">What is a Perkins loan?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/549" href="/ask-cfpb/what-is-a-stafford-loan-en-549/">What is a Stafford loan?</a></div>
@@ -1405,10 +1405,10 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2088" href="/ask-cfpb/i-am-having-a-problem-with-my-collegeuniversity-where-can-i-file-a-complaint-en-2088/">I am having a problem with my college/university. Where can I file a complaint?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2100" href="/ask-cfpb/how-do-i-avoid-student-loan-scams-en-2100/">How do I avoid student loan scams?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2106" href="/ask-cfpb/how-should-i-decide-if-an-income-share-agreement-is-right-for-me-to-pay-for-my-education-en-2106/">How should I decide if an income share agreement is right for me to pay for my education?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2106" href="/ask-cfpb/how-should-i-decide-if-an-income-share-agreement-is-right-for-me-to-pay-for-my-education-en-2106/">How should I decide if an income share agreement is right for me to pay for my education?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2100" href="/ask-cfpb/how-do-i-avoid-student-loan-scams-en-2100/">How do I avoid student loan scams?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -1423,6 +1423,7 @@
   <option value="truth-in-savings-act">Truth in Savings Act</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="regulation-c">Regulation C</option>
+  <option value="small-dollar-loans_1">small dollar loans</option>
   <option value="youth-employment">Youth employment</option>
   <option value="regulation-p">Regulation P</option>
   <option value="identity-theft">Identity theft</option>
@@ -1434,7 +1435,6 @@
   <option value="credit-inquiries">Credit Inquiries</option>
   <option value="consumer-credit-panel">Consumer Credit Panel</option>
   <option value="calls-for-evidence">Calls for evidence</option>
-  <option value="small-dollar-loans_1">small dollar loans</option>
   <option value="cfpb-in-traditional-chinese">CFPB in Traditional Chinese</option>
   <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
   <option value="financial-institutions">Financial Institutions</option>
@@ -1542,7 +1542,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3353 filtered results</div>
+          <div class="h4 m-notification_message">3354 filtered results</div>
       </div>
   </div>
         </div>
@@ -1561,6 +1561,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/navigating-an-early-and-unexpected-retirement-during-covid-19/">
+                        <span class="h4 u-mb0">
+                            Navigating an early and unexpected retirement during COVID-19
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-01-27T00:00:00">JAN 27, 2021</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3638,27 +3659,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2020-10-06T00:00:00">OCT 06, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/childrens-savings-account-programs-measuring-program-performance-and-outcomes/">
-                        <span class="h4 u-mb0">
-                            Children’s Savings Account Programs: Measuring Program Performance and Outcomes
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-10-05T00:00:00">OCT 05, 2020</time>
 </span>
                 </td>
             </tr>
