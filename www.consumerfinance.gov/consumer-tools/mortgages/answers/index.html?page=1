@@ -1341,7 +1341,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 278 results  within mortgages</p>
+        <p class="results-message">Showing 279 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1399,9 +1399,6 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1983" href="/ask-cfpb/what-is-a-closing-disclosure-en-1983/">What is a Closing Disclosure?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1979" href="/ask-cfpb/what-is-pace-financing-en-1979/">What is PACE financing?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1965" href="/ask-cfpb/how-do-mortgage-lenders-calculate-monthly-payments-en-1965/">How do mortgage lenders calculate monthly payments?</a></div>
             </article>
             <article>
@@ -1418,6 +1415,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1953" href="/ask-cfpb/what-is-mortgage-insurance-and-how-does-it-work-en-1953/">What is mortgage insurance and how does it work?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1951" href="/ask-cfpb/with-an-adjustable-rate-mortgage-arm-what-are-rate-caps-and-how-do-they-work-en-1951/">With an adjustable-rate mortgage (ARM), what are rate caps and how do they work?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

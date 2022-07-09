@@ -1338,7 +1338,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 102 results within basics</p>
+        <p class="results-message">Showing 103 results within basics</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1349,6 +1349,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1791" href="/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/">What is a debt-to-income ratio?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2128" href="/ask-cfpb/i-am-considering-a-pace-loan-for-home-improvements-what-should-i-keep-in-mind-before-signing-up-en-2128/">I am considering a PACE loan for home improvements. What should I keep in mind before signing up?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/363" href="/ask-cfpb/i-heard-about-the-new-federal-housing-authority-refinancing-option-with-reduced-fees-can-you-tell-me-more-about-it-en-363/">I heard about the new Federal Housing Authority refinancing option with reduced fees. Can you tell me more about it?</a></div>
@@ -1412,9 +1415,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/238" href="/ask-cfpb/can-i-use-a-reverse-mortgage-loan-to-buy-a-home-en-238/">Can I use a reverse mortgage loan to buy a home?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/237" href="/ask-cfpb/what-are-the-costs-i-will-have-to-pay-for-a-reverse-mortgage-en-237/">How much will a reverse mortgage loan cost?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

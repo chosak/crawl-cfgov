@@ -1341,12 +1341,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 278 results  within mortgages</p>
+        <p class="results-message">Showing 279 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1845" href="/ask-cfpb/what-fees-or-charges-are-paid-when-closing-on-a-mortgage-and-who-pays-them-en-1845/">What fees or charges are paid when closing on a mortgage and who pays them?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1843" href="/ask-cfpb/i-received-notice-of-an-upcoming-rate-change-on-my-adjustable-rate-mortgage-arm-why-did-i-receive-this-and-what-should-i-do-now-en-1843/">I received notice of an upcoming rate change on my adjustable-rate mortgage (ARM). Why did I receive this and what should I do now?</a></div>
             </article>
@@ -1418,6 +1415,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1263" href="/ask-cfpb/how-do-credit-reporting-companies-get-my-information-en-1263/">How do credit reporting companies get my information?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1219" href="/ask-cfpb/should-i-use-a-reverse-mortgage-to-consolidate-my-debts-en-1219/">Should I use a reverse mortgage to consolidate my debts?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

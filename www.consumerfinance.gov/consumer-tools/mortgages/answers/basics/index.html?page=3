@@ -1338,9 +1338,12 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 102 results within basics</p>
+        <p class="results-message">Showing 103 results within basics</p>
         <section class="results">
             <div class="page-links">
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/237" href="/ask-cfpb/what-are-the-costs-i-will-have-to-pay-for-a-reverse-mortgage-en-237/">How much will a reverse mortgage loan cost?</a></div>
+            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/236" href="/ask-cfpb/when-do-i-have-to-pay-back-a-reverse-mortgage-loan-en-236/">When do I have to pay back a reverse mortgage loan?</a></div>
             </article>
@@ -1412,9 +1415,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/176" href="/ask-cfpb/what-is-a-mortgage-closing-what-happens-at-the-closing-en-176/">What is a mortgage "closing?" What happens at the closing?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/172" href="/ask-cfpb/can-my-final-mortgage-costs-increase-from-what-was-on-my-loan-estimate-en-172/">Can my final mortgage costs increase from what was on my Loan Estimate?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

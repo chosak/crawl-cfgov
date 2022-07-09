@@ -1341,12 +1341,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 278 results  within mortgages</p>
+        <p class="results-message">Showing 279 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1951" href="/ask-cfpb/with-an-adjustable-rate-mortgage-arm-what-are-rate-caps-and-how-do-they-work-en-1951/">With an adjustable-rate mortgage (ARM), what are rate caps and how do they work?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1949" href="/ask-cfpb/for-an-adjustable-rate-mortgage-arm-what-are-the-index-and-margin-and-how-do-they-work-en-1949/">For an adjustable-rate mortgage (ARM), what are the index and margin, and how do they work?</a></div>
             </article>
@@ -1418,6 +1415,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1849" href="/ask-cfpb/i-cant-make-my-mortgage-payments-how-long-will-it-take-before-ill-face-foreclosure-en-1849/">I can’t make my mortgage payments. How long will it take before I’ll face foreclosure?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1845" href="/ask-cfpb/what-fees-or-charges-are-paid-when-closing-on-a-mortgage-and-who-pays-them-en-1845/">What fees or charges are paid when closing on a mortgage and who pays them?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

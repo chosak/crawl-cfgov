@@ -1338,9 +1338,12 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 102 results within basics</p>
+        <p class="results-message">Showing 103 results within basics</p>
         <section class="results">
             <div class="page-links">
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/172" href="/ask-cfpb/can-my-final-mortgage-costs-increase-from-what-was-on-my-loan-estimate-en-172/">Can my final mortgage costs increase from what was on my Loan Estimate?</a></div>
+            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/167" href="/ask-cfpb/what-are-appraisals-and-why-do-i-need-to-look-at-them-en-167/">What are appraisals and why do I need to look at them?</a></div>
             </article>
@@ -1412,9 +1415,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/100" href="/ask-cfpb/what-is-the-difference-between-a-fixed-rate-and-adjustable-rate-mortgage-arm-loan-en-100/">What is the difference between a fixed-rate and adjustable-rate mortgage (ARM) loan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/99" href="/ask-cfpb/what-is-a-mortgage-en-99/">What is a mortgage?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
