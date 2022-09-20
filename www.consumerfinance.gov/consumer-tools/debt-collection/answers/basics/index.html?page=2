@@ -1313,12 +1313,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2113" href="/ask-cfpb/what-is-a-limited-content-message-en-2113/">What is a “limited-content message?”</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1449" href="/ask-cfpb/whats-the-difference-between-a-credit-counselor-and-a-debt-settlement-or-debt-relief-company-en-1449/">What's the difference between a credit counselor and a debt settlement or debt relief company?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1439" href="/ask-cfpb/can-a-debt-collector-garnish-my-bank-account-or-my-wages-en-1439/">Can a debt collector garnish my bank account or my wages?</a></div>
             </article>
             <article>
@@ -1332,6 +1326,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1457" href="/ask-cfpb/what-are-debt-settlementdebt-relief-services-and-should-i-use-them-en-1457/">What are debt settlement/debt relief services and should I use them?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1695" href="/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/">What should I do when a debt collector contacts me?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1417" href="/ask-cfpb/can-a-debt-collector-increase-the-interest-rate-on-a-debt-i-owe-en-1417/">Can a debt collector increase the interest rate on a debt I owe?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
