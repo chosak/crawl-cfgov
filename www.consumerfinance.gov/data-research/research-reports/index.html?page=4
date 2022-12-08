@@ -1352,8 +1352,8 @@
   <option value="rulemaking">Rulemaking</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="money-transfers">Money transfers</option>
-  <option value="everyone-has-a-story">Everyone has a story</option>
   <option value="saving">Saving</option>
+  <option value="everyone-has-a-story">Everyone has a story</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-closing">Mortgage closing</option>
   <option value="financial-literacy-annual-report">Financial Literacy Annual Report</option>
@@ -1413,6 +1413,7 @@
   <option value="credit-inquiries">Credit Inquiries</option>
   <option value="consumer-credit-panel">Consumer Credit Panel</option>
   <option value="regulation-c">Regulation C</option>
+  <option value="servicemember-civil-relief-act">Servicemember Civil Relief Act</option>
 </select>
             </div>
         </div>
@@ -1479,13 +1480,169 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">486 filtered results</div>
+          <div class="h4 m-notification_message">488 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Office of Research Publication
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-06-14T00:00:00">JUN 14, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/a-brief-note-on-general-lending-patterns-small-to-medium-size-closed-end-hmda-reporters/">
+                    A Brief Note on General Lending Patterns of Small to Medium Size Closed-end HMDA Reporters
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="v852f">A brief overview of the general lending patterns of HMDA reporters with the closed-end origination volumes around the new HMDA reporting threshold set by the 2020 HMDA Rule.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Office of Research</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Office of Research Publication
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-05-27T00:00:00">MAY 27, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/manufactured-housing-finance-new-insights-hmda/">
+                    Manufactured Housing Finance: New Insights from the Home Mortgage Disclosure Act
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="0cyt1">This report analyzes manufactured home loans, using two new fields in the Home Mortgage Disclosure Act (HMDA) data to understand the manufactured housing finance market and compare chattel loans and mortgages.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Office of Research</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2748,122 +2905,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Office of Research Publication
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/quarterly-consumer-credit-trends-payment-amount-furnishing-consumer-reporting/">
-                    Quarterly Consumer Credit Trends: Payment Amount Furnishing & Consumer Reporting
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="w3iia">This report explores the prevalence of actual payment information in consumer credit reporting.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Office of Research</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Credit Reporting Act
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Consumer education and empowerment
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-11-09T00:00:00">NOV 09, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/debt-and-delinquency-after-military-service-study-credit-records-young-veterans-first-year-after-separation/">
-                    Debt and delinquency after military service: A study of the credit records of young veterans in the first year after separation
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>This report is a follow-on study to our <a href="/data-research/research-reports/financially-fit-comparing-credit-records-young-servicemembers-civilians/">Financially Fit research report</a>. Rather than focus on the credit histories of young servicemembers, this study takes a closer look at the credit records of young veterans in the first year after separation from the military.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=servicemembers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Servicemembers
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3024,6 +3065,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/cfpb-finds-members-of-the-reserves-and-national-guard-paying-millions-of-dollars-in-extra-interest-each-year/">
+                        CFPB Finds Members of the Reserves and National Guard Paying Millions of Dollars in Extra Interest Each Year
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2022-12-07T00:00:00">DEC 07, 2022</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/director-chopras-prepared-remarks-to-the-financial-literacy-and-education-commission-2022-11/">
                         Director Chopra’s Prepared Remarks to the Financial Literacy and Education Commission
                     </a>
@@ -3038,18 +3091,6 @@
                     <a class="m-list_link"
                        href="/about-us/newsroom/cfpb-reports-highlight-problems-with-tenant-background-checks/">
                         CFPB Reports Highlight Problems with Tenant Background Checks
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2022-11-15T00:00:00">NOV 15, 2022</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/reporte-de-la-cfpb-destaca-problemas-con-la-verificacion-de-antecedentes-de-inquilinos/">
-                        Reporte de la CFPB Destaca Problemas con la Verificación de Antecedentes de Inquilinos
                     </a>
                 </h3>
                 <p class="a-date">
