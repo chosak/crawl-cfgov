@@ -1379,11 +1379,13 @@
   <option value="regulation-b">Regulation B</option>
   <option value="regulation-c">Regulation C</option>
   <option value="hmda">HMDA</option>
+  <option value="junk-fees">Junk fees</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
   <option value="libraries">Libraries</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
   <option value="education">education</option>
+  <option value="cfpb-in-arabic">CFPB in Arabic</option>
   <option value="small-dollar-lending-market">small dollar lending market</option>
   <option value="ffiec">FFIEC</option>
   <option value="equity">Equity</option>
@@ -1393,7 +1395,6 @@
   <option value="education-loan-ombudsman">Education Loan Ombudsman</option>
   <option value="financial-institutions">Financial Institutions</option>
   <option value="competition">Competition</option>
-  <option value="junk-fees">Junk fees</option>
   <option value="consumer-report">Consumer report</option>
   <option value="renters">renters</option>
 </select>
@@ -1484,7 +1485,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1491 filtered results</div>
+          <div class="h4 m-notification_message">1492 filtered results</div>
       </div>
   </div>
         </div>
@@ -2618,7 +2619,7 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
+    <article class="o-post-preview" lang="ar">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
@@ -2638,12 +2639,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/hidden-cost-junk-fees/">
-                    The hidden cost of junk fees
+                <a href="/about-us/blog/hidden-cost-junk-fees-ar/">
+                    التكلفة الخفية للرسوم المفاجئة وغير المتوقعة
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p data-block-key="ogn4t">Households across the U.S. have been feeling the cost of higher prices. As individuals and families adjust to the pinch on pocketbooks there are some fees they just can’t seem to escape – junk fees. The CFPB wants to hear from you on how junk fees have impacted your everyday financial lives.</p>
+                    <p data-block-key="ogn4t">كانت وتظل الأسر على مستوى الولايات المتحدة تشعر بتكلفة الأسعار المرتفعة، ومع قيام الأفراد والعائلات بتكييف أحوالهم المالية لهذه التكلفة الملقاة عليهم إلا أن ثمة بعض الرسوم لا يمكنهم الفرار منها – وهي ما تسمى بالرسوم المفاجئة وغير المتوقعة. وعليه فإن مكتب الحماية المالية للمستهلكين CFPB يريد السماع منكم عن مدى تأثير تلك الرسوم المفاجئة وغير المتوقعة على حياتكم المالية اليومية.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">
@@ -2762,7 +2763,7 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="ar">
+    <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
@@ -2782,12 +2783,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/hidden-cost-junk-fees-ar/">
-                    التكلفة الخفية للرسوم المفاجئة وغير المتوقعة
+                <a href="/about-us/blog/hidden-cost-junk-fees/">
+                    The hidden cost of junk fees
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p data-block-key="ogn4t">كانت وتظل الأسر على مستوى الولايات المتحدة تشعر بتكلفة الأسعار المرتفعة، ومع قيام الأفراد والعائلات بتكييف أحوالهم المالية لهذه التكلفة الملقاة عليهم إلا أن ثمة بعض الرسوم لا يمكنهم الفرار منها – وهي ما تسمى بالرسوم المفاجئة وغير المتوقعة. وعليه فإن مكتب الحماية المالية للمستهلكين CFPB يريد السماع منكم عن مدى تأثير تلك الرسوم المفاجئة وغير المتوقعة على حياتكم المالية اليومية.</p>
+                    <p data-block-key="ogn4t">Households across the U.S. have been feeling the cost of higher prices. As individuals and families adjust to the pinch on pocketbooks there are some fees they just can’t seem to escape – junk fees. The CFPB wants to hear from you on how junk fees have impacted your everyday financial lives.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">
@@ -2798,6 +2799,12 @@
             <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Money transfers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=junk-fees" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Junk fees
             </a>
         </li>
         <li class="tags_tag">
