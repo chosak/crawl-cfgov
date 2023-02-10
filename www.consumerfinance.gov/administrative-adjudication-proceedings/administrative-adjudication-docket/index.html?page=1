@@ -1240,10 +1240,7 @@
     <div class="content_main content__flush-top-on-small
      content__flush-bottom"
          id="content_main">
-            <div class="block
-                block__flush-top
-                block__flush-top"
-        >
+   <div class="block block__flush-top">
     <h1>Docket of the Office of Administrative Adjudication</h1>
     <div class="lead-paragraph">
         <p data-block-key="ukckb">The OAA docket includes all public documents filed in administrative proceedings before the Office of Administrative Adjudication. The docket does not include documents containing confidential information covered under a protective order or other order authorizing confidential treatment.</p>
@@ -1258,7 +1255,7 @@
                 </a>
             </li>
         </ul>
-    </div>
+   </div>
             <div class="block block__flush-top">
     <div class="o-filterable-list">
     <div id="o-filterable-list-controls" class="o-filterable-list-controls">
@@ -2295,20 +2292,15 @@
             </section>
     </div>
             </div>
-            <div class="block
-                "
-        >
+   <div class="block">
 <div class="o-full-width-text-group">
             <div class="m-full-width-text">
                 <h3 data-block-key="v4fek">Please Note</h3><p data-block-key="2t61h"></p><p data-block-key="xclko">The Office of Administrative Adjudication is not authorized to receive or act upon consumer complaints about consumer financial products or services. Consumer <a href="/complaint/">complaints can be submitted online</a> or by calling the CFPB toll-free at 855-411-CFPB (2372); TTY/TDD Phone 855-729-CFPB (2372).</p>
             </div>
 </div>
-    </div>
+   </div>
         <aside class="prefooter">
-            <div class="block
-                block__flush-top
-                "
-        >
+   <div class="block block__flush-top">
 <div class="o-sidebar-contact-info">
     <div class="o-sidebar-contact-info_heading">
       <header class="m-slug-header">
@@ -2335,7 +2327,7 @@
 </div>
     </div>
 </div>
-    </div>
+   </div>
         </aside>
     </div>
 </div>

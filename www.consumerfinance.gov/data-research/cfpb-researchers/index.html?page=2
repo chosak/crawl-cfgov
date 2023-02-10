@@ -1167,15 +1167,12 @@
           id="main">
 <div class="wrapper content_wrapper">
     <div class="content_main "><section >
-            <div class="block
-                block__flush-top
-                block__flush-top"
-        >
+   <div class="block block__flush-top">
     <h1>CFPB Researchers</h1>
     <div class="lead-paragraph">
         <p data-block-key="d958m">The CFPB has PhD social scientists from different disciplines that design and conduct foundational, policy-relevant research on consumer finance and household behavior.<br/></p>
     </div>
-    </div>
+   </div>
             <div class="block block__flush-top">
     <div class="o-filterable-list">
     <div id="o-filterable-list-controls" class="o-filterable-list-controls">
@@ -1652,17 +1649,12 @@
         </section>
     </div>
     <aside class="content_sidebar o-sidebar-content">
-            <div class="block
-                block__flush-top
-                "
-        >
+   <div class="block block__flush-top">
 <div class="m-reusable-text-snippet">
     <h3>About us</h3><p>The Consumer Financial Protection Bureau (CFPB) is a 21st century agency that helps consumer finance markets work by making rules more effective, by consistently and fairly enforcing those rules, and by empowering consumers to take more control over their economic lives.<br/></p>
 </div>
-    </div>
-            <div class="block
-                "
-        >
+   </div>
+   <div class="block">
 <div class="o-email-signup">
     <header class="m-slug-header">
         <h2 class="a-heading ">
@@ -1706,10 +1698,8 @@
         <input type="hidden" name="code" value="USCFPB_124">
     </form>
 </div>
-    </div>
-            <div class="block
-                "
-        >
+   </div>
+   <div class="block">
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -1724,7 +1714,7 @@
             </li>
         </ul>
 </div>
-    </div>
+   </div>
             <div class="block">
 <div class="m-related-posts
     ">

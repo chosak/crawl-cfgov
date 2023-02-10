@@ -1252,16 +1252,13 @@
     <div class="content_main content__flush-top-on-small
      content__flush-bottom"
          id="content_main">
-            <div class="block
-                block__flush-top
-                block__flush-top"
-        >
+   <div class="block block__flush-top">
     <h1>FOIA reports, logs, and frequently requested records</h1>
     <div class="lead-paragraph">
         <p data-block-key="8b2qd">In order to save the public time and effort, we publish information about past FOIA requests. On this page you can find records that are frequently requested, logs of past requests including the results of those requests, quarterly and annual reporting to the Department of Justice.</p>
     </div>
     <p data-block-key="otc3u"></p><p data-block-key="zu13q">The records on this page are provided in the same format they area distributed to the requestors. Therefore, some records may not fully conform to applicable standards for use by persons with disabilities per Section 508 of the Rehabilitation Act. An accessible copy can be obtained using the contact information below. Please note: The accessible copy may be altered to meet disclosure requirements but will contain the same information presented here.</p><p data-block-key="dode3">If you have a question about consumer complaint data, <a href="https://www.consumerfinance.gov/complaintdatabase/">visit our public Consumer Complaint Database</a>. The Web-based database allows you to filter data based on specific search criteria, or aggregate data in various ways, such as by date received, complaint type, company, company response, ZIP code, or state.</p>
-    </div>
+   </div>
             <div class="block block__flush-top">
     <div class="o-filterable-list">
     <div id="o-filterable-list-controls" class="o-filterable-list-controls">
@@ -2166,10 +2163,7 @@ Officer for FY2017.</p>
     </div>
             </div>
         <aside class="prefooter">
-            <div class="block
-                block__flush-top
-                "
-        >
+   <div class="block block__flush-top">
 <div class="o-sidebar-contact-info">
     <div class="o-sidebar-contact-info_heading">
       <header class="m-slug-header">
@@ -2216,10 +2210,8 @@ Officer for FY2017.</p>
 </div>
     </div>
 </div>
-    </div>
-            <div class="block
-                "
-        >
+   </div>
+   <div class="block">
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -2253,7 +2245,7 @@ Officer for FY2017.</p>
             </li>
         </ul>
 </div>
-    </div>
+   </div>
         </aside>
     </div>
 </div>

@@ -1167,16 +1167,13 @@
           id="main">
 <div class="wrapper content_wrapper">
     <div class="content_main "><section >
-            <div class="block
-                block__flush-top
-                block__flush-top"
-        >
+   <div class="block block__flush-top">
     <h1>Research on consumer financial markets</h1>
     <div class="lead-paragraph">
         <p data-block-key="ojpu2">Our PhD social scientists design and conduct foundational, policy-relevant research on consumer finance and household behavior.</p>
     </div>
     <p data-block-key="744ok">For preliminary research and working papers, <a href="https://www.ssrn.com/index.cfm/en/cfpb-gov/">find the Office of Research’s independent papers on SSRN.</a></p>
-    </div>
+   </div>
             <div class="block">
 <section class="o-featured-content-module
                 ">
@@ -2863,10 +2860,7 @@
         </section>
     </div>
     <aside class="content_sidebar o-sidebar-content">
-            <div class="block
-                block__flush-top
-                "
-        >
+   <div class="block block__flush-top">
 <div class="o-email-signup">
     <header class="m-slug-header">
         <h2 class="a-heading ">
@@ -2910,10 +2904,8 @@
         <input type="hidden" name="code" value="USCFPB_124">
     </form>
 </div>
-    </div>
-            <div class="block
-                "
-        >
+   </div>
+   <div class="block">
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -2939,7 +2931,7 @@
             </li>
         </ul>
 </div>
-    </div>
+   </div>
             <div class="block">
 <div class="m-related-posts
     ">

@@ -2800,10 +2800,7 @@
     </div>
             </div>
     <aside class="o-prefooter">
-            <div class="block
-                block__flush-top
-                "
-        >
+   <div class="block block__flush-top">
 <div class="o-email-signup">
     <header class="m-slug-header">
         <h2 class="a-heading ">
@@ -2847,7 +2844,7 @@
         <input type="hidden" name="code" value="USCFPB_23">
     </form>
 </div>
-    </div>
+   </div>
             <div class="block">
 <div class="rss-subscribe">
     <p>
