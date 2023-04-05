@@ -1487,7 +1487,7 @@
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>This Advisory Opinion highlights that a consumer reporting agency that uses inadequate matching procedures to match information to consumers, including name-only matching, in preparing consumer reports is not using reasonable procedures to assure maximum possible accuracy under section 607(b) of the Fair Credit Reporting Act.</p>
+                    <p data-block-key="5atst">This Advisory Opinion highlights that a consumer reporting agency that uses inadequate matching procedures to match information to consumers, including name-only matching, in preparing consumer reports is not using reasonable procedures to assure maximum possible accuracy under section 607(b) of the Fair Credit Reporting Act.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">
@@ -1498,6 +1498,12 @@
             <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=tenant-screening" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Tenant screening
             </a>
         </li>
         <li class="tags_tag">
