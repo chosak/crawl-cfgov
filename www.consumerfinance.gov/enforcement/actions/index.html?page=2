@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title>Enforcement Actions | Consumer Financial Protection Bureau</title>
+    <meta name="template" content="v1/browse-filterable/index.html">
     <meta name="description"
           content="Browse court documents and other related materials to enforcement actions taken by the Bureau against entities or persons we believe have violated the law">
     <link rel="canonical" href="https://www.consumerfinance.gov/enforcement/actions/?page=2">
@@ -1917,7 +1918,7 @@
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>On January 15, 2021, the Bureau filed a lawsuit in the United States District Court for the District of Connecticut against 1st Alliance Lending, LLC, John Christopher DiIorio, Kevin Robert St. Lawrence, and Socrates Aramburu.</p>
+                    <p data-block-key="939ha">On January 15, 2021, the Bureau filed a lawsuit in the United States District Court for the District of Connecticut against 1st Alliance Lending, LLC, John Christopher DiIorio, Kevin Robert St. Lawrence, and Socrates Aramburu.</p>
                 </div>
         </div>
     </article>
