@@ -473,9 +473,6 @@
                 <div class="h3 hover"><a href="/es/obtener-respuestas/en-que-consiste-el-acoso-de-un-cobrador-es-336/" class="hover">¿Qué es el acoso de un cobrador?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/pueden-los-cobradores-de-deudas-llamarme-en-cualquier-momento-que-deseen-de-dia-o-de-noche-es-335/" class="hover">¿Pueden los cobradores de deudas llamarme en cualquier momento que deseen, de día o de noche?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-deberia-hacer-si-un-acreedor-o-un-cobrador-de-deudas-me-demanda-es-334/" class="hover">¿Qué debería hacer si un acreedor o un cobrador de deudas me demanda?</a></div>
             </article>
             <article>
@@ -489,6 +486,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-consigo-que-un-cobrador-deje-de-llamarme-si-no-es-mi-deuda-es-1411/" class="hover">¿Cómo consigo que un cobrador deje de llamarme si no es mi deuda?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/pueden-los-cobradores-de-deudas-llamarme-en-cualquier-momento-que-deseen-de-dia-o-de-noche-es-335/" class="hover">¿Pueden los cobradores de deudas llamarme en cualquier momento que deseen, de día o de noche?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
@@ -660,8 +660,8 @@
                         </a>
                     </li>
                     <li class="m-list_item">
-                        <a class="m-list_link" href="/office-civil-rights/no-fear-act/">
-                            No FEAR Act Data
+                        <a class="m-list_link" href="/office-civil-rights/no-fear-act-cummings-act/">
+                            No FEAR Act &amp; Cummings Act
                         </a>
                     </li>
                 </ul>
