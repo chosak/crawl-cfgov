@@ -1292,43 +1292,43 @@
                     Topics
                 </label>
                 <select name="topics" id="o-filterable-list-controls_topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
-  <option value="financial-service-providers">Financial service providers</option>
-  <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
-  <option value="debt-collection">Debt collection</option>
-  <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
-  <option value="credit-reports-and-scores">Credit reports and scores</option>
-  <option value="deceptive-practices">Deceptive practices</option>
-  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
-  <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
-  <option value="mortgages">Mortgages</option>
-  <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
-  <option value="fair-lending">Fair lending</option>
-  <option value="mortgage-closing">Mortgage closing</option>
-  <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
-  <option value="credit-cards">Credit cards</option>
-  <option value="enforcement">Enforcement</option>
-  <option value="fair-credit-billing-act">Fair Credit Billing Act</option>
-  <option value="foreclosure">Foreclosure</option>
-  <option value="mortgage-servicing">Mortgage servicing</option>
-  <option value="student-loans">Student loans</option>
-  <option value="servicemembers">Servicemembers</option>
-  <option value="military-lending-act">Military Lending Act</option>
+  <option value="arbitration">Arbitration</option>
+  <option value="auto-loans">Auto loans</option>
   <option value="banking">Banking</option>
   <option value="checking-account">Checking account</option>
-  <option value="payday-loans">Payday loans</option>
-  <option value="native-communities">Native communities</option>
-  <option value="truth-in-savings-act">Truth in Savings Act</option>
-  <option value="regulation-x">Regulation X</option>
-  <option value="students">Students</option>
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
-  <option value="auto-loans">Auto loans</option>
-  <option value="arbitration">Arbitration</option>
-  <option value="regulation-b">Regulation B</option>
-  <option value="homebuying">Homebuying</option>
+  <option value="credit-cards">Credit cards</option>
+  <option value="credit-reports-and-scores">Credit reports and scores</option>
+  <option value="debt-collection">Debt collection</option>
+  <option value="deceptive-practices">Deceptive practices</option>
   <option value="discrimination">Discrimination</option>
-  <option value="regulation-e">Regulation E</option>
-  <option value="prepaid-cards">Prepaid cards</option>
   <option value="electronic-payments">Electronic payments</option>
+  <option value="enforcement">Enforcement</option>
+  <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
+  <option value="fair-credit-billing-act">Fair Credit Billing Act</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
+  <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
+  <option value="fair-lending">Fair lending</option>
+  <option value="financial-service-providers">Financial service providers</option>
+  <option value="foreclosure">Foreclosure</option>
+  <option value="homebuying">Homebuying</option>
+  <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
+  <option value="military-lending-act">Military Lending Act</option>
+  <option value="mortgage-closing">Mortgage closing</option>
+  <option value="mortgages">Mortgages</option>
+  <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="native-communities">Native communities</option>
+  <option value="payday-loans">Payday loans</option>
+  <option value="prepaid-cards">Prepaid cards</option>
+  <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
+  <option value="regulation-b">Regulation B</option>
+  <option value="regulation-e">Regulation E</option>
+  <option value="regulation-x">Regulation X</option>
+  <option value="servicemembers">Servicemembers</option>
+  <option value="student-loans">Student loans</option>
+  <option value="students">Students</option>
+  <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="truth-in-savings-act">Truth in Savings Act</option>
 </select>
             </div>
         </div>

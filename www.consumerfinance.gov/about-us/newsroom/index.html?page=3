@@ -1400,8 +1400,8 @@
   <option value="regulation-n">Regulation N</option>
   <option value="regulation-o">Regulation O</option>
   <option value="regulation-p">Regulation P</option>
-  <option value="remittances">remittances</option>
-  <option value="reports">reports</option>
+  <option value="remittances">Remittances</option>
+  <option value="reports">Reports</option>
   <option value="research">Research</option>
   <option value="retirement">Retirement</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
@@ -1411,12 +1411,13 @@
   <option value="servicemember-civil-relief-act">Servicemember Civil Relief Act</option>
   <option value="servicemembers">Servicemembers</option>
   <option value="servicemembers-civil-relief-act">Servicemembers Civil Relief Act</option>
-  <option value="small-dollar-loans_1">small dollar loans</option>
+  <option value="small-dollar-loans_1">Small dollar loans</option>
   <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="student-loans">Student loans</option>
   <option value="students">Students</option>
   <option value="supervision">Supervision</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
+  <option value="technologist">Technologist</option>
   <option value="tenant-screening">Tenant screening</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
