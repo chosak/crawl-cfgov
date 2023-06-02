@@ -1267,7 +1267,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 291 results  within mortgages</p>
+        <p class="results-message">Showing 276 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1307,9 +1307,6 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1521" href="/ask-cfpb/what-should-i-do-if-my-house-is-destroyed-in-a-natural-disaster-en-1521/">What do I do if my house was damaged, destroyed, or I’m unable to make my payment after a disaster?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1519" href="/ask-cfpb/what-kind-of-assistance-can-i-get-after-a-natural-disaster-en-1519/">What kind of assistance can I get after a natural disaster?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1511" href="/ask-cfpb/what-should-i-do-if-i-have-a-reverse-mortgage-and-i-received-a-notice-that-i-am-delinquent-in-default-or-behind-on-my-property-taxes-and-insurance-en-1511/">What should I do if I have a reverse mortgage loan and I received a notice of default or foreclosure?</a></div>
             </article>
             <article>
@@ -1344,6 +1341,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/359" href="/ask-cfpb/my-lender-or-broker-said-that-my-spouse-had-to-co-sign-my-mortgage-loan-is-this-right-en-359/">My lender or broker said that my spouse had to co-sign my mortgage loan. Is this right?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/358" href="/ask-cfpb/i-got-divorced-and-my-lender-terminated-my-home-equity-line-of-credit-can-they-do-that-en-358/">I got divorced, and my lender terminated my home equity line of credit. Can they do that?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

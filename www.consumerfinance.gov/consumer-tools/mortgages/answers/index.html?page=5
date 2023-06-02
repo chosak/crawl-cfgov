@@ -1267,12 +1267,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 291 results  within mortgages</p>
+        <p class="results-message">Showing 276 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/304" href="/ask-cfpb/i146m-a-servicemember-or-veteran-and-i-have-a-certificate-of-eligibility-coe-from-the-va-why-do-i-have-to-apply-and-qualify-at-a-bank-if-the-va-has-already-certified-me-en-304/">I'm a servicemember or veteran and I have a Certificate of Eligibility (COE) from the VA. Why do I have to apply and qualify at a bank if the VA has already certified me?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/302" href="/ask-cfpb/i-am-a-servicemember-or-veteran-will-i-be-able-to-get-a-conventional-or-va-mortgage-on-a-manufactured-home-en-302/">I am a servicemember or veteran. Will I be able to get a conventional or VA mortgage on a manufactured home?</a></div>
             </article>
@@ -1344,6 +1341,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/243" href="/ask-cfpb/what-happens-if-i-have-to-move-out-of-my-home-into-a-nursing-home-or-assisted-living-and-i-have-a-reverse-mortgage-en-243/">What happens if I have a reverse mortgage and I have to move out of my home, such as moving into a nursing home or to live with family?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/238" href="/ask-cfpb/can-i-use-a-reverse-mortgage-loan-to-buy-a-home-en-238/">Can I use a reverse mortgage loan to buy a home?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

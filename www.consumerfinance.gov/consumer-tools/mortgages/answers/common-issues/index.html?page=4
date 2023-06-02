@@ -1264,12 +1264,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 117 results within common issues</p>
+        <p class="results-message">Showing 109 results within common issues</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/188" href="/ask-cfpb/can-i-ever-waive-my-right-to-rescind-on-my-mortgage-loan-en-188/">Can I ever waive my right to rescind on my mortgage loan?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/187" href="/ask-cfpb/how-long-do-i-have-to-rescind-when-does-the-right-of-rescission-start-en-187/">How long do I have to rescind? When does the right of rescission start?</a></div>
             </article>
@@ -1341,6 +1338,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/268" href="/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/">If I can't pay my mortgage loan, what are my options?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/256" href="/ask-cfpb/is-there-somewhere-i-can-talk-to-someone-in-person-is-there-somewhere-local-that-can-help-me-en-256/">Is there somewhere I can talk to someone in-person? Is there somewhere local that can help me?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

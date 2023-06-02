@@ -1267,7 +1267,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 110 results  within credit cards</p>
+        <p class="results-message">Showing 98 results  within credit cards</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1339,12 +1339,6 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1827" href="/ask-cfpb/what-should-i-know-about-medical-credit-cards-and-payment-plans-for-medical-bills-en-1827/">What should I know about medical credit cards and payment plans for medical bills?</a></div>
             </article>
-            <article>
-                <div class="h3 hover"><a href="None" class="hover">Why wasn&#39;t my online payment credited to my account on the same day I made it?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="None" class="hover">The card issuer increased my interest rate on my existing balance. Can they do that?  What can I do to get the rate back down?</a></div>
-            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1353,16 +1347,19 @@
 <span class="a-btn_icon a-btn_icon__on-left"><svg class="cf-icon-svg cf-icon-svg__left" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M8.4 17.269a1.026 1.026 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"></path></svg></span>
             Previous
         </a>
-        <a class="a-btn m-pagination_btn-next" href="?page=5">Next
-            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg cf-icon-svg__right" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"></path></svg></span>
-</a>
+        <a class="a-btn
+                  a-btn__disabled
+                  m-pagination_btn-next">
+        Next
+            <span class="a-btn_icon a-btn_icon__on-right"><svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__right" viewBox="0 0 10 19"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"/></svg></span>
+        </a>
         <form class="m-pagination_form" action="">
             <label for="m-pagination_current-page-0">
                 <span class="m-pagination_label">
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    4 out of 5 total pages
+                    4 out of 4 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1370,11 +1367,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="5"
+                   max="4"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="4">
-            <span class="m-pagination_label"> of 5</span>
+            <span class="m-pagination_label"> of 4</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

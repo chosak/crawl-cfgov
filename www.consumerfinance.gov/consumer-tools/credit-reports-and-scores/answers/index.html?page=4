@@ -1267,7 +1267,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 92 results  within credit reports and scores</p>
+        <p class="results-message">Showing 90 results  within credit reports and scores</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1275,9 +1275,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/312" href="/ask-cfpb/when-should-i-review-my-credit-report-en-312/">When should I review my credit report?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/309" href="/ask-cfpb/what-is-a-credit-report-en-309/">What is a credit report?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/66" href="/ask-cfpb/will-i-damage-my-credit-score-if-i-do-not-pay-a-portion-of-my-bill-that-i-am-disputing-en-66/">Will I damage my credit score if I do not pay a portion of my bill that I am disputing?</a></div>
@@ -1316,10 +1313,7 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/315" href="/ask-cfpb/what-is-a-credit-score-en-315/">What is a credit score?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="None" class="hover">Should I buy a credit score?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="None" class="hover">How does a bankruptcy affect my credit score?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/309" href="/ask-cfpb/what-is-a-credit-report-en-309/">What is a credit report?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
