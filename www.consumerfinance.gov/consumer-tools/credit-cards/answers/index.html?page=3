@@ -1267,7 +1267,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 98 results  within credit cards</p>
+        <p class="results-message">Showing 97 results  within credit cards</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1284,9 +1284,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/39" href="/ask-cfpb/my-bill-shows-different-aprs-and-shows-how-much-of-the-balance-is-subject-to-each-interest-rate-i-cannot-figure-out-how-this-is-calculated-how-does-that-work-en-39/">My bill shows different APRs and shows how much of the balance is subject to each interest rate. I cannot figure out how this is calculated. How does that work?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/38" href="/ask-cfpb/my-bill-shows-the-amount-of-fees-i-have-paid-for-the-entire-year-whats-that-about-en-38/">My bill shows the amount of fees I have paid for the entire year. What's that about?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/37" href="/ask-cfpb/my-bill-shows-the-amount-of-interest-i-have-paid-for-the-entire-year-whats-that-about-en-37/">My bill shows the amount of interest I have paid for the entire year. What's that about?</a></div>
@@ -1344,6 +1341,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/13" href="/ask-cfpb/when-do-i-need-someone-to-guarantee-or-cosign-or-be-a-joint-applicant-on-my-credit-card-account-en-13/">When do I need someone to guarantee or co-sign, or be a joint applicant on my credit card account?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/12" href="/ask-cfpb/my-children-are-under-21-years-old-but-they-receive-invitations-to-apply-for-credit-cards-how-is-this-possible-en-12/">My children are under 21 years old, but they receive invitations to apply for credit cards. How is this possible?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

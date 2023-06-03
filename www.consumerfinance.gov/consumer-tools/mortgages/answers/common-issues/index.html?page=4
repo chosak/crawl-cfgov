@@ -1264,21 +1264,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 109 results within common issues</p>
+        <p class="results-message">Showing 104 results within common issues</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/187" href="/ask-cfpb/how-long-do-i-have-to-rescind-when-does-the-right-of-rescission-start-en-187/">How long do I have to rescind? When does the right of rescission start?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/186" href="/ask-cfpb/can-i-change-my-mind-after-i-sign-the-loan-closing-documents-for-my-second-mortgage-or-refinance-what-is-the-right-of-rescission-en-186/">Can I change my mind after I sign the loan closing documents for my second mortgage or refinance? What is the "right of rescission?"</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/185" href="/ask-cfpb/at-the-mortgage-loan-closing-do-i-have-to-sign-if-i-dont-like-the-terms-en-185/">At the mortgage loan closing, do I have to sign if I don't like the terms?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/184" href="/ask-cfpb/my-rate-or-the-fees-changed-between-my-loan-estimate-and-my-closing-disclosure-what-do-i-do-en-184/">What do I do if the rate or fees are different on my Closing Disclosure than they were on my Loan Estimate?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/183" href="/ask-cfpb/what-do-i-do-if-the-terms-of-my-mortgage-loan-at-closing-are-not-what-i-was-promised-beforehand-en-183/">What do I do if the terms of my mortgage loan at closing are not what I was promised beforehand?</a></div>
             </article>
@@ -1334,13 +1322,25 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/285" href="/ask-cfpb/i-want-to-sell-my-home-but-i-cant-get-enough-money-in-the-sale-to-pay-off-my-mortgage-loan-what-are-my-options-en-285/">I want to sell my home, but I can't get enough money in the sale to pay off my mortgage loan. What are my options?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/277" href="/ask-cfpb/ive-been-contacted-by-a-mortgage-relief-company-is-there-anything-that-these-companies-have-to-tell-me-en-277/">I've been contacted by a mortgage relief company. Is there anything that these companies have to tell me?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/268" href="/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/">If I can't pay my mortgage loan, what are my options?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/256" href="/ask-cfpb/is-there-somewhere-i-can-talk-to-someone-in-person-is-there-somewhere-local-that-can-help-me-en-256/">Is there somewhere I can talk to someone in-person? Is there somewhere local that can help me?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/281" href="/ask-cfpb/my-financial-situation-is-going-to-improve-soon-can-i-get-temporary-help-with-my-mortgage-loan-en-281/">My financial situation is going to improve soon. Can I get temporary help with my mortgage loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/308" href="/ask-cfpb/my-home-is-underwater-and-i-received-a-permanent-change-of-station-pcs-order-is-there-assistance-to-help-me-sell-my-home-without-owing-money-after-the-sale-en-308/">My home is underwater and I received a Permanent Change of Station (PCS) Order. Is there assistance to help me sell my home without owing money after the sale?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/272" href="/ask-cfpb/what-are-mortgage-loan-modification-scams-en-272/">What are mortgage loan modification scams?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/242" href="/ask-cfpb/with-a-reverse-mortgage-loan-can-my-heirs-keep-or-sell-my-home-after-i-die-en-242/">With a reverse mortgage loan, can my heirs keep or sell my home after I die?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1517" href="/ask-cfpb/what-should-i-know-about-using-contractors-to-rebuild-after-a-disaster-en-1517/">How can I find and work with contractors to rebuild after a disaster?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -456,7 +456,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 94 resultados  en informes y puntajes de crédito</p>
+        <p class="results-message">Se muestran 93 resultados  en informes y puntajes de crédito</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -496,9 +496,6 @@
                 <div class="h3 hover"><a href="/es/obtener-respuestas/las-consultas-de-credito-tienen-un-impacto-diferente-en-mi-puntuacion-dependiendo-de-si-mi-solicitud-de-credito-es-aprobada-o-rechazada-es-1237/" class="hover">Las consultas de crédito, ¿tienen un impacto diferente en mi puntuación dependiendo de si mi solicitud de crédito es aprobada o rechazada?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/mi-puntaje-de-credito-se-vera-afectado-si-empleadores-o-arrendatarios-solicitan-mi-informe-de-credito-es-1235/" class="hover">¿Mi puntaje de crédito se verá afectado si empleadores o arrendatarios solicitan mi informe de crédito?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/aumentara-mi-puntaje-de-credito-si-cancelo-las-tarjetas-de-credito-que-tengo-actualmente-es-1231/" class="hover">¿Aumentará mi puntaje de crédito si cancelo las tarjetas de crédito que tengo actualmente?</a></div>
             </article>
             <article>
@@ -533,6 +530,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-solicitara-u-obtendra-una-copia-de-mi-informe-de-credito-mi-prestamista-es-322/" class="hover">¿Cuándo solicitará u obtendrá una copia de mi informe de crédito mi prestamista?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/afecta-mi-puntaje-que-un-prestamista-pida-una-copia-de-mi-informe-de-credito-es-321/" class="hover">¿Afecta mi puntaje que un prestamista pida una copia de mi informe de crédito?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

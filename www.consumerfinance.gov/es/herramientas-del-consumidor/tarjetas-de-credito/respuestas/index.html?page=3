@@ -455,7 +455,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 97 resultados  en tarjetas de crédito</p>
+        <p class="results-message">Se muestran 96 resultados  en tarjetas de crédito</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -481,9 +481,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/mi-factura-muestra-diferentes-tasas-efectivas-anuales-apr-y-muestra-cuanto-del-saldo-esta-sujeto-a-cada-tasa-de-interes-no-he-podido-determinar-como-se-calcula-esto-como-funciona-esto-es-39/" class="hover">Mi factura muestra diferentes tasas efectivas anuales (APR) y muestra cuánto del saldo está sujeto a cada tasa de interés. No he podido determinar cómo se calcula esto. ¿Cómo funciona esto?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/mi-factura-muestra-la-cantidad-de-cargos-que-he-pagado-durante-todo-el-ano-que-es-esto-es-38/" class="hover">Mi factura muestra la cantidad de cargos que he pagado durante todo el año. ¿Qué es esto?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/mi-factura-indica-la-cantidad-de-interes-que-he-pagado-durante-todo-el-ano-de-que-se-trata-eso-es-37/" class="hover">Mi factura indica la cantidad de interés que he pagado durante todo el año. ¿De qué se trata eso?</a></div>
@@ -532,6 +529,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/por-cuanto-tiempo-puedo-mantener-una-tasa-baja-en-una-transferencia-de-saldo-u-otra-tasa-introductoria-es-15/" class="hover">¿Por cuánto tiempo puedo mantener una tasa baja en una transferencia de saldo u otra tasa introductoria?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/el-emisor-de-la-tarjeta-puede-solicitar-informacion-sobre-mis-ingresos-mi-edad-y-mi-numero-de-seguro-social-cuando-solicito-una-tarjeta-de-credito-es-14/" class="hover">¿El emisor de la tarjeta puede solicitar información sobre mis ingresos, mi edad y mi número de seguro social cuando solicito una tarjeta de crédito?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

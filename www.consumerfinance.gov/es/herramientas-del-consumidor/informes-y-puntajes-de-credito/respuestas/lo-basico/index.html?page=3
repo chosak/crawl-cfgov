@@ -453,12 +453,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 60 resultados en lo básico</p>
+        <p class="results-message">Se muestran 59 resultados en lo básico</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-disputar-un-error-en-mi-informe-de-credito-es-314/" class="hover">¿Cómo puedo disputar un error en mi informe de crédito?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/a-que-debo-prestar-atencion-en-mi-informe-de-credito-cuales-son-algunos-de-los-errores-comunes-en-los-informes-de-credito-es-313/" class="hover">¿Cuáles son los errores comunes que debo buscar en mi informe de crédito?</a></div>
             </article>
@@ -472,9 +469,6 @@
                 <div class="h3 hover"><a href="/es/obtener-respuestas/se-puede-danar-mi-puntaje-de-credito-si-no-pago-una-parte-de-la-factura-en-disputa-es-66/" class="hover">¿Se puede dañar mi puntaje de crédito si no pago una parte de la factura en disputa?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-hacer-si-creo-que-he-sido-victima-de-robo-de-identidad-es-31/" class="hover">¿Qué debo hacer si creo que he sido víctima de un robo de identidad?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-obtener-una-copia-de-mi-informe-de-credito-es-5/" class="hover">¿Cómo puedo obtener una copia de mi informe de crédito?</a></div>
             </article>
             <article>
@@ -485,6 +479,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-obtener-mi-puntaje-de-credito-es-316/" class="hover">¿Dónde puedo encontrar mi puntaje de crédito?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-hacer-si-creo-que-he-sido-victima-de-robo-de-identidad-es-31/" class="hover">¿Qué debo hacer si creo que he sido víctima de un robo de identidad?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
