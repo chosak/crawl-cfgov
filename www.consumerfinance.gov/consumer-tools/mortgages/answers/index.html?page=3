@@ -1259,15 +1259,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1795" href="/ask-cfpb/my-lender-says-it-cant-lend-to-me-because-of-a-limit-on-points-and-fees-on-loans-is-this-true-en-1795/">My lender says it can't lend to me because of a limit on points and fees on loans. Is this true?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1793" href="/ask-cfpb/my-mortgage-lender-told-me-it-was-exempt-from-the-ability-to-repay-mortgage-rule-is-this-true-en-1793/">My mortgage lender told me it was exempt from the ability-to-repay mortgage rule. Is this true?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1791" href="/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/">What is a debt-to-income ratio?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1789" href="/ask-cfpb/what-is-a-qualified-mortgage-en-1789/">What is a Qualified Mortgage?</a></div>
             </article>
             <article>
@@ -1278,9 +1269,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1719" href="/ask-cfpb/i-saw-an-ad-for-a-no-payment-reverse-mortgage-from-the-department-of-veterans-affairs-va-is-this-legitimate-en-1719/">I saw an ad for a no-payment reverse mortgage from the Department of Veterans Affairs (VA). Is this legitimate?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1685" href="/ask-cfpb/should-i-use-a-home-equity-loan-to-refinance-my-student-loans-at-a-lower-interest-rate-en-1685/">Should I use a home equity loan to refinance my student loans at a lower interest rate?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1545" href="/ask-cfpb/what-should-i-do-if-the-house-or-apartment-im-renting-goes-into-foreclosure-en-1545/">What should I do if the house or apartment I’m renting goes into foreclosure?</a></div>
@@ -1296,9 +1284,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1509" href="/ask-cfpb/what-should-i-do-if-i-have-a-reverse-mortgage-and-i-cant-pay-my-property-taxes-or-insurance-en-1509/">What should I do if I have a reverse mortgage loan and I can’t pay my property taxes or homeowners insurance?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1263" href="/ask-cfpb/how-do-credit-reporting-companies-get-my-information-en-1263/">How do credit reporting companies get my information?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1219" href="/ask-cfpb/should-i-use-a-reverse-mortgage-to-consolidate-my-debts-en-1219/">Should I use a reverse mortgage to consolidate my debts?</a></div>
@@ -1332,6 +1317,21 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/353" href="/ask-cfpb/can-a-lender-or-broker-ask-me-about-the-alimony-child-support-or-separate-maintenance-payments-that-i-receive-en-353/">Can a lender or broker ask me about the alimony, child support, or separate maintenance payments that I receive?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/352" href="/ask-cfpb/i-am-married-or-was-previously-married-and-i-am-applying-for-a-mortgage-loan-or-home-equity-line-of-credit-in-my-own-name-can-a-lender-or-broker-ask-me-about-my-spouse-or-former-spouse-en-352/">I am married or was previously married, and I am applying for a mortgage loan or home equity line of credit in my own name. Can a lender or broker ask me about my spouse or former spouse?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/350" href="/ask-cfpb/can-a-lender-or-broker-consider-my-sex-or-marital-status-when-deciding-whether-to-give-me-a-mortgage-or-home-equity-loan-en-350/">Can a lender or broker consider my sex or marital status when deciding whether to give me a mortgage or home equity loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/349" href="/ask-cfpb/can-a-lender-or-broker-consider-the-fact-that-i-am-not-a-citizen-of-the-united-states-en-349/">Can a lender or broker consider the fact that I am not a citizen of the United States?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/348" href="/ask-cfpb/can-a-lender-or-broker-ask-me-about-my-race-color-religion-national-origin-or-sex-en-348/">Can a lender or broker ask me about my race, color, religion, national origin, or sex?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/347" href="/ask-cfpb/can-a-lender-or-broker-consider-whether-i-receive-income-from-a-public-assistance-program-when-deciding-whether-to-give-me-a-mortgage-or-home-equity-loan-en-347/">Can a lender or broker consider whether I receive income from a public assistance program when deciding whether to give me a mortgage or home equity loan?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
