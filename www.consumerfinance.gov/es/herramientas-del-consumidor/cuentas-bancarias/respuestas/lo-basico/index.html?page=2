@@ -445,9 +445,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/emiti-un-cheque-como-puedo-saber-si-fue-procesado-como-un-pago-electronico-o-como-pago-de-cheque-es-1019/" class="hover">Emití un cheque. ¿Cómo puedo saber si fue procesado como un pago electrónico o como pago de cheque?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/por-error-se-acredito-un-deposito-a-mi-cuenta-el-bancola-cooperativa-de-credito-puede-retirarlo-es-1015/" class="hover">Por error, se acreditó un depósito a mi cuenta. ¿El banco/la cooperativa de crédito puede retirarlo?</a></div>
             </article>
             <article>
@@ -518,6 +515,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/cuanto-puedo-pedir-prestado-con-una-linea-de-credito-personal-es-907/" class="hover">¿Cuánto puedo pedir prestado con una línea de crédito personal?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-tener-en-cuenta-al-comparar-ofertas-de-lineas-de-credito-personal-es-905/" class="hover">¿Qué debo tener en cuenta al comparar ofertas de líneas de crédito personal?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

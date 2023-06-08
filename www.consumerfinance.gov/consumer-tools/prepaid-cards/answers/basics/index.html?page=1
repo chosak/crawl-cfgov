@@ -1252,7 +1252,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 35 results within basics</p>
+        <p class="results-message">Showing 34 results within basics</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1275,9 +1275,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/403" href="/ask-cfpb/are-there-any-fees-to-use-a-payroll-card-en-403/">Are there any fees to use a payroll card?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/393" href="/ask-cfpb/do-i-need-good-credit-record-to-get-a-prepaid-card-en-393/">Do I need a good credit record to get a prepaid card?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/383" href="/ask-cfpb/where-can-i-use-my-prepaid-card-en-383/">Where can I use my prepaid card?</a></div>
@@ -1329,6 +1326,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/409" href="/ask-cfpb/what-is-a-government-benefit-card-en-409/">What is a government benefit card?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/417" href="/ask-cfpb/what-is-a-flexible-spending-account-fsa-card-health-savings-account-card-hsa-en-417/">What is a flexible spending account (FSA) card or health savings account card (HSA)?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
