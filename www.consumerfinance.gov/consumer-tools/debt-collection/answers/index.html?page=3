@@ -1156,7 +1156,7 @@
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Breadcrumbs">
         <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__left" viewBox="0 0 10 19"><path d="M8.4 17.269a1.026 1.026 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"/></svg>
-                <a class="breadcrumbs_link" href="/consumer-tools/debt-collection/">
+                <a href="/consumer-tools/debt-collection/">
                     Debt Collection
                 </a>
     </nav>
@@ -1268,9 +1268,6 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1387" href="/ask-cfpb/what-is-an-original-creditor-and-what-is-the-difference-between-an-original-creditor-and-a-debt-collector-en-1387/">What is an original creditor and what is the difference between an original creditor and a debt collector?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1447" href="/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/">What is the best way to negotiate a settlement with a debt collector?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/329" href="/ask-cfpb/what-laws-limit-what-debt-collectors-can-say-or-do-en-329/">What laws limit what debt collectors can say or do?</a></div>
             </article>
             <article>
@@ -1284,6 +1281,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1469" href="/ask-cfpb/can-i-be-personally-responsible-for-paying-deceased-relatives-debts-can-debt-collector-contact-me-about-those-debts-en-1469/">Can I be personally responsible for paying my deceased relative's debts and can a debt collector contact me about those debts?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1447" href="/ask-cfpb/what-is-the-best-way-to-negotiate-a-settlement-with-a-debt-collector-en-1447/">What is the best way to negotiate a settlement with a debt collector?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2110" href="/ask-cfpb/how-often-can-a-debt-collector-call-me-en-2110/">When and how often can a debt collector call me on the phone?</a></div>

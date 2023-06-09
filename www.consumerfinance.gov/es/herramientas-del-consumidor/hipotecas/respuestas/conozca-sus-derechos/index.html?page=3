@@ -342,10 +342,11 @@
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Guía de navegación">
         <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__left" viewBox="0 0 10 19"><path d="M8.4 17.269a1.026 1.026 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"/></svg>
-                <a class="breadcrumbs_link" href="/es/herramientas-del-consumidor/">
+                <a href="/es/herramientas-del-consumidor/">
                     Herramientas del consumidor
                 </a>
-                <a class="breadcrumbs_link" href="/es/herramientas-del-consumidor/hipotecas/">
+                /
+                <a href="/es/herramientas-del-consumidor/hipotecas/">
                     Hipotecas
                 </a>
     </nav>
@@ -445,9 +446,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/puedo-en-algun-momento-renunciar-a-mi-derecho-de-rescindir-un-prestamo-hipotecario-es-188/" class="hover">¿Puedo en algún momento renunciar a mi derecho de rescindir un préstamo hipotecario?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/cuanto-tiempo-tengo-para-rescindir-el-prestamo-cuando-comienza-el-derecho-de-rescision-es-187/" class="hover">¿Cuánto tiempo tengo para rescindir el préstamo? ¿Cuándo comienza el derecho de rescisión?</a></div>
             </article>
             <article>
@@ -467,6 +465,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/puede-un-prestamista-exigir-documentos-como-mi-formulario-w-2-o-mi-comprobante-de-pago-para-darme-una-estimacion-del-prestamo-es-147/" class="hover">¿Puede un prestamista exigir documentos como mi formulario W-2 o mi comprobante de pago para darme una estimación del préstamo?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/acabo-de-iniciar-un-nuevo-negocio-e-intente-obtener-un-prestamo-hipotecario-para-mi-compania-creo-que-el-prestamista-tuvo-un-trato-discriminatorio-en-mi-contra-y-en-contra-de-mi-empresa-que-derechos-tengo-conforme-a-la-ley-es-344/" class="hover">Acabo de iniciar un nuevo negocio e intenté obtener un préstamo hipotecario para mi compañía. Creo que el prestamista tuvo un trato discriminatorio en mi contra y en contra de mi empresa. ¿Qué derechos tengo conforme a la ley?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -1156,7 +1156,7 @@
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Breadcrumbs">
         <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__left" viewBox="0 0 10 19"><path d="M8.4 17.269a1.026 1.026 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"/></svg>
-                <a class="breadcrumbs_link" href="/consumer-tools/mortgages/">
+                <a href="/consumer-tools/mortgages/">
                     Mortgages
                 </a>
     </nav>
@@ -1252,12 +1252,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 104 results within common issues</p>
+        <p class="results-message">Showing 103 results within common issues</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1513" href="/ask-cfpb/if-i-have-been-affected-by-a-natural-disaster-what-should-i-do-in-the-days-immediately-following-it-en-1513/">What should I do after a disaster to protect my finances and property?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/235" href="/ask-cfpb/do-i-still-need-to-pay-my-property-taxes-and-home-insurance-with-a-reverse-mortgage-loan-en-235/">What are my responsibilities as a reverse mortgage loan borrower?</a></div>
             </article>
@@ -1329,6 +1326,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/221" href="/ask-cfpb/my-mortgage-servicer-refuses-to-accept-my-payment-what-can-i-do-en-221/">My mortgage servicer refuses to accept my payment. What can I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/211" href="/ask-cfpb/my-mortgage-servicer-has-not-responded-to-a-notice-of-error-or-information-request-that-i-sent-what-can-i-do-en-211/">My mortgage servicer has not responded to a notice of error or information request that I sent. What can I do?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

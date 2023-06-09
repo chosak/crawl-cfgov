@@ -342,10 +342,11 @@
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Guía de navegación">
         <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__left" viewBox="0 0 10 19"><path d="M8.4 17.269a1.026 1.026 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"/></svg>
-                <a class="breadcrumbs_link" href="/es/herramientas-del-consumidor/">
+                <a href="/es/herramientas-del-consumidor/">
                     Herramientas del consumidor
                 </a>
-                <a class="breadcrumbs_link" href="/es/herramientas-del-consumidor/hipotecas/">
+                /
+                <a href="/es/herramientas-del-consumidor/hipotecas/">
                     Hipotecas
                 </a>
     </nav>
@@ -445,9 +446,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/el-administrador-se-niega-a-aceptar-mi-pago-que-puedo-hacer-es-221/" class="hover">El administrador se niega a aceptar mi pago. ¿Qué puedo hacer?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/recibi-una-notificacion-de-mi-compania-de-seguros-en-la-que-se-cancelo-el-seguro-contra-riesgos-por-no-haber-hecho-los-pagos-de-las-primas-descubri-que-mi-prestamista-o-administrador-coloco-un-seguro-contra-riesgos-forzoso-con-una-compania-dif-es-219/" class="hover">¿Qué puedo hacer si el prestamista o administrador hipotecario me están cobrando por un seguro forzoso para propietarios de vivienda?</a></div>
             </article>
             <article>
@@ -518,6 +516,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/nunca-recibi-una-estimacion-del-prestamo-que-puedo-hacer-es-148/" class="hover">Nunca recibí una Estimación del Préstamo. ¿Qué puedo hacer?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/puede-un-prestamista-exigir-documentos-como-mi-formulario-w-2-o-mi-comprobante-de-pago-para-darme-una-estimacion-del-prestamo-es-147/" class="hover">¿Puede un prestamista exigir documentos como mi formulario W-2 o mi comprobante de pago para darme una estimación del préstamo?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
