@@ -1258,12 +1258,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 65 results within basics</p>
+        <p class="results-message">Showing 64 results within basics</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1005" href="/ask-cfpb/how-can-i-be-sure-my-money-is-safe-in-my-bank-account-en-1005/">How can I be sure my money is safe in my bank account?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/981" href="/ask-cfpb/how-do-i-avoid-atm-fees-en-981/">How do I avoid ATM fees?</a></div>
             </article>
@@ -1335,6 +1332,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2076" href="/ask-cfpb/what-should-i-know-before-investing-in-a-529-savings-plan-en-2076/">What should I know before investing in a 529 savings plan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2078" href="/ask-cfpb/what-are-the-differences-between-529-plans-en-2078/">What are the differences between 529 plans?</a></div>
             </article>
             <div class="block block--sub">
     <nav class="m-pagination"

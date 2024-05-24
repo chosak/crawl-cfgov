@@ -1261,12 +1261,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 125 results  within bank accounts</p>
+        <p class="results-message">Showing 124 results  within bank accounts</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1027" href="/ask-cfpb/should-i-enroll-in-direct-deposit-en-1027/">Should I enroll in direct deposit?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1025" href="/ask-cfpb/i-get-my-paycheck-by-direct-deposit-when-can-i-withdraw-the-funds-en-1025/">I get my paycheck by direct deposit. When can I withdraw the funds?</a></div>
             </article>
@@ -1338,6 +1335,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/957" href="/ask-cfpb/can-i-close-my-account-whenever-i-want-en-957/">Can I close my account whenever I want?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/955" href="/ask-cfpb/my-bankcredit-union-no-longer-provides-copies-of-my-cancelled-checks-with-my-statement-can-the-bankcredit-union-do-that-en-955/">My bank/credit union no longer provides copies of my cancelled checks with my statement. Can the bank/credit union do that?</a></div>
             </article>
             <div class="block block--sub">
     <nav class="m-pagination"

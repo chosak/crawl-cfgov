@@ -1261,12 +1261,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 125 results  within bank accounts</p>
+        <p class="results-message">Showing 124 results  within bank accounts</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1123" href="/ask-cfpb/if-i-paid-someone-through-my-bank-or-credit-unions-online-bill-pay-service-why-did-the-person-receive-a-paper-check-en-1123/">If I paid someone through my bank or credit union's online bill pay service, why did the person receive a paper check?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1113" href="/ask-cfpb/when-can-i-be-denied-a-checking-account-based-on-my-past-banking-history-en-1113/">When can I be denied a checking account based on my past banking history?</a></div>
             </article>
@@ -1338,6 +1335,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1029" href="/ask-cfpb/i-made-a-cash-deposit-into-my-checking-account-i-attempted-a-withdrawal-later-that-day-and-was-told-i-could-not-withdraw-until-tomorrow-can-the-bank-do-this-en-1029/">I made a cash deposit into my checking account. I attempted a withdrawal later that day and was told I could not withdraw until tomorrow. Can the bank do this?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1027" href="/ask-cfpb/should-i-enroll-in-direct-deposit-en-1027/">Should I enroll in direct deposit?</a></div>
             </article>
             <div class="block block--sub">
     <nav class="m-pagination"

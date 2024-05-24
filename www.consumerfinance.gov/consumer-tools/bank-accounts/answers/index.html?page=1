@@ -1261,7 +1261,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 125 results  within bank accounts</p>
+        <p class="results-message">Showing 124 results  within bank accounts</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1281,9 +1281,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1775" href="/ask-cfpb/what-is-a-revocable-living-trust-en-1775/">What is a revocable living trust?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2115" href="/ask-cfpb/do-i-have-to-pay-off-a-buy-now-pay-later-bnpl-loan-if-i-want-to-return-my-purchase-en-2115/">Do I have to pay off a Buy Now, Pay Later (BNPL) loan if I want to return my purchase?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2116" href="/ask-cfpb/what-happens-if-i-cant-pay-back-a-buy-now-pay-later-bnpl-loan-en-2116/">What happens if I can’t pay back a Buy Now, Pay Later (BNPL) loan?</a></div>
@@ -1338,6 +1335,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1129" href="/ask-cfpb/are-rules-different-for-accounts-at-savings-association-than-at-a-bank-en-1129/">Are the rules different for accounts at a savings association than they are for accounts at a bank?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1123" href="/ask-cfpb/if-i-paid-someone-through-my-bank-or-credit-unions-online-bill-pay-service-why-did-the-person-receive-a-paper-check-en-1123/">If I paid someone through my bank or credit union's online bill pay service, why did the person receive a paper check?</a></div>
             </article>
             <div class="block block--sub">
     <nav class="m-pagination"
