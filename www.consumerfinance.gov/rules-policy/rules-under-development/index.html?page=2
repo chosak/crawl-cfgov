@@ -1448,8 +1448,7 @@
     <div class="m-meta-header">
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2019-06-20T00:00:00">JUN 20, 2019</time>
-</span>
+                <span class="datetime"><time datetime="2019-06-20T00:00:00">JUN 20, 2019</time></span>
             </span>
         </div>
     </div>
@@ -1487,8 +1486,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2019-05-07T00:00:00">MAY 07, 2019</time>
-</span>
+                <span class="datetime"><time datetime="2019-05-07T00:00:00">MAY 07, 2019</time></span>
             </span>
         </div>
     </div>
@@ -1538,8 +1536,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2019-05-02T00:00:00">MAY 02, 2019</time>
-</span>
+                <span class="datetime"><time datetime="2019-05-02T00:00:00">MAY 02, 2019</time></span>
             </span>
         </div>
     </div>
@@ -1577,8 +1574,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2019-05-02T00:00:00">MAY 02, 2019</time>
-</span>
+                <span class="datetime"><time datetime="2019-05-02T00:00:00">MAY 02, 2019</time></span>
             </span>
         </div>
     </div>
@@ -1616,8 +1612,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2019-03-04T00:00:00">MAR 04, 2019</time>
-</span>
+                <span class="datetime"><time datetime="2019-03-04T00:00:00">MAR 04, 2019</time></span>
             </span>
         </div>
     </div>
@@ -1667,8 +1662,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2017-07-14T00:00:00">JUL 14, 2017</time>
-</span>
+                <span class="datetime"><time datetime="2017-07-14T00:00:00">JUL 14, 2017</time></span>
             </span>
         </div>
     </div>
@@ -1706,8 +1700,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2017-04-13T00:00:00">APR 13, 2017</time>
-</span>
+                <span class="datetime"><time datetime="2017-04-13T00:00:00">APR 13, 2017</time></span>
             </span>
         </div>
     </div>
@@ -1745,8 +1738,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2016-08-24T00:00:00">AUG 24, 2016</time>
-</span>
+                <span class="datetime"><time datetime="2016-08-24T00:00:00">AUG 24, 2016</time></span>
             </span>
         </div>
     </div>
@@ -1790,8 +1782,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2013-11-12T00:00:00">NOV 12, 2013</time>
-</span>
+                <span class="datetime"><time datetime="2013-11-12T00:00:00">NOV 12, 2013</time></span>
             </span>
         </div>
     </div>
@@ -1835,8 +1826,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2013-05-07T00:00:00">MAY 07, 2013</time>
-</span>
+                <span class="datetime"><time datetime="2013-05-07T00:00:00">MAY 07, 2013</time></span>
             </span>
         </div>
     </div>
@@ -1874,8 +1864,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2013-03-01T00:00:00">MAR 01, 2013</time>
-</span>
+                <span class="datetime"><time datetime="2013-03-01T00:00:00">MAR 01, 2013</time></span>
             </span>
         </div>
     </div>
@@ -1919,8 +1908,7 @@
         </div>
         <div class="m-meta-header__item">
             <span class="a-date">
-                <span class="datetime"><time datetime="2012-11-16T00:00:00">NOV 16, 2012</time>
-</span>
+                <span class="datetime"><time datetime="2012-11-16T00:00:00">NOV 16, 2012</time></span>
             </span>
         </div>
     </div>
@@ -2063,8 +2051,7 @@
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time datetime="2024-06-14T00:00:00">JUN 14, 2024</time>
-</span>
+                    <span class="datetime"><time datetime="2024-06-14T00:00:00">JUN 14, 2024</time></span>
                 </p>
             </li>
             <li class="m-list__item">
@@ -2075,8 +2062,7 @@
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time datetime="2023-06-12T00:00:00">JUN 12, 2023</time>
-</span>
+                    <span class="datetime"><time datetime="2023-06-12T00:00:00">JUN 12, 2023</time></span>
                 </p>
             </li>
     </ul>
@@ -2092,25 +2078,23 @@
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
-                       href="/about-us/newsroom/opening-statement-of-director-rohit-chopra-before-the-house-financial-services-committee/">
-                        Opening Statement of Director Rohit Chopra before the House Financial Services Committee
+                       href="/about-us/newsroom/cfpb-extends-compliance-dates-for-small-business-lending-rule/">
+                        CFPB Extends Compliance Dates for Small Business Lending Rule
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time datetime="2024-06-13T00:00:00">JUN 13, 2024</time>
-</span>
+                    <span class="datetime"><time datetime="2024-06-25T00:00:00">JUN 25, 2024</time></span>
                 </p>
             </li>
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
-                       href="/about-us/newsroom/opening-statement-of-director-rohit-chopra-before-the-senate-committee-on-banking-housing-and-urban-affairs-2024/">
-                        Opening Statement of Director Rohit Chopra before the Senate Committee on Banking, Housing, and Urban Affairs
+                       href="/about-us/newsroom/opening-statement-of-director-rohit-chopra-before-the-house-financial-services-committee/">
+                        Opening Statement of Director Rohit Chopra before the House Financial Services Committee
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time datetime="2024-06-12T00:00:00">JUN 12, 2024</time>
-</span>
+                    <span class="datetime"><time datetime="2024-06-13T00:00:00">JUN 13, 2024</time></span>
                 </p>
             </li>
     </ul>
