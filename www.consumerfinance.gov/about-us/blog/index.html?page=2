@@ -1427,13 +1427,63 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">1642 filtered results</div>
+          <div class="m-notification__message">1643 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
+        Data, research, and reports
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2024-03-08T00:00:00">MAR 08, 2024</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/about-us/blog/junk-fees-are-driving-up-housing-costs-the-cfpb-wants-to-hear-from-you/">Junk fees are driving up housing costs. The CFPB wants to hear from you.</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Housing costs are high and a lack of competition in pricing and high fees compound the affordability problem.
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Julie Margetta Morgan</a>
+        </div>
+<div class="m-tags">
+    <ul class="m-tags__list" aria-label="Topics">
+        <li class="m-tags__item">
+            <a href="?topics=homebuying" class="m-tags__tag">
+                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
+                Homebuying
+            </a>
+        </li>
+        <li class="m-tags__item">
+            <a href="?topics=mortgage-closing" class="m-tags__tag">
+                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
+            </a>
+        </li>
+        <li class="m-tags__item">
+            <a href="?topics=mortgages" class="m-tags__tag">
+                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -2392,40 +2442,6 @@
         </h3>
         <div class="o-post-preview__description">
             In October, most federal student loan borrowers will make their first student loan payments since March 2020. Changes to the federal student loan program, though, may mean many borrowers are eligible for a reduced payment or a loan cancellation.
-        </div>
-<div class="m-tags">
-    <ul class="m-tags__list" aria-label="Topics">
-        <li class="m-tags__item">
-            <a href="?topics=student-loans" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Student loans
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="es">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--information" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917M5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.8 6.8 0 0 0-2.65.534m2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0"/></svg>
-        Info for consumers
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2023-09-05T00:00:00">SEP 05, 2023</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/about-us/blog/prestamistas-estudiantiles-federales-podrian-recibir-cancelacion-o-pagos-mas-bajos/">Prestamistas estudiantiles federales podrían recibir cancelación o pagos más bajos</a>
-        </h3>
-        <div class="o-post-preview__description">
-            En octubre, la mayoría de los prestatarios de préstamos estudiantiles federales harán su primer pago desde marzo del 2020. Los cambios hechos al programa podrían hacer a muchos de ellos elegibles para tener pagos más bajos, o para la cancelación de sus préstamos.
         </div>
 <div class="m-tags">
     <ul class="m-tags__list" aria-label="Topics">
