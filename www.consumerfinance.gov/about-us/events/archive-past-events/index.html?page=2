@@ -1944,7 +1944,7 @@
     <div class="o-post-preview__image-container">
         <img
             class="o-post-preview__image"
-            src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-77.036543,38.895037,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
+            src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-77.04013,38.903797,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
             alt=""
         >
     </div>
