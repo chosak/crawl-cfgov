@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.883422968e65.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.0cc15c7f8ff0.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1269,7 +1269,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 59 results  within auto loans</p>
+        <p class="results-message">Showing 58 results  within auto loans</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1336,9 +1336,6 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/755" href="/ask-cfpb/what-should-i-know-before-i-shop-for-auto-loan-at-a-bank-credit-union-dealership-or-other-lender-en-755/">What should I know before I shop for a car or auto loan?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/757" href="/ask-cfpb/what-is-the-difference-between-fixed-and-variable-rate-auto-financing-en-757/">What is the difference between fixed- and variable-rate auto financing?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/759" href="/ask-cfpb/what-is-the-difference-between-dealer-arranged-and-bank-financing-en-759/">What are the different ways to buy or finance a car or vehicle?</a></div>
             </article>
             <article>
@@ -1346,6 +1343,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/763" href="/ask-cfpb/how-will-shopping-for-an-auto-loan-affect-my-credit-en-763/">How will shopping for an auto loan affect my credit?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/765" href="/ask-cfpb/how-does-a-lender-decide-what-interest-rate-to-offer-me-on-an-auto-loan-en-765/">How does a lender decide what interest rate to offer me on an auto loan?</a></div>
             </article>
             <div class="block block--sub">
     <nav class="m-pagination"

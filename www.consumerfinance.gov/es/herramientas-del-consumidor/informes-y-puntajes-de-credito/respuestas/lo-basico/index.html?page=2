@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.883422968e65.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.0cc15c7f8ff0.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -457,7 +457,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 48 resultados en lo básico</p>
+        <p class="results-message">Se muestran 50 resultados en lo básico</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -486,6 +486,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-averiguar-lo-que-hay-en-mi-historial-de-pagos-medicos-es-1837/" class="hover">¿Cómo puedo averiguar lo que hay en mi historial de pagos médicos?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/por-que-necesito-un-historial-de-credito-es-2154/" class="hover">¿Por qué necesito un historial de crédito?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/cuales-son-algunas-maneras-de-iniciar-o-reconstruir-un-buen-historial-de-credito-es-2155/" class="hover">¿Cuáles son algunas maneras de iniciar o reconstruir un buen historial de crédito?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-puede-un-emisor-de-tarjetas-mirar-mi-informe-de-credito-es-3/" class="hover">¿Cuándo puede un emisor de tarjetas mirar mi informe de crédito?</a></div>

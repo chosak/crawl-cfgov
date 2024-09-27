@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.883422968e65.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.0cc15c7f8ff0.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1744,44 +1744,6 @@
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
                 <span class="m-meta-header__item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--open-quote" viewBox="0 0 16 19"><path d="M6.808 11.29a3.2 3.2 0 0 1 .097 1.464 3.2 3.2 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.9 3.9 0 0 1 .26 12.269a4.4 4.4 0 0 1-.052-.653 6 6 0 0 1 .027-.74 5.5 5.5 0 0 1 .33-1.388 5.7 5.7 0 0 1 1.498-2.193A6.7 6.7 0 0 1 4.41 5.923q.344-.118.699-.201a1.24 1.24 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.6 5.6 0 0 0-1.356.458 4.57 4.57 0 0 0-1.988 1.812 3 3 0 0 1 .998-.367 3.09 3.09 0 0 1 3.248 1.552 3 3 0 0 1 .257.611m8.941.435a3 3 0 0 1 .038.708 3.2 3.2 0 0 1-1.207 2.265 3.33 3.33 0 0 1-2.609.615 3.38 3.38 0 0 1-2.165-1.35 3.7 3.7 0 0 1-.55-1.085 4.5 4.5 0 0 1-.203-1.224 5.6 5.6 0 0 1 .567-2.656 5.8 5.8 0 0 1 1.598-1.967 6.9 6.9 0 0 1 2.357-1.21 5 5 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.3 1.3 0 0 1-.542.201 5.5 5.5 0 0 0-1.278.47 4.54 4.54 0 0 0-1.885 1.76 3.05 3.05 0 0 1 1.242-.4 3.1 3.1 0 0 1 3.359 2.631"/></svg>
-        Director's statement
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2024-09-17T00:00:00">SEP 17, 2024</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-member-fdic-board-of-directors-on-stopping-fintech-deposit-meltdowns/">Statement of CFPB Director Rohit Chopra, Member, FDIC Board of Directors, on Stopping Fintech Deposit Meltdowns</a>
-        </h3>
-        <div class="o-post-preview__description">
-            Over the past decade, we have seen a significant incursion into consumer deposit taking and payments activities by companies that aren’t banks or credit unions. These firms want the public benefits of being a bank or credit union, without the public obligations.
-        </div>
-        <div class="o-post-preview__byline-group">
-                By 
-                Rohit Chopra</a>
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=banking" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Banking</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
        <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
         Press release
                 </span>
@@ -1836,6 +1798,44 @@
             <a href="?topics=overdraft" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
                 <span class="a-tag-topic__text">Overdraft</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--open-quote" viewBox="0 0 16 19"><path d="M6.808 11.29a3.2 3.2 0 0 1 .097 1.464 3.2 3.2 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.9 3.9 0 0 1 .26 12.269a4.4 4.4 0 0 1-.052-.653 6 6 0 0 1 .027-.74 5.5 5.5 0 0 1 .33-1.388 5.7 5.7 0 0 1 1.498-2.193A6.7 6.7 0 0 1 4.41 5.923q.344-.118.699-.201a1.24 1.24 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.6 5.6 0 0 0-1.356.458 4.57 4.57 0 0 0-1.988 1.812 3 3 0 0 1 .998-.367 3.09 3.09 0 0 1 3.248 1.552 3 3 0 0 1 .257.611m8.941.435a3 3 0 0 1 .038.708 3.2 3.2 0 0 1-1.207 2.265 3.33 3.33 0 0 1-2.609.615 3.38 3.38 0 0 1-2.165-1.35 3.7 3.7 0 0 1-.55-1.085 4.5 4.5 0 0 1-.203-1.224 5.6 5.6 0 0 1 .567-2.656 5.8 5.8 0 0 1 1.598-1.967 6.9 6.9 0 0 1 2.357-1.21 5 5 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.3 1.3 0 0 1-.542.201 5.5 5.5 0 0 0-1.278.47 4.54 4.54 0 0 0-1.885 1.76 3.05 3.05 0 0 1 1.242-.4 3.1 3.1 0 0 1 3.359 2.631"/></svg>
+        Director's statement
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2024-09-17T00:00:00">SEP 17, 2024</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-member-fdic-board-of-directors-on-stopping-fintech-deposit-meltdowns/">Statement of CFPB Director Rohit Chopra, Member, FDIC Board of Directors, on Stopping Fintech Deposit Meltdowns</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Over the past decade, we have seen a significant incursion into consumer deposit taking and payments activities by companies that aren’t banks or credit unions. These firms want the public benefits of being a bank or credit union, without the public obligations.
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Rohit Chopra</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=banking" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Banking</span>
             </a>
         </li>
     </ul>

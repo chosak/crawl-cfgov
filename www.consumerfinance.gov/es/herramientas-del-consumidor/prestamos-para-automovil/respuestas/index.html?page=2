@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.883422968e65.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.0cc15c7f8ff0.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -459,12 +459,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 59 resultados  en préstamos para vehículos</p>
+        <p class="results-message">Se muestran 58 resultados  en préstamos para vehículos</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-decide-un-prestamista-que-tasa-de-interes-ofrecerme-para-un-prestamo-vehicular-es-765/" class="hover">¿Cómo decide un prestamista qué tasa de interés ofrecerme para un préstamo vehicular?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-la-fijacion-de-precios-basada-en-el-riesgo-es-767/" class="hover">¿Qué es la fijación de precios basada en el riesgo?</a></div>
             </article>
@@ -536,6 +533,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/cual-es-la-diferencia-entre-una-tasa-de-interes-simple-y-un-interes-precalculado-en-un-prestamo-vehicular-es-841/" class="hover">¿Cuál es la diferencia entre una tasa de interés simple y un interés precalculado en un préstamo vehicular?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/puedo-pagar-mi-prestamo-por-adelantado-en-cualquier-momento-sin-que-me-penalicen-es-843/" class="hover">¿Puedo pagar mi préstamo por adelantado en cualquier momento sin que me penalicen?</a></div>
             </article>
             <div class="block block--sub">
     <nav class="m-pagination"

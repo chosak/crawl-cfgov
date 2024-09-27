@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.883422968e65.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.0cc15c7f8ff0.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1269,12 +1269,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 59 results  within auto loans</p>
+        <p class="results-message">Showing 58 results  within auto loans</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/765" href="/ask-cfpb/how-does-a-lender-decide-what-interest-rate-to-offer-me-on-an-auto-loan-en-765/">How does a lender decide what interest rate to offer me on an auto loan?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/767" href="/ask-cfpb/what-is-risk-based-pricing-en-767/">What is risk-based pricing?</a></div>
             </article>
@@ -1346,6 +1343,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/841" href="/ask-cfpb/whats-the-difference-between-a-simple-interest-rate-and-precomputed-interest-on-an-auto-loan-en-841/">What's the difference between a simple interest rate and precomputed interest on an auto loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/843" href="/ask-cfpb/can-i-prepay-my-loan-at-any-time-without-penalty-en-843/">Can I prepay my loan at any time without penalty?</a></div>
             </article>
             <div class="block block--sub">
     <nav class="m-pagination"

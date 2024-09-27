@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.883422968e65.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.0cc15c7f8ff0.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1240,6 +1240,18 @@
           >
     <form method="get" action=".">
         <div class="content-l">
+        <div class="content-l__col
+                    content-l__col-1">
+            <div class="o-form__group">
+                <div class="m-form-field">
+                    <label class="a-label a-label--heading"
+                           for="o-filterable-list-controls_title">
+                        Search by keyword(s)
+                    </label>
+                    <input type="text" name="title" id="o-filterable-list-controls_title" class="a-text-input a-text-input--full" maxlength="250">
+                </div>
+            </div>
+        </div>
     <div class="content-l__col
                 content-l__col-1-2">
         <div class="o-form__group">
@@ -1255,6 +1267,7 @@
   <option value="banking">Banking</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="business-loans">Business loans</option>
+  <option value="cfpb-research-conference">CFPB Research Conference</option>
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="consumer-complaints">Consumer complaints</option>
@@ -2103,6 +2116,12 @@ The event is open to the public and will be streamed live on the Bureau’s YouT
         </div>
 <div>
     <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=cfpb-research-conference" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">CFPB Research Conference</span>
+            </a>
+        </li>
         <li>
             <a href="?topics=research" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>

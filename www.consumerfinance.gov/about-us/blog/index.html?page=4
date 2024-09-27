@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.883422968e65.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.0cc15c7f8ff0.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -2195,7 +2195,7 @@
 </div>
         </div>
 </article>
-                        <article class="o-post-preview" lang="es">
+                        <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
                 <span class="m-meta-header__item">
@@ -2212,10 +2212,10 @@
     </div>
     <div class="o-post-preview__content">
         <h3 class="o-post-preview__title">
-            <a href="/about-us/blog/cfpb-entrega-al-congreso-el-reporte-anual-del-2022-sobre-equidad-en-el-credito/">CFPB entrega al congreso el reporte anual del 2022 sobre equidad en el crédito</a>
+            <a href="/about-us/blog/the-cfpbs-2022-fair-lending-annual-report-to-congress/">The CFPB&#39;s 2022 fair lending annual report to congress</a>
         </h3>
         <div class="o-post-preview__description">
-            CFPB entrega al Congreso su Reporte Anual sobre la Equidad en el Crédito, describiendo nuestras actividades en el año 2022.
+            The CFPB releases its Fair Lending Annual Report to Congress, describing its fair lending activities in enforcement and supervision; guidance and rulemaking; interagency coordination; and outreach and education for calendar year 2022.
         </div>
         <div class="o-post-preview__byline-group">
                 By 
@@ -2263,7 +2263,7 @@
 </div>
         </div>
 </article>
-                        <article class="o-post-preview" lang="en">
+                        <article class="o-post-preview" lang="es">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
                 <span class="m-meta-header__item">
@@ -2280,10 +2280,10 @@
     </div>
     <div class="o-post-preview__content">
         <h3 class="o-post-preview__title">
-            <a href="/about-us/blog/the-cfpbs-2022-fair-lending-annual-report-to-congress/">The CFPB&#39;s 2022 fair lending annual report to congress</a>
+            <a href="/about-us/blog/cfpb-entrega-al-congreso-el-reporte-anual-del-2022-sobre-equidad-en-el-credito/">CFPB entrega al congreso el reporte anual del 2022 sobre equidad en el crédito</a>
         </h3>
         <div class="o-post-preview__description">
-            The CFPB releases its Fair Lending Annual Report to Congress, describing its fair lending activities in enforcement and supervision; guidance and rulemaking; interagency coordination; and outreach and education for calendar year 2022.
+            CFPB entrega al Congreso su Reporte Anual sobre la Equidad en el Crédito, describiendo nuestras actividades en el año 2022.
         </div>
         <div class="o-post-preview__byline-group">
                 By 
