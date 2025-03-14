@@ -4,27 +4,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <title>Office of Civil Rights | Consumer Financial Protection Bureau</title>
-    <meta name="template" content="v1/browse-basic/index.html">
+    <title>Supervisory Guidance | Consumer Financial Protection Bureau</title>
+    <meta name="template" content="v1/browse-filterable/index.html">
     <meta name="description"
-          content=" The Office of Civil Rights works to ensure that the CFPB continues to meet its ongoing commitment to equal opportunity for its employees, applicants for employment at CFPB, and the members of the public with disabilities seeking equal access to CFPB programs and activities. ">
-      <link rel="canonical" href="https://www.consumerfinance.gov/office-civil-rights/">
-      <meta property="og:url" content="https://www.consumerfinance.gov/office-civil-rights/">
-    <meta property="og:title" content="Office of Civil Rights | Consumer Financial Protection Bureau">
+          content="The Bureau periodically releases policy guidance, including compliance bulletins, joint-agency memoranda, and other notices and guidance to inform and advise regulated entities.">
+      <link rel="canonical" href="https://www.consumerfinance.gov/compliance/supervisory-guidance/">
+      <meta property="og:url" content="https://www.consumerfinance.gov/compliance/supervisory-guidance/">
+    <meta property="og:title" content="Supervisory Guidance | Consumer Financial Protection Bureau">
     <meta property="og:type" content="website">
         <meta property="og:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
         <meta property="twitter:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_twitter.ebc43e92acd1.png">
     <meta property="og:description"
-          content="Office of Civil Rights">
+          content="The Bureau periodically releases policy guidance, including compliance bulletins, joint-agency memoranda, and other notices and guidance to inform and advise regulated entities.">
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/site.webmanifest">
-          <link rel="stylesheet" href="/static/css/on-demand/sidebar-contact-info.ef3985243ca0.css" />
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -689,7 +688,7 @@
 </li>
 <li class="o-mega-menu__content-item o-mega-menu__content-1-item"
     data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="/compliance/">
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children o-mega-menu__content-link--current o-mega-menu__content-1-link--current" data-js-hook="behavior_flyout-menu_trigger" href="/compliance/">
 <div aria-level="2" role="heading">
         Compliance
         <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--right" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.02 1.02 0 0 1-.727.302z"></path></svg></span>
@@ -768,7 +767,7 @@
 </li>
 <li class="o-mega-menu__content-item o-mega-menu__content-2-item"
     >
-    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link o-mega-menu__content-link--current o-mega-menu__content-2-link--current"
        href="/compliance/supervisory-guidance/"
        >
         Supervisory Guidance
@@ -1157,7 +1156,7 @@
         <div class="u-layout-grid__wrapper">
                 <aside class="u-layout-grid__secondary-nav">
                     <nav class="o-secondary-nav
-            "
+            o-secondary-nav--no-children"
      aria-label="Section navigation">
     <button class="o-secondary-nav__header" type="button" aria-expanded="false">
         <span class="o-secondary-nav__label">
@@ -1175,46 +1174,62 @@
     <div class="o-secondary-nav__content">
         <ul class="o-secondary-nav__list
                    o-secondary-nav__list--parents">
+            <li data-nav-is-active="False">
+<a class="o-secondary-nav__link
+          o-secondary-nav__link--parent
+          "
+   href=/compliance/supervision-examinations/>
+    Supervision &amp; Examinations
+</a>
+</li>
+            <li data-nav-is-active="False">
+<a class="o-secondary-nav__link
+          o-secondary-nav__link--parent
+          "
+   href=/compliance/supervisory-highlights/>
+    Supervisory Highlights
+</a>
+</li>
             <li data-nav-is-active="True">
 <a class="o-secondary-nav__link
           o-secondary-nav__link--parent
           o-secondary-nav__link--current"
    >
-    Office of Civil Rights
+    Supervisory Guidance
 </a>
-<ul class="o-secondary-nav__list
-                           o-secondary-nav__list--children"><li>
+</li>
+            <li data-nav-is-active="False">
 <a class="o-secondary-nav__link
+          o-secondary-nav__link--parent
           "
-   href=/office-civil-rights/eeo-policy-and-reports/>
-    EEO Policy &amp; Reports
+   href=/compliance/advisory-opinion-program/>
+    Advisory Opinion Program
 </a>
-                    </li><li>
+</li>
+            <li data-nav-is-active="False">
 <a class="o-secondary-nav__link
+          o-secondary-nav__link--parent
           "
-   href=/office-civil-rights/no-fear-act-cummings-act/>
-    No FEAR Act &amp; Cummings Act
+   href=/compliance/registration-and-submission-programs/>
+    Registration and Submission Programs
 </a>
-                    </li><li>
+</li>
+            <li data-nav-is-active="False">
 <a class="o-secondary-nav__link
+          o-secondary-nav__link--parent
           "
-   href=/office-civil-rights/whistleblowers/>
-    Whistleblower Complaints about CFPB
+   href=/compliance/circulars/>
+    Consumer Financial Protection Circulars
 </a>
-                    </li><li>
+</li>
+            <li data-nav-is-active="False">
 <a class="o-secondary-nav__link
+          o-secondary-nav__link--parent
           "
-   href=/office-civil-rights/raise-eeo-issue/>
-    Raise an EEO Issue
+   href=/compliance/consumer-complaint-program/>
+    Consumer Complaint Program
 </a>
-                    </li><li>
-<a class="o-secondary-nav__link
-          "
-   href=/office-civil-rights/reasonable-accommodation-persons-disabilities/>
-    Reasonable accommodations for disability; religion; and pregnancy, childbirth, or related medical conditions
-</a>
-                    </li>
-                </ul></li>
+</li>
         </ul>
     </div>
 </nav>
@@ -1222,269 +1237,1199 @@
                 <div class="u-layout-grid__main"
                         id="content__main">
    <div class="block block--flush-top">
-<h1>Office of Civil Rights</h1>
+<h1>Supervisory guidance</h1>
     <div class="lead-paragraph">
-        <p data-block-key="hmme5">The Office of Civil Rights works to ensure that the CFPB continues to meet its ongoing commitment to equal opportunity for its employees, applicants for employment at CFPB, and the members of the public with disabilities seeking equal access to CFPB programs and activities.</p>
+        <p data-block-key="5rxbo">The Bureau periodically releases policy guidance, including compliance bulletins, joint-agency memoranda, and other notices and guidance to inform and advise regulated entities.</p>
     </div>
-    <p data-block-key="gc4vj">The mission of the Office of Civil Rights is to:</p><ul><li data-block-key="giogc">Ensure the CFPB complies with federal laws related to equal opportunity and access;</li><li data-block-key="bhk8b">Provide a neutral forum for the discussion, investigation and resolution of certain EEO matters; and</li><li data-block-key="9ksby">Integrate EEO into the CFPB’s everyday business.</li></ul><p data-block-key="hezxx">Our vision is to ensure that the CFPB workplace is one where everyone is treated with dignity and respect so that CFPB can effectively conduct its business.</p>
    </div>
-      <div class="a-rule-break block block--sub"></div>
-   <div class="block block--flush-top">
-<div class="o-info-unit-group" id=&#34;our-work&#34; >
-<h2 id="our-work">Our work</h2>
-    <div class="content-l">
-        <div class="content-l__col content-l__col-1-2">
-<div class="m-info-unit">
-        <div class="m-info-unit__heading-text">
-<h3 id="eeo-policy-and-reports">EEO policy and reports</h3>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="83ndd">The CFPB’s employees are its most important resource. Employees come from diverse backgrounds and work together to carry out the mission of protecting consumers.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/office-civil-rights/eeo-policy-and-reports">
-                            <span class="a-link__text">Read the CFPB&#39;s equal employment opportunity policy</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-        <div class="content-l__col content-l__col-1-2">
-<div class="m-info-unit">
-        <div class="m-info-unit__heading-text">
-<h3 id="no-fear-act">No FEAR Act</h3>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="eyei1">The No FEAR Act is intended to increase the accountability of federal agencies for acts of discrimination or retaliation against employees, former employees, and applicants. It requires the CFPB to post a notice of rights and certain equal employment opportunity data.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/office-civil-rights/no-fear-act-cummings-act">
-                            <span class="a-link__text">Learn more about the No FEAR Act</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-    </div>
-    <div class="content-l">
-        <div class="content-l__col content-l__col-1-2">
-<div class="m-info-unit">
-        <div class="m-info-unit__heading-text">
-<h3 id="whistleblowers">Whistleblowers</h3>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="ew0cv">Federal employees and applicants are protected against retaliation for making whistleblower disclosures.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/office-civil-rights/whistleblowers">
-                            <span class="a-link__text">Learn more about whistleblower protections for CFPB employees</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-        <div class="content-l__col content-l__col-1-2">
-<div class="m-info-unit">
-        <div class="m-info-unit__heading-text">
-<h3 id="raise-an-eeo-issue">Raise an EEO Issue</h3>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="gz2nu">If you are a CFPB employee, former CFPB employee, or applicant for employment at CFPB and believe you have been illegally discriminated against, you can contact the Office of Civil Rights for help.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/office-civil-rights/raise-eeo-issue">
-                            <span class="a-link__text">File an EEO issue</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-    </div>
-    <div class="content-l">
-        <div class="content-l__col content-l__col-1-2">
-<div class="m-info-unit">
-        <div class="m-info-unit__heading-text">
-<h3 id="reasonable-accommodation-for-persons-with-disabilities">Reasonable accommodation for persons with disabilities</h3>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="pvkse">We encourage persons with disabilities to work at the CFPB and we provide reasonable accommodation to applicants and employees with disabilities consistent with the Rehabilitation Act and the Americans with Disabilities Act.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/office-civil-rights/reasonable-accommodation-persons-disabilities">
-                            <span class="a-link__text">Learn more about our reasonable accommodation policy</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-    </div>
-</div>
-   </div>
-        <aside class="o-prefooter">
             <div class="block block--flush-top">
-  <div class="m-related-posts">
-      <header class="m-slug-header">
-          <h2 class="m-slug-header__heading">
-              Further reading
-          </h2>
-      </header>
-          <div class="m-related-posts__list-container">
-                  <h3 class="h4">
-                      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
-                      Blog
-                  </h3>
-    <ul class="m-related-posts__list
-               m-list
-               m-list--unstyled">
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/blog/holding-government-contractors-accountable-for-wrongdoing/">
-                        Holding Government Contractors Accountable for Wrongdoing
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2025-01-21T00:00:00">JAN 21, 2025</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/blog/strengthening-appraisal-oversight-progress-at-the-appraisal-subcommittee/">
-                        Strengthening Appraisal Oversight: Progress at the Appraisal Subcommittee
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2025-01-17T00:00:00">JAN 17, 2025</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/blog/the-cfpbs-2023-fair-lending-annual-report-to-congress/">
-                        The CFPB's 2023 fair lending annual report to Congress
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-06-26T00:00:00">JUN 26, 2024</time></span>
-                </p>
-            </li>
-    </ul>
-          </div>
-          <div class="m-related-posts__list-container">
-                  <h3 class="h4">
-                      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--newspaper" viewBox="0 0 15 19"><path d="M2.644 15.26a17 17 0 0 1-.706-.014l-.11-.025a1.51 1.51 0 0 1-1.14-1.185l-.018-.092c-.005-.106-.01-.406-.01-.667V4.434a.477.477 0 0 1 .476-.475H11.77a.476.476 0 0 1 .475.475v1.529h1.591a.506.506 0 0 1 .504.504v7.192a1.6 1.6 0 0 1-1.6 1.6zm0-1.109h8.572a1.6 1.6 0 0 1-.077-.491v-2.174l-.003-.109v-6.31H1.769v8.21c0 .218.003.43.006.544l.002.008a.4.4 0 0 0 .3.312l.01.002c.133.004.358.008.557.008M9.91 6.815H2.95v1.109h6.96zm-4 2.383H2.95v3.532h2.96zm4.002.026H7.033v1.109h2.878zm0 2.41H7.033v1.108h2.878zm2.336-4.563v6.589a.492.492 0 0 0 .984 0V7.07z"/></svg>
-                      Newsroom
-                  </h3>
-    <ul class="m-related-posts__list
-               m-list
-               m-list--unstyled">
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/cfpb-warns-against-intimidation-of-whistleblowers/">
-                        CFPB Warns Against Intimidation of Whistleblowers
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-07-24T00:00:00">JUL 24, 2024</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/agencies-finalize-interagency-guidance-on-reconsiderations-of-value-for-residential-real-estate-valuations/">
-                        Agencies Finalize Interagency Guidance on Reconsiderations of Value for Residential Real Estate Valuations
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-07-18T00:00:00">JUL 18, 2024</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/agencies-issue-final-rule-to-help-ensure-credibility-and-integrity-of-automated-valuation-models/">
-                        Agencies Issue Final Rule to Help Ensure Credibility and Integrity of Automated Valuation Models
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-07-17T00:00:00">JUL 17, 2024</time></span>
-                </p>
-            </li>
-    </ul>
-          </div>
-          <div class="m-related-posts__list-container">
-                  <h3 class="h4">
-                      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--date" viewBox="0 0 13 19"><path d="M11.882 3.187a.476.476 0 0 1 .475.475v11.063a.476.476 0 0 1-.475.475H1.118a.476.476 0 0 1-.475-.475V3.662a.476.476 0 0 1 .475-.475h1.328v.721a1.425 1.425 0 0 0 2.85 0v-.72H7.71v.72a1.425 1.425 0 0 0 2.85 0v-.72zm-.634 3.37H1.752v7.535h9.496zm-7.384.821H2.621V8.67h1.243zm0 2.292H2.621v1.292h1.243zm0 2.292H2.621v1.291h1.243zm.561-8.054V2.475a.554.554 0 1 0-1.108 0v1.433a.554.554 0 1 0 1.108 0m1.613 3.47H4.794V8.67h1.244zm0 2.292H4.794v1.292h1.244zm0 2.292H4.794v1.291h1.244zm2.174-4.584H6.968V8.67h1.244zm0 2.292H6.968v1.292h1.244zm0 2.292H6.968v1.291h1.244zm1.477-8.054V2.475a.554.554 0 0 0-1.108 0v1.433a.554.554 0 0 0 1.108 0m.696 3.47H9.142V8.67h1.243zm0 2.292H9.142v1.292h1.243zm0 2.292H9.142v1.291h1.243z"/></svg>
-                      Events
-                  </h3>
-    <ul class="m-related-posts__list
-               m-list
-               m-list--unstyled">
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/events/archive-past-events/open-house-engineers-data-scientists-ux-designers-product-managers-needed-at-the-cfpb/">
-                        Open House: Engineers, Data Scientists, UX, Designers, Product Managers Needed at the CFPB
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2022-07-14T15:00:00-0400">JUL 14, 2022</time></span>
-                </p>
-            </li>
-    </ul>
-          </div>
-      <a class="a-link a-link--jump"
-         href="/activity-log/?topics=procurement&amp;topics=personnel&amp;topics=discrimination"
-         aria-label="View more related posts">
-          <span class="a-link__text">
-              View more
-          </span>
-      </a>
-  </div>
+<div id="o-filterable-list-controls" class="o-filterable-list-controls">
+<div class="o-expandable
+            o-expandable--background
+            o-expandable--border
+            "
+     id="filter-supervisory-guidance-documents-1"
+      >
+    <button class="o-expandable__header" type="button">
+        <span class="o-expandable__label"
+              >
+            Filter supervisory guidance documents
+        </span>
+        <span class="o-expandable__cues">
+            <span class="o-expandable__cue-open" role="img" aria-label="Show">
+                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--plus-round" viewBox="0 0 17 19"><path d="M16.416 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-2.958.01a.79.79 0 0 0-.792-.792H9.284V5.42a.792.792 0 1 0-1.583 0V8.8H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 1 0 1.583 0v-3.382h3.382a.79.79 0 0 0 .792-.791z"/></svg>
+            </span>
+            <span class="o-expandable__cue-close" role="img" aria-label="Hide">
+                <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--minus-round" viewBox="0 0 17 19"><path d="M16.416 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-2.958.01a.79.79 0 0 0-.792-.792H4.32a.792.792 0 0 0 0 1.583h8.346a.79.79 0 0 0 .792-.791"/></svg>
+            </span>
+        </span>
+    </button>
+    <div class="o-expandable__content"
+          >
+    <form method="get" action=".">
+        <div class="content-l">
+        <div class="content-l__col
+                    content-l__col-1">
+            <div class="o-form__group">
+                <div class="m-form-field">
+                    <label class="a-label a-label--heading"
+                           for="o-filterable-list-controls_title">
+                        Search by keyword(s)
+                    </label>
+                    <input type="text" name="title" id="o-filterable-list-controls_title" class="a-text-input a-text-input--full" maxlength="250">
+                </div>
             </div>
-   <div class="block">
-<div class="o-sidebar-contact-info">
-    <header class="m-slug-header">
-        <h2 class="m-slug-header__heading">
-            Contact Information
-        </h2>
-    </header>
-    <div class="o-sidebar-contact-info__content">
-            <h3>Equal employment opportunity complaints</h3>
-        <p data-block-key="4tddp">Contact us if you believe the CFPB discriminated against you as an employee, former employee, or job candidate because of race, color, religion, sex, national origin, disability, age (40 years or older), genetic information (including family medical history), parental status, or retaliated against you for prior EEO activity.</p>
+        </div>
+    <div class="content-l__col
+                content-l__col-1-2">
+        <div class="o-form__group">
+            <div class="m-form-field">
+                <label class="a-label a-label--heading"
+                        for="o-filterable-list-controls-topics">
+                    Topics
+                </label>
+                <select name="topics" id="o-filterable-list-controls-topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
+  <option value="access-to-credit">Access to credit</option>
+  <option value="auto-loans">Auto loans</option>
+  <option value="banking">Banking</option>
+  <option value="checking-account">Checking account</option>
+  <option value="compliance">Compliance</option>
+  <option value="consumer-complaints">Consumer complaints</option>
+  <option value="credit-cards">Credit cards</option>
+  <option value="credit-reports-and-scores">Credit reports and scores</option>
+  <option value="data">Data</option>
+  <option value="debt-collection">Debt collection</option>
+  <option value="deceptive-practices">Deceptive practices</option>
+  <option value="disasters-and-emergencies">Disasters and emergencies</option>
+  <option value="diversity-and-inclusion">Diversity and inclusion</option>
+  <option value="electronic-payments">Electronic payments</option>
+  <option value="enforcement">Enforcement</option>
+  <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
+  <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
+  <option value="fair-lending">Fair lending</option>
+  <option value="financial-service-providers">Financial service providers</option>
+  <option value="foreclosure">Foreclosure</option>
+  <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
+  <option value="housing-counselor">Housing counselor</option>
+  <option value="identity-theft-fraud">Identity theft and fraud</option>
+  <option value="medical-debt">Medical debt</option>
+  <option value="money-transfers">Money transfers</option>
+  <option value="mortgages">Mortgages</option>
+  <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="older-americans">Older Americans</option>
+  <option value="payday-loans">Payday loans</option>
+  <option value="prepaid-cards">Prepaid cards</option>
+  <option value="privacy">Privacy</option>
+  <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
+  <option value="regulation-e">Regulation E</option>
+  <option value="rulemaking">Rulemaking</option>
+  <option value="servicemembers">Servicemembers</option>
+  <option value="student-loans">Student loans</option>
+  <option value="supervision">Supervision</option>
+  <option value="tenant-screening">Tenant screening</option>
+  <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+</select>
+            </div>
+        </div>
     </div>
-<div class="m-contact m-contact-email">
-    <span class="h5">
-        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--email" viewBox="0 0 17 19"><path d="M16.417 6.823v7.809a.557.557 0 0 1-.556.555H1.139a.557.557 0 0 1-.556-.555V6.823a.557.557 0 0 1 .556-.555h14.722a.557.557 0 0 1 .556.555m-14.722.92v6.146l4.463-2.89zm12.223-.364H3.082l4.463 3.257a1.78 1.78 0 0 0 1.91 0zM3.45 14.076h10.096L9.864 11.69a2.93 2.93 0 0 1-2.728 0zm11.855-.184v-6.15L10.842 11z"/></svg>
-        Email
-    </span>
-    <p>
-            <a href="mailto:CFPB_EEO@consumerfinance.gov">
-                CFPB_EEO@consumerfinance.gov
-            </a><br>
-    </p>
+        <div class="content-l__col
+                    content-l__col-1">
+            <div class="content-l">
+                <div class="content-l__col
+                            content-l__col-2-3">
+                    <div class="o-form__group">
+                        <fieldset class="o-form__fieldset">
+                            <legend class="h4">
+                                Date range
+                            </legend>
+                            <div class="content-l">
+                                <div class="content-l__col
+                                            content-l__col-1-2">
+                                    <div class="m-form-field">
+                                        <label class="a-label a-label--heading"
+                                                for="o-filterable-list-controls_from-date">
+                                            From:
+                                        </label>
+                                        <input type="date" name="from_date" class="a-text-input a-text-input--full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_from-date">
+                                    </div>
+                                </div>
+                                <div class="content-l__col
+                                            content-l__col-1-2">
+                                    <div class="m-form-field">
+                                        <label class="a-label a-label--heading"
+                                                for="o-filterable-list-controls_to-date">
+                                            To:
+                                        </label>
+                                        <input type="date" name="to_date" class="a-text-input a-text-input--full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_to-date">
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="content-l__col
+                        content-l__col-1">
+                <div class="m-btn-group">
+                    <button class="a-btn" type="submit">
+                        Apply filters
+                    </button>
+                    <a class="a-btn a-btn--link a-btn--warning"
+                    href="/compliance/supervisory-guidance/">
+                        Clear filters
+                    </a>
+                </div>
+            </div>
+        </div>
+    </form>
+    </div>
 </div>
-<div class="m-contact m-contact-phone">
-    <span class="h5"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--phone" viewBox="0 0 16 19"><path d="M14.654 5.775 9.94 8.499l-.118-.204a2.13 2.13 0 0 1-.283-1.092 16.4 16.4 0 0 0-4.873 2.825 2.1 2.1 0 0 1 .795.785l.119.204-4.716 2.724-.118-.204a2.43 2.43 0 0 1 .481-2.881A16 16 0 0 1 5.97 6.61a15.8 15.8 0 0 1 6.076-2.11 3 3 0 0 1 .397-.035l.062-.004v.004a2.31 2.31 0 0 1 2.031 1.106zM1.417 14.7l4.716-2.724.249.432a.606.606 0 0 1-.22.825l-3.67 2.12a.606.606 0 0 1-.825-.221zm14.04-7.535a.606.606 0 0 1-.22.826l-3.67 2.12a.606.606 0 0 1-.825-.222l-.25-.431 4.716-2.724z"/></svg> Phone</span>
-    <p>
-        <a href="tel:2024359336">(202) 435-9336</a>
-    </p>
 </div>
-<div class="m-contact m-contact-address">
-    <span class="h5"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--mail" viewBox="0 0 17 19"><path d="M16.417 6.823v7.809a.557.557 0 0 1-.556.555H1.14a.557.557 0 0 1-.556-.555V6.823a.557.557 0 0 1 .556-.555h14.72a.557.557 0 0 1 .556.555zM1.695 7.38v6.697h13.61V7.379zm8.26 2.258H3.853v1.112h6.102zm0 2.174H3.853v1.111h6.102zm4.24-1.045V8.498h-2.24v2.268z"/></svg> Mailing address</span>
-    <p>
-            <span>ATTN: Office of Civil Rights</span><br>
-        <span>1700 G Street, NW</span><br>
-        <span>Washington</span>,
-        <span>D.C.</span>
-        <span>20552</span>
-    </p>
+            </div>
+    <div class="block">
+<div class="o-filterable-list-results">
+        <div class="block
+                    block--padded
+                    block--sub
+                    u-hidden"
+             data-cy="filterable-list-notification">
+  <div class="m-notification m-notification--success m-notification--visible">
+      <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
+      <div class="m-notification__content"
+          >
+          <div class="m-notification__message">96 filtered results</div>
+      </div>
+  </div>
+        </div>
+            <section class="block
+                            block--sub"
+                     data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-04-27T00:00:00">APR 27, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-filing-requirements-under-interstate-land-sales-full-disclosure-act-regulation-j/">Statement on Supervisory and Enforcement Practices Regarding Certain Filing Requirements Under the Interstate Land Sales Full Disclosure Act and Regulation J</a>
+        </h3>
+        <div class="o-post-preview__description">
+            In light of the COVID-19 pandemic, the Consumer Financial Protection Bureau issued this statement providing flexibility on certain filing requirements under the Interstate Land Sales Full Disclosure Act and Regulation J.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=compliance" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Compliance</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=disasters-and-emergencies" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Disasters and emergencies</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
 </div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-04-23T00:00:00">APR 23, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/joint-statement-mortgage-servicing-rules-response-covid-19-emergency-and-cares-act/">Joint Statement on Supervisory and Enforcement Practices Regarding the Mortgage Servicing Rules in Response to the COVID-19 Emergency and the CARES Act</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The federal financial institution regulatory agencies and the state financial regulators issued a joint policy statement providing needed regulatory flexibility to enable mortgage servicers to work with struggling consumers affected by the Coronavirus Disease (referred to as COVID-19) emergency.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=disasters-and-emergencies" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Disasters and emergencies</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-service-providers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial service providers</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=foreclosure" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Foreclosure</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgage-servicing" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgage servicing</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=real-estate-settlement-procedures-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Real Estate Settlement Procedures Act (RESPA)</span>
+            </a>
+        </li>
+    </ul>
 </div>
-   </div>
-        </aside>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-04-22T00:00:00">APR 22, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-quarterly-reporting-home-mortgage-disclosure-act/">Statement on Supervisory and Enforcement Practices Regarding Quarterly Reporting Under the Home Mortgage Disclosure Act</a>
+        </h3>
+        <div class="o-post-preview__description">
+            As of March 26, 2020, and until further notice, the Bureau does not intend to cite in an examination or initiate an enforcement action against any institution for failure to report its HMDA data quarterly.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=home-mortgage-disclosure-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Home Mortgage Disclosure Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-04-22T00:00:00">APR 22, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-bureau-information-collections-credit-card-prepaid-account-issuers/">Statement on Supervisory and Enforcement Practices Regarding Bureau Information Collections for Credit Card and Prepaid Account Issuers</a>
+        </h3>
+        <div class="o-post-preview__description">
+            As of March 26, 2020, and until further notice, the Bureau does not intend to cite in an examination or initiate an enforcement action against any entity for failure to submit to the Bureau certain information relating to credit card and prepaid accounts.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit cards</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=prepaid-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Prepaid cards</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-04-22T00:00:00">APR 22, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-fair-credit-reporting-act-regulation-v-cares-act/">Statement on Supervisory and Enforcement Practices Regarding the Fair Credit Reporting Act and Regulation V in Light of the CARES Act</a>
+        </h3>
+        <div class="o-post-preview__description">
+            This policy statement informs consumer reporting agencies and furnishers of the Bureau’s flexible supervisory and enforcement approach during this pandemic regarding compliance with the Fair Credit Reporting Act (FCRA) and Regulation V.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-reports-and-scores" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit reports and scores</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=fair-credit-reporting-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Fair Credit Reporting Act</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-04-10T00:00:00">APR 10, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-supervisory-enforcement-practices-regarding-remittance-rule-covid-19/">Statement on Supervisory and Enforcement Practices Regarding the Remittance Rule in Light of the COVID-19 Pandemic</a>
+        </h3>
+        <div class="o-post-preview__description">
+            For remittances that occur on or after July 21, 2020, and before January 1, 2021, the Bureau does not intend to cite in an examination or initiate an enforcement action in connection with the disclosure of actual third-party fees and exchange rates against any insured institution that will be newly required to disclose actual third-party fees and exchange rates after the temporary exception expires and instead continues to provide estimated disclosures that would have been allowed under the temporary exception.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=disasters-and-emergencies" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Disasters and emergencies</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=money-transfers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Money transfers</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=regulation-e" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Regulation E</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-04-07T00:00:00">APR 07, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-loan-modifications-reporting-financial-institutions-coronavirus-revised/">Interagency Statement on Loan Modifications and Reporting for Financial Institutions Working with Customers Affected by the Coronavirus (Revised)</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The federal financial institution regulatory agencies (the agencies), in consultation with state financial regulators, issued a revised interagency statement encouraging financial institutions to work constructively with borrowers affected by COVID-19 and providing additional information regarding loan modifications.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=disasters-and-emergencies" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Disasters and emergencies</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-03-26T00:00:00">MAR 26, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-bureau-supervisory-enforcement-response-covid-19-pandemic/">Statement on Bureau Supervisory and Enforcement Response to COVID-19 Pandemic</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Consumer Financial Protection Bureau announced that it is providing needed flexibility to enable financial companies to work with customers in need as they respond to the COVID-19 pandemic.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=disasters-and-emergencies" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Disasters and emergencies</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-03-06T00:00:00">MAR 06, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/bulletin-responsible-business-conduct/">Responsible Business Conduct: Self-Assessing, Self-Reporting, Remediating, and Cooperating (CFPB Bulletin 2020-01)</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Amends and reissues CFPB Bulletin 2013-06.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=compliance" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Compliance</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2020-01-24T00:00:00">JAN 24, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-policy-regarding-prohibition-abusive-acts-or-practices/">Statement of policy regarding prohibition on abusive acts or practices</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Consumer Financial Protection Bureau has issued a policy statement providing a framework on how it intends to apply the abusiveness standard in supervision and enforcement matters.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2019-06-27T00:00:00">JUN 27, 2019</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-collection-demographic-information-community-development-financial-institutions/">Statement on Collection of Demographic Information by Community Development Financial Institutions</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Consumer Financial Protection Bureau is issuing this statement regarding Certified Community Development Financial Institutions receiving Federal financial assistance from the U.S. Department of the Treasury’s Community Development Financial Institutions Fund.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=compliance" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Compliance</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=equal-credit-opportunity-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Equal Credit Opportunity Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-service-providers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial service providers</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2019-02-26T00:00:00">FEB 26, 2019</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/memorandum-understanding-federal-trade-commission/">Memorandum of Understanding with the Federal Trade Commission</a>
+        </h3>
+        <div class="o-post-preview__description">
+            This Memorandum of Understanding (“MOU”), dated as of Feb. 25, 2019, is made and entered into by the Consumer Financial Protection Bureau (“CFPB”) and the Federal Trade Commission (“FTC”). This MOU is intended to facilitate the fulfillment of the Agencies’ responsibilities in a manner consistent with the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”).
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2018-09-25T00:00:00">SEP 25, 2018</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/bcfp-bulletin-2018-01-changes-types-supervisory-communications/">BCFP Bulletin 2018-01: Changes to types of supervisory communications</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Bureau of Consumer Financial Protection (Bureau) is issuing this bulletin to announce changes to how it articulates supervisory expectations to institutions in connection with supervisory events.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2018-09-14T00:00:00">SEP 14, 2018</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-supervisory-practices-regarding-financial-institutions-and-consumers-affected-major-disaster-or-emergency/">Statement on supervisory practices regarding financial institutions and consumers affected by a major disaster or emergency</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Bureau of Consumer Financial Protection (Bureau) recognizes the serious impact major disasters or emergencies have on consumers and the operations of many supervised entities.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2017-09-22T00:00:00">SEP 22, 2017</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-supervisory-practices-regarding-financial-institutions-and-consumers-affected-hurricane-maria/">Statement on supervisory practices regarding financial institutions and consumers affected by Hurricane Maria</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Bureau is issuing this statement to advise our supervised entities that the CFPB encourages them to work with consumers affected by Hurricane Maria to make use of existing regulatory flexibility where doing so would benefit consumers affected by this major disaster.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2017-09-01T00:00:00">SEP 01, 2017</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/statement-supervisory-practices-affected-hurricanes-harvey-and-irma/">Statement on supervisory practices regarding financial institutions and consumers affected by Hurricanes Harvey and Irma</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Consumer Financial Protection Bureau (CFPB) is updating its statement on Hurricane Harvey to also address Hurricane Irma.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2017-08-30T00:00:00">AUG 30, 2017</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/memorandum-financial-institution-and-law-enforcement-efforts-combat-elder-financial-exploitation/">Memorandum on financial institution and law enforcement efforts to combat elder financial exploitation</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Consumer Financial Protection Bureau, the United States Department of the Treasury, and the Financial Crimes Enforcement Network (FinCEN) are issuing this joint memorandum to encourage coordination among financial institutions, law enforcement, and adult protective service agencies (APS) in order to protect older adults from elder financial exploitation.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=deceptive-practices" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Deceptive practices</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=identity-theft-fraud" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Identity theft and fraud</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=older-americans" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Older Americans</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2017-07-27T00:00:00">JUL 27, 2017</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/bulletin-phone-pay-fees/">Phone Pay Fee Compliance Bulletin 2017-01</a>
+        </h3>
+        <div class="o-post-preview__description">
+            CFPB Compliance Bulletin 2017-01.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=compliance" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Compliance</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-service-providers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial service providers</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2017-06-27T00:00:00">JUN 27, 2017</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/policy-guidance-supervisory-and-enforcement-priorities-regarding-early-compliance-2016-amendments-2013-mortgage-rules-under-respa-and-tila/">Policy Guidance on Supervisory and Enforcement Priorities Regarding Early Compliance with the 2016 Amendments to the 2013 Mortgage Rules Under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z)</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Bureau is issuing non-binding policy guidance relating to a three-day period of early compliance with the 2016 Final Rule.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=compliance" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Compliance</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=debt-collection" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Debt collection</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=fair-debt-collection-practices-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Fair Debt Collection Practices Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=foreclosure" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Foreclosure</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgage-servicing" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgage servicing</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=real-estate-settlement-procedures-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Real Estate Settlement Procedures Act (RESPA)</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=rulemaking" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Rulemaking</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=truth-in-lending-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Truth in Lending Act (TILA)</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2016-11-28T00:00:00">NOV 28, 2016</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/cfpb-compliance-bulletin-2016-03-detecting-and-preventing-consumer-harm-from-production-incentives/">Detecting and Preventing Consumer Harm from Production Incentives</a>
+        </h3>
+        <div class="o-post-preview__description">
+            CFPB Bulletin 2016-03.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=compliance" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Compliance</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-service-providers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial service providers</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2016-10-31T00:00:00">OCT 31, 2016</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/compliance-bulletin-and-policy-guidance-2016-02-service-providers/">Compliance Bulletin and Policy Guidance; 2016-02, Service Providers</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Amends and reissues CFPB Bulletin 2012-03.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-service-providers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial service providers</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2016-09-23T00:00:00">SEP 23, 2016</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/status-new-uniform-residential-loan-application-and-collection-expanded-home-mortgage-disclosure-act-information-about-ethnicity-and-race-2017-under-regulation-b/">Status of New Uniform Residential Loan Application and Collection of Expanded Home Mortgage Disclosure Act Information about Ethnicity and Race in 2017 under Regulation B</a>
+        </h3>
+        <div class="o-post-preview__description">
+            This notice is issued pursuant to section 706(e) of the Equal Credit Opportunity Act and concerns the new Uniform Residential Loan Application and the...
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=equal-credit-opportunity-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Equal Credit Opportunity Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=home-mortgage-disclosure-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Home Mortgage Disclosure Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2016-05-18T00:00:00">MAY 18, 2016</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/interagency-guidance-regarding-deposit-reconciliation-practices/">Interagency Guidance Regarding Deposit Reconciliation Practices</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Supervisory expectations regarding customer account deposit reconciliation practices.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=checking-account" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Checking account</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=supervision" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Supervision</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2016-03-30T00:00:00">MAR 30, 2016</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/submission-credit-card-agreements-under-tila-reg-z/">Submission of credit card agreements under the Truth In Lending Act (Regulation Z)</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Truth in Lending Act (TILA) and Regulation Z require credit card issuers to submit their currently-offered credit card agreements to the Bureau.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit cards</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=data" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Data</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=truth-in-lending-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Truth in Lending Act (TILA)</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2016-02-03T00:00:00">FEB 03, 2016</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/supervisory-guidance/bulletin-furnisher-accuracy-obligations/">Bulletin re: furnisher FCRA obligation to have reasonable written policies and procedures</a>
+        </h3>
+        <div class="o-post-preview__description">
+            CFPB Bulletin 2016-01.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=compliance" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Compliance</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=credit-reports-and-scores" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit reports and scores</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                    <div class="block block--flush-top block--flush-bottom block--padded-top">
+    <nav class="m-pagination"
+         role="navigation"
+         aria-label="Pagination">
+        <a class="a-btn
+                  m-pagination__btn-prev"
+           href="?page=1"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--left" viewBox="0 0 10 19"><path d="M8.4 17.269a1.03 1.03 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"/></svg><span>Previous</span>
+        </a>
+        <form class="m-pagination__form" action="">
+            <label class="m-pagination__label">
+                Page
+                <span class="u-visually-hidden">
+                    2 out of 4 total pages
+                </span>
+                <input id="m-pagination__current-page-0"
+                       class="m-pagination__current-page"
+                       name="page"
+                       type="number"
+                       min="1"
+                       max="4"
+                       pattern="[0-9]*"
+                       inputmode="numeric"
+                       value="2"> of 4</label>
+            <button class="a-btn
+                           a-btn--link
+                           m-pagination__btn-submit"
+                    type="submit">
+                Go
+            </button>
+        </form>
+        <a class="a-btn m-pagination__btn-next" href="?page=3"><span>Next</span><svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--right" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.02 1.02 0 0 1-.727.302z"></path></svg></a>
+    </nav>
+                    </div>
+            </section>
+</div>
+    </div>
                 </div>
         </div>
     </main>
