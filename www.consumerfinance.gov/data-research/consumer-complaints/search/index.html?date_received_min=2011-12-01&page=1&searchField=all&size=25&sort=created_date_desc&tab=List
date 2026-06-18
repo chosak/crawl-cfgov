@@ -678,7 +678,15 @@
     <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
        href="/compliance/"
        >
-        Compliance Resources
+        Compliance overview
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/compliance-resources/"
+       >
+        Compliance resources
     </a>
 </li>
 <li class="o-mega-menu__content-item o-mega-menu__content-2-item"
@@ -1013,7 +1021,7 @@
         <div class="u-layout-grid__wrapper">
                 <div class="u-layout-grid__main  ccdb-search">
   <cfpb-ccdb-search
-    data-css-href="/static/apps/ccdb-search/css/main.a1d5d8b2fe81.css"
+    data-css-href="/static/apps/ccdb-search/css/main.77d703c44166.css"
     data-mount-id="ccdb-ui-root"
   >
     <div class="u-hide-if-js wrapper u-mt60 u-mb60">
