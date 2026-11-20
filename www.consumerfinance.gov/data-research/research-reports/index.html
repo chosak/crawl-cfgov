@@ -25,10 +25,10 @@
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/site.webmanifest">
     <link rel="preload"
-          href="/static/fonts/source-sans-3-latin-wght-normal.30164609c163.woff2"
+          href="/static/fonts/source-sans-3-latin-wght-normal.9ef356ea553a.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.56dcdda1e4d2.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.53784a340a57.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -770,7 +770,7 @@
 <li class="o-mega-menu__content-item o-mega-menu__content-2-item"
     >
     <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
-       href="/data-research/public-data-inventory/"
+       href="/data-research/public-data-inventory-old/"
        >
         Public Data Inventory
     </a>
@@ -1093,12 +1093,14 @@
                 </label>
                 <select name="topics" id="o-filterable-list-controls-topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
   <option value="access-to-credit">Access to credit</option>
+  <option value="add-on-products">Add-on products</option>
   <option value="advanced-technology">Advanced technology</option>
   <option value="arbitration">Arbitration</option>
   <option value="auto-loans">Auto loans</option>
   <option value="banking">Banking</option>
   <option value="business-loans">Business loans</option>
   <option value="cfpb-milestones">CFPB milestones</option>
+  <option value="cfpb-ombudsman">CFPB Ombudsman</option>
   <option value="checking-account">Checking account</option>
   <option value="community-banks">Community banks</option>
   <option value="complaints">complaints</option>
@@ -1108,6 +1110,7 @@
   <option value="coronavirus">Coronavirus</option>
   <option value="credit-card-act">Credit CARD Act</option>
   <option value="credit-cards">Credit cards</option>
+  <option value="credit-reporting">Credit reporting</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="credit-unions">Credit unions</option>
   <option value="data">Data</option>
@@ -1124,31 +1127,38 @@
   <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="fair-lending">Fair lending</option>
+  <option value="fcra">FCRA</option>
   <option value="financial-coaching">Financial coaching</option>
   <option value="financial-education">Financial education</option>
   <option value="financial-literacy-annual-report">Financial Literacy Annual Report</option>
   <option value="financial-service-providers">Financial service providers</option>
   <option value="financial-well-being">Financial well-being</option>
+  <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
   <option value="foia">FOIA</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="hmda">HMDA</option>
   <option value="hmda-reporting">HMDA reporting</option>
+  <option value="homebuying">Homebuying</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="innovation">Innovation</option>
   <option value="junk-fees">Junk fees</option>
   <option value="making-ends-meet">Making Ends Meet</option>
   <option value="medical-debt">Medical debt</option>
+  <option value="military-lending-act">Military Lending Act</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="money-transfers">Money transfers</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="mortgages">Mortgages</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="native-communities">Native communities</option>
+  <option value="office-of-research">Office of Research</option>
   <option value="office-of-research-publication">Office of Research Publication</option>
   <option value="older-americans">Older Americans</option>
   <option value="open-government">Open government</option>
   <option value="overdraft">Overdraft</option>
   <option value="parents">Parents</option>
+  <option value="partnerships">Partnerships</option>
   <option value="payday-loans">Payday loans</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="personnel">Personnel</option>
@@ -1156,6 +1166,7 @@
   <option value="privacy">Privacy</option>
   <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
   <option value="procurement">Procurement</option>
+  <option value="project-catalyst">Project Catalyst</option>
   <option value="real-estate-economics">Real estate economics</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="redlining">Redlining</option>
@@ -1170,6 +1181,7 @@
   <option value="rulemaking">Rulemaking</option>
   <option value="saving">Saving</option>
   <option value="sbrefa">SBREFA</option>
+  <option value="servicemember-civil-relief-act">Servicemember Civil Relief Act</option>
   <option value="servicemembers">Servicemembers</option>
   <option value="small-business-lending">Small business lending</option>
   <option value="small-dollar-lending">Small dollar lending</option>
@@ -1180,6 +1192,7 @@
   <option value="tenant-screening">Tenant screening</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
   <option value="udaaps">UDAAPs</option>
+  <option value="virtual-currency">Virtual currency</option>
   <option value="youth">Youth</option>
   <option value="youth-employment">Youth employment</option>
 </select>
@@ -1252,13 +1265,133 @@
       <cfpb-icon name="approved-round"></cfpb-icon>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">621 filtered results</div>
+          <div class="m-notification__message">623 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        To Congress
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2026-11-19T00:00:00">NOV 19, 2026</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/2026-private-education-loan-ombudsman-report/">2025 Private Education Loan Ombudsman Report</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The 2025 annual report of the Private Education Loan Ombudsman analyzes student loan complaints and issues particularly with respect to timely responses, fraud, scams, information asymmetry, and consumer education.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=consumer-complaints" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Consumer complaints</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-education" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial education</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=private-education-loan-ombudsman" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Private Education Loan Ombudsman</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=servicemembers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Servicemembers</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=student-loans" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Student loans</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=students" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Students</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        To Congress
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2026-11-19T00:00:00">NOV 19, 2026</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/2026-college-credit-card-agreements/">2026 College credit card agreements</a>
+        </h3>
+        <div class="o-post-preview__description">
+            2026 Bureau of Consumer Financial Protection (CFPB) report on college credit card agreements.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-card-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit CARD Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=credit-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit cards</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=data" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Data</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=research" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Research</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=students" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Students</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -2304,73 +2437,6 @@
             <a href="?topics=small-dollar-lending" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
                 <span class="a-tag-topic__text">Small dollar lending</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-        To Congress
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2025-11-21T00:00:00">NOV 21, 2025</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/fair-debt-collection-practices-act-cfpb-annual-report-2025/">Fair Debt Collection Practices Act CFPB Annual Report 2025</a>
-        </h3>
-        <div class="o-post-preview__description">
-            The CFPB&#39;s annual report to Congress summarizes its activities, and those of the Federal Trade Commission (FTC), in administering the Fair Debt Collection Practices Act (FDCPA) in 2024.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=debt-collection" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Debt collection</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=fair-debt-collection-practices-act" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Fair Debt Collection Practices Act</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2025-08-20T00:00:00">AUG 20, 2025</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/report-on-actions-taken-to-implement-gold-standard-science/">Report on Actions Taken to Implement Gold Standard Science</a>
-        </h3>
-        <div class="o-post-preview__description">
-            The CFPB is committed to the principles of Gold Standard Science and to fulfilling these principles by developing a policy to ensure that the CFPB adheres to these directives.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Research</span>
             </a>
         </li>
     </ul>
