@@ -1,0 +1,2604 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <title>Blog Archive | Consumer Financial Protection Bureau</title>
+    <meta name="template" content="v1/sublanding-page/filterable.html">
+    <meta name="description"
+          content="">
+      <link rel="canonical" href="https://www.consumerfinance.gov/archive/blog/">
+      <meta property="og:url" content="https://www.consumerfinance.gov/archive/blog/">
+    <meta property="og:title" content="Blog Archive | Consumer Financial Protection Bureau">
+    <meta property="og:type" content="website">
+        <meta property="og:image"
+              content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
+        <meta property="twitter:image"
+              content="https://www.consumerfinance.gov/static/img/logo_open-graph_twitter.ebc43e92acd1.png">
+    <meta property="og:description"
+          content="Blog Archive">
+    <meta property="og:site_name" content="Consumer Financial Protection Bureau">
+    <meta property="fb:app_id" content="210516218981921">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="preload"
+          href="/static/fonts/source-sans-3-latin-wght-normal.9ef356ea553a.woff2"
+          as="font"
+          type="font/woff2" crossorigin>
+    <link rel="preload" href="/static/js/routes/common.53784a340a57.js" as="script">
+    <link rel="preconnect" href="//google-analytics.com/" crossorigin>
+    <link rel="dns-prefetch" href="//google-analytics.com/">
+    <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
+    <link rel="dns-prefetch" href="//googletagmanager.com/">
+    <link rel="preconnect" href="//js-agent.newrelic.com/" crossorigin>
+    <link rel="dns-prefetch" href="//js-agent.newrelic.com/">
+    <link rel="dns-prefetch" href="//ytimg.com/">
+    <link rel="dns-prefetch" href="//doubleclick.net/">
+</head>
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMMLRS"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div class="a-overlay u-hidden"></div>
+    <div class="skip-nav">
+        <a class="a-btn skip-nav__link"
+          href="#main">
+            Skip to main content
+        </a>
+    </div>
+<header class="o-header o-header--mega-menu">
+    <div class="m-global-eyebrow
+                m-global-eyebrow--horizontal">
+        <div class="wrapper
+                    wrapper--match-content">
+<cfpb-tagline
+  aria-label="Official website of the United States government">
+  An official website of the
+  <span class="u-nowrap">United States government</span>
+</cfpb-tagline>
+            <div class="m-global-eyebrow__actions">
+                <span class="m-global-eyebrow__phone">
+                    <a href="tel:+1-855-411-2372">(855) 411-2372</a>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="o-header__content">
+        <div class="wrapper wrapper--match-content">
+            <a class="o-header__logo u-link-text-is-url" href="/">
+<img alt="Consumer Financial Protection Bureau" class="o-header__logo-img" height="50" sizes="(max-width: 900px) 161px, 237px" src="/static/img/logo_237x50.c7c2ba6c929f.png" srcset="/static/img/logo_161x34.4afedaf12f6b.png 161w,
+                             /static/img/logo_161x34@2x.fff273f43f0a.png 322w,
+                             /static/img/logo_161x34@3x.f2571ba0e5b0.png 483w,
+                             /static/img/logo_161x34@4x.ea36178a3ff3.png 644w,
+                             /static/img/logo_237x50.c7c2ba6c929f.png 237w,
+                             /static/img/logo_237x50@2x.1a8febf782f9.png 474w" width="237"/>
+</a>
+    <div class="m-global-header-cta">
+        <a class="a-link" href="/complaint/">
+            <cfpb-icon name="complaint"></cfpb-icon>
+            <span class="a-link__text">Submit a Complaint</span>
+        </a>
+    </div>
+            <div class="m-global-search"
+     data-js-hook="behavior_flyout-menu">
+    <div class="m-global-search__fallback">
+        <a rel="nofollow" href="/search/">
+            Search
+        </a>
+    </div>
+    <button class="m-global-search__trigger"
+            data-js-hook="behavior_flyout-menu_trigger"
+            aria-label="Search the consumerfinance.gov website">
+        <span class="m-global-search__trigger-open-label">
+            <cfpb-icon name="search"></cfpb-icon>
+            <span class="u-hide-on-mobile">Search</span>
+        </span>
+        <span class="m-global-search__trigger-close-label">
+            <cfpb-icon name="error"></cfpb-icon>
+            <span class="u-hide-on-mobile">Close</span>
+        </span>
+    </button>
+    <div class="m-global-search__content
+                u-hidden"
+         data-js-hook="behavior_flyout-menu_content"
+         role="search">
+        <form class="m-global-search__content-form"
+              action="/search/"
+              method="get">
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label">
+            <cfpb-icon name="search"></cfpb-icon>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="q"
+               value=""
+               class="a-text-input"
+               placeholder="Search the CFPB"
+               title="Search the CFPB"
+               autocomplete="off"
+               maxlength="75"
+               aria-label="Search for your question"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Clear search"
+                title="Clear search">
+            <cfpb-icon name="error"></cfpb-icon>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Search the CFPB">
+        Search
+    </button>
+</div>
+        </form>
+    </div>
+</div>
+<nav class="o-mega-menu
+            u-hidden"
+     data-js-hook="behavior_flyout-menu"
+     aria-label="Main menu">
+    <button class="o-mega-menu__trigger"
+            data-js-hook="behavior_flyout-menu_trigger"
+            aria-haspopup="menu">
+        <span class="o-mega-menu__trigger-open">
+            <cfpb-icon name="menu"></cfpb-icon>
+            <span class="u-visually-hidden">
+                Open the main menu
+            </span>
+        </span>
+        <span class="o-mega-menu__trigger-close">
+            <cfpb-icon name="error"></cfpb-icon>
+            <span class="u-visually-hidden">
+                Close the main menu
+            </span>
+        </span>
+    </button>
+<div class="o-mega-menu__content o-mega-menu__content-1"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-1-wrapper">
+        <div class="o-mega-menu__content-lists o-mega-menu__content-1-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-1-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-1-list">
+            <ul
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item o-mega-menu__content-item--has-icon o-mega-menu__content-1-item--has-icon"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-1-link" href="/complaint/">
+<div aria-level="2" role="heading">
+<span class="o-mega-menu__content-link-icon-pre o-mega-menu__content-1-link-icon-pre"><cfpb-icon name="complaint"></cfpb-icon></span>
+        Submit a Complaint
+        </div>
+</a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
+<div aria-level="2" role="heading">
+        Consumer Education
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Consumer Education"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/"
+       >
+        Resources for Yourself
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/newsroom/?categories=consumer-advisories"
+       >
+        Consumer Advisories
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <div role="heading"
+                 aria-level="3"
+                 aria-label="Money Topics"
+                 class="h5 o-mega-menu__group-heading"
+                 id="money-topics-menu">
+                 Money Topics
+            </div>
+            <ul
+                aria-labelledby="money-topics-menu"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/auto-loans/"
+       >
+        Auto Loans
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/bank-accounts/"
+       >
+        Bank Accounts &amp; Services
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/credit-cards/"
+       >
+        Credit Cards
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/credit-reports-and-scores/"
+       >
+        Credit Reports &amp; Scores
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/debt-collection/"
+       >
+        Debt Collection
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/fraud/"
+       >
+        Fraud &amp; Scams
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <div role="heading"
+                 aria-level="3"
+                 aria-label="Money Topics continued"
+                 class="h5 o-mega-menu__group-heading o-mega-menu__group-heading--hidden"
+                 id="money-topics-continued-menu">
+                 Money Topics
+            </div>
+            <ul
+                aria-labelledby="money-topics-continued-menu"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/money-transfers/"
+       >
+        Money Transfers
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/mortgages/"
+       >
+        Mortgages
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/payday-loans/"
+       >
+        Payday Loans
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/prepaid-cards/"
+       >
+        Prepaid Cards
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/student-loans/"
+       >
+        Private Student Loans
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/reverse-mortgages/"
+       >
+        Reverse Mortgages
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+            <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+                <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+                    <div role="heading"
+                         aria-level="3"
+                         class="h5 o-mega-menu__group-heading">
+                        Additional Resources
+                    </div>
+                    <ul aria-label="Additional Resources">
+                        <li class="o-mega-menu__content-item o-mega-menu__content-2-item o-mega-menu__content-item--has-icon o-mega-menu__content-2-item--has-icon">
+                            <a class="a-link o-mega-menu__content-link o-mega-menu__content-2-link"
+                            href="/complaint/">
+                                <cfpb-icon name="complaint"></cfpb-icon>
+                                <span class="a-link__text">Submit a Complaint</span>
+                            </a>
+                        </li>
+                        <li class="o-mega-menu__content-item o-mega-menu__content-2-item o-mega-menu__content-item--has-icon o-mega-menu__content-2-item--has-icon">
+                            <a class="a-link o-mega-menu__content-link o-mega-menu__content-2-link"
+                            href="/accessibility/plain-writing/">
+                                <cfpb-icon name="open-quote"></cfpb-icon>
+                                <span class="a-link__text">Plain Writing</span>
+                            </a>
+                        </li>
+                        <li class="o-mega-menu__content-item o-mega-menu__content-2-item o-mega-menu__content-item--has-icon o-mega-menu__content-2-item--has-icon">
+                            <a class="a-link o-mega-menu__content-link o-mega-menu__content-2-link"
+                            href="/ask-cfpb/">
+                                <cfpb-icon name="lightbulb"></cfpb-icon>
+                                <span class="a-link__text">Browse Ask CFPB</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="/rules-policy/">
+<div aria-level="2" role="heading">
+        Rules &amp; Policy
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-overview o-mega-menu__content-2-overview o-mega-menu__content-overview-heading o-mega-menu__content-2-overview-heading">
+            <a class="o-mega-menu__content-overview-link o-mega-menu__content-2-overview-link"
+               href="/rules-policy/">
+                Rules &amp; Policy Overview
+            </a>
+        </div>
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/final-rules/"
+       >
+        Final Rules
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/regulations/"
+       >
+        Interactive Regulations
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/rules-under-development/"
+       >
+        Rules Under Development
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/notice-opportunities-comment/"
+       >
+        Notices and Opportunities to Comment
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/regulatory-agenda/"
+       >
+        Regulatory Agenda
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/competition-innovation/"
+       >
+        Competition and Innovation
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/advisory-committees/"
+       >
+        Advisory Committees
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="/enforcement/">
+<div aria-level="2" role="heading">
+        Enforcement
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-overview o-mega-menu__content-2-overview o-mega-menu__content-overview-heading o-mega-menu__content-2-overview-heading">
+            <a class="o-mega-menu__content-overview-link o-mega-menu__content-2-overview-link"
+               href="/enforcement/">
+                Enforcement Overview
+            </a>
+        </div>
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Enforcement"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/payments-harmed-consumers/"
+       >
+        Payments to Harmed Consumers
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/2025-enforcement-lookback/"
+       >
+        2025 Enforcement Lookback
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/actions/"
+       >
+        Enforcement Actions
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/investigatory-authority/"
+       >
+        Investigatory Authority
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Enforcement"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/life-cycle-of-enforcement-action/"
+       >
+        Life Cycle of an Enforcement Action
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/enforcement-principles/"
+       >
+        Enforcement Principles
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/supervision-and-enforcement-priorities/"
+       >
+        Supervision and Enforcement Priorities
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="/compliance/supervision-examinations/">
+<div aria-level="2" role="heading">
+        Supervision
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-overview o-mega-menu__content-2-overview o-mega-menu__content-overview-heading o-mega-menu__content-2-overview-heading">
+            <a class="o-mega-menu__content-overview-link o-mega-menu__content-2-overview-link"
+               href="/compliance/supervision-examinations/">
+                Supervision Overview
+            </a>
+        </div>
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Supervision"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/"
+       >
+        Compliance overview
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/compliance-resources/"
+       >
+        Compliance resources
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/guidance/"
+       >
+        Guidance
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Supervision"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/registration-and-submission-programs/"
+       >
+        Registration &amp; Submission Programs
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/consumer-complaint-program/"
+       >
+        Consumer Complaint Program
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="/data-research/">
+<div aria-level="2" role="heading">
+        Data &amp; Research
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-overview o-mega-menu__content-2-overview o-mega-menu__content-overview-heading o-mega-menu__content-2-overview-heading">
+            <a class="o-mega-menu__content-overview-link o-mega-menu__content-2-overview-link"
+               href="/data-research/">
+                Data &amp; Research Overview
+            </a>
+        </div>
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Data & Research"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/research-reports/"
+       >
+        Reports
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/research-hub/"
+       >
+        Research Hub
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/consumer-complaints/"
+       >
+        Consumer Complaint Database
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/hmda/"
+       >
+        Mortgage Database (HMDA)
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/small-business-lending/"
+       >
+        Small Business Lending Database
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Data & Research"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/public-data-inventory-old/"
+       >
+        Public Data Inventory
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/consumer-credit-trends/"
+       >
+        Consumer Credit Trends
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/mortgage-performance-trends/"
+       >
+        Mortgage Performance Trends
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/financial-well-being-survey-data/"
+       >
+        Financial Well-Being Survey
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Data & Research"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/credit-card-data/"
+       >
+        Credit Card Surveys &amp; Agreements
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/prepaid-accounts/"
+       >
+        Prepaid Account Agreements
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/national-age-friendly-banking-survey-data/"
+       >
+        National Age-Friendly Banking Survey
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+            <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+                <div class="o-mega-menu__content-list o-mega-menu__content-2-list o-mega-menu__content-list--featured o-mega-menu__content-2-list--featured">
+                    <div role="heading"
+                         aria-level="3"
+                         class="h5 o-mega-menu__group-heading">
+                        Featured
+                    </div>
+                    <ul aria-label="Featured">
+                        <li class="o-mega-menu__content-item o-mega-menu__content-2-item o-mega-menu__content-item--has-icon o-mega-menu__content-2-item--has-icon">
+                            <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+                                href="/data-research/financial-well-being-survey-data/">
+                                <cfpb-icon name="favorite"></cfpb-icon>
+                                <span><span class="a-link__text">Help advance financial well-being</span></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
+<div aria-level="2" role="heading">
+        About Us
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="About Us"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/"
+       >
+        About Us
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/activity-log/"
+       >
+        Recent Updates
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/careers/"
+       >
+        Careers
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/advisory-committees/"
+       >
+        Advisory Committees
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="About Us"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/newsroom/"
+       >
+        Newsroom
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/contact-us/"
+       >
+        Contact Us
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/events/"
+       >
+        Events
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+    <div class="m-global-eyebrow
+                m-global-eyebrow--list">
+        <div class="wrapper
+                    ">
+            <div class="m-global-eyebrow__actions">
+                <span class="m-global-eyebrow__phone">
+                    <a href="tel:+1-855-411-2372">(855) 411-2372</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+</nav>
+        </div>
+    </div>
+</header>
+    <main class="u-layout-grid u-layout-grid--2-1
+                 "
+          id="main"
+          >
+            <div class="u-layout-grid__content-intro">
+  <div class="o-banner o-banner--dark">
+    <div class="wrapper wrapper--match-content">
+  <div class="m-notification m-notification--warning m-notification--visible">
+      <cfpb-icon name="warning-round"></cfpb-icon>
+      <div class="m-notification__content"
+          >
+          <div class="m-notification__message">Archived content</div>
+              <div class="m-notification__explanation">This is archived content from the Consumer Financial Protection Bureau website. The information here may be outdated and links may no longer function. </div>
+      </div>
+  </div>
+    </div>
+  </div>
+            </div>
+        <div class="u-layout-grid__wrapper">
+                <div class="u-layout-grid__main">
+   <div class="block block--flush-top">
+<h1>Blog archive</h1>
+   </div>
+            <div class="block block--flush-top">
+<div id="o-filterable-list-controls" class="o-filterable-list-controls">
+<div class="o-expandable
+            o-expandable--background
+            o-expandable--border
+            o-expandable--onload-open"
+     id="filter-posts-1"
+      >
+    <button class="o-expandable__header" type="button">
+        <span class="o-expandable__label"
+              >
+            Filter posts
+        </span>
+        <span class="o-expandable__cues">
+            <span class="o-expandable__cue-open" role="img" aria-label="Show">
+                <cfpb-icon name="plus-round"></cfpb-icon>
+            </span>
+            <span class="o-expandable__cue-close" role="img" aria-label="Hide">
+                <cfpb-icon name="minus-round"></cfpb-icon>
+            </span>
+        </span>
+    </button>
+    <div class="o-expandable__content"
+          >
+    <form method="get" action=".">
+        <div class="content-l">
+        <div class="content-l__col
+                    content-l__col-1">
+            <div class="o-form__group">
+                <div class="m-form-field">
+                    <label class="a-label a-label--heading"
+                           for="o-filterable-list-controls_title">
+                        Search by keyword(s)
+                    </label>
+                    <input type="text" name="title" id="o-filterable-list-controls_title" class="a-text-input a-text-input--full" maxlength="250">
+                </div>
+            </div>
+        </div>
+        <div class="content-l__col
+                    content-l__col-1-2">
+            <div class="o-form__group">
+                <div class="m-form-field">
+                    <label class="a-label a-label--heading"
+                           for="o-filterable-list-controls_categories"
+                           data-cy="categories-heading">
+                        Category
+                    </label>
+                    <select name="categories"
+                            id="o-filterable-list-controls_categories"
+                            class="o-multiselect"
+                            data-placeholder="Search for categories"
+                            multiple>
+                        <option value="at-the-cfpb"
+                                >
+                            At the CFPB
+                        </option>
+                        <option value="data-research-reports"
+                                >
+                            Data, research, and reports
+                        </option>
+                        <option value="directors-notebook"
+                                >
+                            Director&#39;s notebook
+                        </option>
+                        <option value="info-for-consumers"
+                                >
+                            Info for consumers
+                        </option>
+                        <option value="policy-compliance"
+                                >
+                            Policy and compliance
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    <div class="content-l__col
+                content-l__col-1-2">
+        <div class="o-form__group">
+            <div class="m-form-field">
+                <label class="a-label a-label--heading"
+                        for="o-filterable-list-controls-topics">
+                    Topics
+                </label>
+                <select name="topics" id="o-filterable-list-controls-topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
+  <option value="academic-research-council">Academic Research Council</option>
+  <option value="access-to-credit">Access to credit</option>
+  <option value="add-on-products">Add-on products</option>
+  <option value="advanced-technology">Advanced technology</option>
+  <option value="arbitration">Arbitration</option>
+  <option value="auto-loans">Auto loans</option>
+  <option value="banking">Banking</option>
+  <option value="business-loans">Business loans</option>
+  <option value="call-for-evidence">Call for evidence</option>
+  <option value="cfpb-milestones">CFPB milestones</option>
+  <option value="cfpb-ombudsman">CFPB Ombudsman</option>
+  <option value="checking-account">Checking account</option>
+  <option value="civil-penalty-fund">Civil Penalty Fund</option>
+  <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
+  <option value="community-banks">Community banks</option>
+  <option value="competition">Competition</option>
+  <option value="compliance">Compliance</option>
+  <option value="consumer-advisory-board">Consumer Advisory Board</option>
+  <option value="consumer-complaints">Consumer complaints</option>
+  <option value="coronavirus">Coronavirus</option>
+  <option value="credit-card-act">Credit CARD Act</option>
+  <option value="credit-cards">Credit cards</option>
+  <option value="credit-reports-and-scores">Credit reports and scores</option>
+  <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
+  <option value="credit-unions">Credit unions</option>
+  <option value="data">Data</option>
+  <option value="debit-cards">Debit cards</option>
+  <option value="debt-collection">Debt collection</option>
+  <option value="deceptive-practices">Deceptive practices</option>
+  <option value="disasters-and-emergencies">Disasters and emergencies</option>
+  <option value="discrimination">Discrimination</option>
+  <option value="diversity-and-inclusion">Diversity and inclusion</option>
+  <option value="electronic-payments">Electronic payments</option>
+  <option value="enforcement">Enforcement</option>
+  <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
+  <option value="equity">Equity</option>
+  <option value="everyone-has-a-story">Everyone has a story</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
+  <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
+  <option value="fair-lending">Fair lending</option>
+  <option value="federal-trade-commission">Federal Trade Commission</option>
+  <option value="ffiec">FFIEC</option>
+  <option value="financial-coaching">Financial coaching</option>
+  <option value="financial-education">Financial education</option>
+  <option value="financial-service-providers">Financial service providers</option>
+  <option value="financial-well-being">Financial well-being</option>
+  <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
+  <option value="foia">FOIA</option>
+  <option value="foreclosure">Foreclosure</option>
+  <option value="homebuying">Homebuying</option>
+  <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
+  <option value="housing-counselor">Housing counselor</option>
+  <option value="identity-theft-fraud">Identity theft and fraud</option>
+  <option value="innovation">Innovation</option>
+  <option value="junk-fees">Junk fees</option>
+  <option value="medical-debt">Medical debt</option>
+  <option value="military-lending-act">Military Lending Act</option>
+  <option value="mobile-financial-services">Mobile financial services</option>
+  <option value="money-transfers">Money transfers</option>
+  <option value="mortgage-closing">Mortgage closing</option>
+  <option value="mortgage-origination">Mortgage origination</option>
+  <option value="mortgages">Mortgages</option>
+  <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="native-communities">Native communities</option>
+  <option value="office-of-research-publication">Office of Research Publication</option>
+  <option value="older-americans">Older Americans</option>
+  <option value="open-government">Open government</option>
+  <option value="overdraft">Overdraft</option>
+  <option value="parents">Parents</option>
+  <option value="partnerships">Partnerships</option>
+  <option value="payday-loans">Payday loans</option>
+  <option value="people-with-disabilities">People with disabilities</option>
+  <option value="personnel">Personnel</option>
+  <option value="prepaid-cards">Prepaid cards</option>
+  <option value="privacy">Privacy</option>
+  <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
+  <option value="procurement">Procurement</option>
+  <option value="project-catalyst">Project Catalyst</option>
+  <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
+  <option value="redlining">Redlining</option>
+  <option value="regulation-b">Regulation B</option>
+  <option value="regulation-c">Regulation C</option>
+  <option value="regulation-e">Regulation E</option>
+  <option value="renters">Renters</option>
+  <option value="research">Research</option>
+  <option value="retirement">Retirement</option>
+  <option value="reverse-mortgages">Reverse mortgages</option>
+  <option value="rulemaking">Rulemaking</option>
+  <option value="saving">Saving</option>
+  <option value="sbrefa">SBREFA</option>
+  <option value="servicemember-civil-relief-act">Servicemember Civil Relief Act</option>
+  <option value="servicemembers">Servicemembers</option>
+  <option value="small-dollar-lending">Small dollar lending</option>
+  <option value="student-loans">Student loans</option>
+  <option value="students">Students</option>
+  <option value="supervision">Supervision</option>
+  <option value="tenant-screening">Tenant screening</option>
+  <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="virtual-currency">Virtual currency</option>
+  <option value="your-money-your-goals">Your Money Your Goals</option>
+  <option value="youth">Youth</option>
+</select>
+            </div>
+        </div>
+    </div>
+        <div class="content-l__col
+                    content-l__col-1">
+            <div class="content-l">
+                <div class="content-l__col
+                            content-l__col-2-3">
+                    <div class="o-form__group">
+                        <fieldset class="o-form__fieldset">
+                            <legend class="h4">
+                                Date range
+                            </legend>
+                            <div class="content-l">
+                                <div class="content-l__col
+                                            content-l__col-1-2">
+                                    <div class="m-form-field">
+                                        <label class="a-label a-label--heading"
+                                                for="o-filterable-list-controls_from-date">
+                                            From:
+                                        </label>
+                                        <input type="date" name="from_date" class="a-text-input a-text-input--full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_from-date">
+                                    </div>
+                                </div>
+                                <div class="content-l__col
+                                            content-l__col-1-2">
+                                    <div class="m-form-field">
+                                        <label class="a-label a-label--heading"
+                                                for="o-filterable-list-controls_to-date">
+                                            To:
+                                        </label>
+                                        <input type="date" name="to_date" class="a-text-input a-text-input--full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_to-date">
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="content-l__col
+                        content-l__col-1">
+                <div class="m-btn-group">
+                    <button class="a-btn" type="submit">
+                        Apply filters
+                    </button>
+                    <a class="a-btn a-btn--link a-btn--warning"
+                    href="/archive/blog/">
+                        Clear filters
+                    </a>
+                </div>
+            </div>
+        </div>
+    </form>
+    </div>
+</div>
+</div>
+            </div>
+    <div class="block">
+<div class="o-filterable-list-results">
+        <div class="block
+                    block--padded
+                    block--sub
+                    u-hidden"
+             data-cy="filterable-list-notification">
+  <div class="m-notification m-notification--success m-notification--visible">
+      <cfpb-icon name="approved-round"></cfpb-icon>
+      <div class="m-notification__content"
+          >
+          <div class="m-notification__message">1389 filtered results</div>
+      </div>
+  </div>
+        </div>
+            <section class="block
+                            block--sub"
+                     data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-07-07T00:00:00">JUL 07, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/were-training-housing-counselors-on-the-new-mortgage-servicing-rules/">We’re training housing counselors on the new mortgage servicing rules</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Since last December, we’ve provided on-site and virtual trainings to more than 5,000 housing counselors in more than twenty cities.
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Brenda Muñiz</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=consumer-complaints" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Consumer complaints</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=housing-counselor" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Housing counselor</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgage-servicing" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgage servicing</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bank"></cfpb-icon>
+        Policy and compliance
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-07-03T00:00:00">JUL 03, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/claim-forms-for-the-ocwen-settlement-available-now/">Claim forms for the Ocwen settlement available now</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The National Ocwen Settlement Administrator is responsible for handling settlement claims and has created a website with information for consumers who were...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Cara Petersen</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=foreclosure" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Foreclosure</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-07-02T00:00:00">JUL 02, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/what-happens-to-your-student-loans-if-your-school-is-shut-down/">What happens to your student loans if your school is shut down</a>
+        </h3>
+        <div class="o-post-preview__description">
+            When you&#39;re told that your college will be shutting down, there can be a lot of uncertainty about what comes next. Here are some options to help you...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Rohit Chopra</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=student-loans" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Student loans</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=students" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Students</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-07-01T00:00:00">JUL 01, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/building-a-collection-of-financial-education-materials-for-a-library-near-you/">Building a collection of financial education materials for a library near you</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We want to make libraries the go-to place for financial information in every community. That&#39;s why we&#39;ve put together resources and materials for libraries...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Dan Rutherford</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=financial-education" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial education</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+                <span class="m-meta-header__item">
+       <cfpb-icon name="chart"></cfpb-icon>
+        Data, research, and reports
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-06-26T00:00:00">JUN 26, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/we-participated-in-the-national-day-of-civic-hacking-again/">We participated in the National Day of Civic Hacking (again)</a>
+        </h3>
+        <div class="o-post-preview__description">
+            During the event, we participated and watched representatives from traditionally disconnected groups work together on some of the most pressing issues...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Julian Alcazar</a>
+                and 
+                William Shelton</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=consumer-complaints" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Consumer complaints</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=data" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Data</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=home-mortgage-disclosure-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Home Mortgage Disclosure Act</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-06-23T00:00:00">JUN 23, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/now-recruiting-technology-innovation-fellows-for-2015/">Now recruiting: Technology &amp; Innovation Fellows for 2015</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The fellowship is a two year program for developers, designers, data specialists, and cybersecurity professionals who want to further our mission of making...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Ashwin Vasan</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=personnel" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Personnel</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-06-18T00:00:00">JUN 18, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/live-from-reno/">Live from Reno!</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We held a Consumer Advisory Board meeting in Reno, Nevada to discuss our mortgage rules which took effect earlier this year. The live event has now ended...
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=consumer-advisory-board" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Consumer Advisory Board</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-06-12T00:00:00">JUN 12, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/live-from-new-orleans/">Live from New Orleans!</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Today, we held a field hearing in New Orleans on mobile financial services. The event featured remarks from Director Richard Cordray, as well as testimony...
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=mobile-financial-services" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mobile financial services</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-06-03T00:00:00">JUN 03, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/save-the-date-new-orleans/">Save the date, New Orleans!</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The event will feature remarks from Director Richard Cordray, as well as testimony from consumer groups, industry representatives, and members of the public.
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Zixta Q Martinez</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=mobile-financial-services" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mobile financial services</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-23T00:00:00">MAY 23, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/spring-2014-rulemaking-agenda/">Spring 2014 rulemaking agenda</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Today, we&#39;re posting a semi-annual update of our rulemaking agenda in conjunction with a broader initiative led by OMB to publish a Unified Agenda of...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Kelly Cochran</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=debt-collection" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Debt collection</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=payday-loans" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Payday loans</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=prepaid-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Prepaid cards</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=rulemaking" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Rulemaking</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-20T00:00:00">MAY 20, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/summer-jobs-are-a-perfect-time-to-build-financial-skills-for-young-people/">Summer jobs are a perfect time to build financial skills for young people</a>
+        </h3>
+        <div class="o-post-preview__description">
+            For young people, particularly those between the ages of 16-24 who may be entering the workforce for the first time, developing good money management skills...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Desmond Brown</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=financial-education" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial education</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=youth" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Youth</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bank"></cfpb-icon>
+        Policy and compliance
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-20T00:00:00">MAY 20, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/our-board-and-council-meetings-are-changing/">Our Board and Council meetings are changing</a>
+        </h3>
+        <div class="o-post-preview__description">
+            To provide more transparency and to be responsive to the requests we&#39;ve received, we&#39;re changing the format of our Board and Council meetings and opening...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Delicia Hand</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=academic-research-council" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Academic Research Council</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=community-bank-advisory-council" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Community Bank Advisory Council</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=consumer-advisory-board" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Consumer Advisory Board</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=credit-union-advisory-council" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit Union Advisory Council</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-20T00:00:00">MAY 20, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/save-the-date-join-us-for-a-consumer-advisory-board-meeting-in-reno-nevada/">Save the date: Join us for a Consumer Advisory Board meeting in Reno, Nevada</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Join us for a Consumer Advisory Board meeting on Wednesday, June 18 with Director Cordray, where we will discuss trends and themes in the mortgage market...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Delicia Hand</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=consumer-advisory-board" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Consumer Advisory Board</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-education" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial education</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bank"></cfpb-icon>
+        Policy and compliance
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-12T00:00:00">MAY 12, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/truth-in-lending-rule-now-available-in-easier-to-navigate-format/">Truth in Lending rule now available in easier-to-navigate format</a>
+        </h3>
+        <div class="o-post-preview__description">
+            As part of the eRegulations tool, we&#39;re launching an intuitive, easier-to-navigate electronic format of Regulation Z, which implements the Truth in Lending...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                David Cassidy</a>
+                and 
+                Dan Sokolov</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-09T00:00:00">MAY 09, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/demystifying-the-government-contracting-process/">Demystifying the government contracting process</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We&#39;re hosting a training conference for businesses on demystifying the government contracting process. We want to shed some light on the federal procurement...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                David Gragan</a>
+                and 
+                Stuart Ishimaru</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=procurement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Procurement</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-07T00:00:00">MAY 07, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/three-things-to-keep-your-retirement-plan-on-track/">Three things to keep your retirement plan on track</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Compared to a decade ago, there are fewer older homeowners who own their homes free and clear. Older homeowners are also carrying more mortgage debt. You can check out our snapshot on older Americans and mortgage debt for more on the numbers and data. Here are three things you can do to keep your retirement on track.
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Nora Dowd Eisenhower</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=older-americans" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Older Americans</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=retirement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Retirement</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-07T00:00:00">MAY 07, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/join-us-for-a-forum-to-discuss-consumer-issues-for-veterans/">Join us for a forum to discuss consumer issues for veterans</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We&#39;re hosting an online forum on veteran consumer issues on Friday, May 9 at 2 p.m. EDT. Whether you&#39;re a veteran or if you work with veterans or military...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Holly Petraeus</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=servicemembers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Servicemembers</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-05-01T00:00:00">MAY 01, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/how-to-protect-vulnerable-children-from-identity-theft/">How to protect vulnerable children from credit reporting problems</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Youth in foster care are particularly susceptible to identity theft because they often lack a permanent address, and their personal information is...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Sarah Bainton Kahn</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit cards</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=credit-reports-and-scores" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit reports and scores</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-well-being" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial well-being</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=identity-theft-fraud" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Identity theft and fraud</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=youth" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Youth</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bank"></cfpb-icon>
+        Policy and compliance
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-04-30T00:00:00">APR 30, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/our-work-on-fair-lending/">Our work on fair lending</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We’ve created, refined, and implemented a process to focus our supervisory work on areas that present higher risk to consumers when it comes to fair lending.
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Patrice Alexander Ficklin</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=equal-credit-opportunity-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Equal Credit Opportunity Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=fair-lending" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Fair lending</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=home-mortgage-disclosure-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Home Mortgage Disclosure Act</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bank"></cfpb-icon>
+        Policy and compliance
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-04-23T00:00:00">APR 23, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/take-more-control-over-the-mortgage-closing-process-with-technology/">Take more control over the mortgage closing process with technology</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We asked you to tell us about pain points in the mortgage closing process and through this research and interviews, we&#39;ve heard about four major pain...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Noerena Limón</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-04-23T00:00:00">APR 23, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/live-from-washington-d-c-2/">Live from Washington, D.C.</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We&#39;re holding a forum to discuss the mortgage closing process at 2:30 p.m. EDT. The event will feature remarks by Director Richard Cordray and Housing and...
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bullhorn"></cfpb-icon>
+        At the CFPB
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-04-22T00:00:00">APR 22, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/two-new-members-for-our-academic-research-council/">Two new members for our Academic Research Council</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We&#39;re pleased to announce the two new members appointed to our ARC are Raphael Bostic from the University of Southern California and Melvin Stephens from...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Delicia Hand</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=academic-research-council" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Academic Research Council</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-04-14T00:00:00">APR 14, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/explainer-federal-student-loan-interest-rates-to-jump/">Explainer: Federal student loan interest rates to jump</a>
+        </h3>
+        <div class="o-post-preview__description">
+            While rates aren&#39;t set in stone yet, interest rates on new federal student loans are expected to jump this July. We&#39;ve updated our Paying for College tool...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Rohit Chopra</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=academic-research-council" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Academic Research Council</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=data" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Data</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=student-loans" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Student loans</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=students" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Students</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-04-10T00:00:00">APR 10, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/choosing-a-college-is-a-big-deal-we-can-help/">Choosing a college is a big deal. We can help!</a>
+        </h3>
+        <div class="o-post-preview__description">
+            To help you navigate these new waters, we&#39;ve just launched a crisp new version of our Paying for College tool kit. Making apples-to-apples comparison of...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                CFPB Web Team</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=student-loans" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Student loans</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=students" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Students</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <cfpb-icon name="information"></cfpb-icon>
+        Info for consumers
+                </span>
+                <span class="m-meta-header__item">
+       <cfpb-icon name="bank"></cfpb-icon>
+        Policy and compliance
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2014-04-09T00:00:00">APR 09, 2014</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/archive/blog/explainer-compensating-consumers-for-bank-of-americas-illegal-tactics-for-credit-card-add-on-products/">Explainer: Compensating consumers for Bank of America’s illegal tactics for credit card add-on products</a>
+        </h3>
+        <div class="o-post-preview__description">
+            We&#39;re ordering Bank of America to refund up to $727 million to approximately 2.9 million consumers for unfair billing and deceptive marketing and sales...
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Deborah Morris</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit cards</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=enforcement" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Enforcement</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                    <div class="block block--flush-top block--flush-bottom block--padded-top">
+<nav class="m-pagination"
+         role="navigation"
+         aria-label="Pagination">
+        <a class="a-btn
+                  m-pagination__btn-prev"
+           href="?page=37"><cfpb-icon name="left"></cfpb-icon><span>Previous</span>
+        </a>
+        <form class="m-pagination__form" action="">
+            <label class="m-pagination__label">
+                Page
+                <span class="u-visually-hidden">
+                    38 out of 56 total pages
+                </span>
+                <input id="m-pagination__current-page-0"
+                       class="m-pagination__current-page"
+                       name="page"
+                       type="number"
+                       min="1"
+                       max="56"
+                       pattern="[0-9]*"
+                       inputmode="numeric"
+                       value="38"> of 56</label>
+            <button class="a-btn
+                           a-btn--link
+                           m-pagination__btn-submit"
+                    type="submit">
+                Go
+            </button>
+        </form>
+        <a class="a-btn m-pagination__btn-next" href="?page=39"><span>Next</span><cfpb-icon name="right"></cfpb-icon></a>
+    </nav>
+                    </div>
+            </section>
+</div>
+    </div>
+<div class="block u-screen-only">
+    <p><hr></p>
+    <p>Page last modified <span class="datetime"><time datetime="2026-06-25T11:49:45-0400">Jun. 25, 2026</time>
+    <span>@</span>
+    <time datetime="2026-06-25T11:49:45-0400">
+        11:49 AM EDT
+    </time></span></p>
+ </div>
+                </div>
+                <aside class="u-layout-grid__sidebar" role="complementary">
+                </aside>
+        </div>
+    </main>
+<footer class="o-footer">
+    <div class="wrapper wrapper--match-content">
+        <div class="o-footer__pre">
+            <div class="u-show-on-mobile">
+                <a class="a-btn a-btn--secondary a-btn--full-on-xs u-mb45" data-cy="btn-back-to-top" data-gtm_ignore="true" data-js-hook="behavior_return-to-top" href="#">
+<span>Back to top</span> <cfpb-icon name="arrow-up"></cfpb-icon>
+</a>
+            </div>
+            <cfpb-list horizontal gap="wide" color-theme="dark">
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/">
+                        About Us
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/contact-us/">
+                        Contact Us
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/careers/">
+                        Careers
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/events/">
+                        Events
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/enforcement/information-industry-whistleblowers/">
+                        Industry Whistleblowers
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/cfpb-ombudsman/">
+                        CFPB Ombudsman
+                    </a>
+</cfpb-link>
+            </cfpb-list>
+            <div class="block
+                        block--flush-top
+                        block--flush-bottom
+                        block--padded-top">
+<div class="m-social-media
+            m-social-media--follow">
+    <ul class="m-list
+               m-list--unstyled
+               m-list--horizontal
+               m-social-media__icons">
+                <li class="m-list__item">
+                    <a aria-label="Visit us on Facebook" class="m-social-media__icon" href="https://www.facebook.com/CFPB">
+<cfpb-icon name="facebook-square"></cfpb-icon>
+</a>
+                </li>
+                <li class="m-list__item">
+                    <a aria-label="Visit us on X" class="m-social-media__icon" href="https://x.com/CFPB">
+<cfpb-icon name="x-square"></cfpb-icon>
+</a>
+                </li>
+                <li class="m-list__item">
+                    <a aria-label="Visit us on LinkedIn" class="m-social-media__icon" href="https://www.linkedin.com/company/consumer-financial-protection-bureau">
+<cfpb-icon name="linkedin-square"></cfpb-icon>
+</a>
+                </li>
+                <li class="m-list__item">
+                    <a aria-label="Visit us on YouTube" class="m-social-media__icon" href="https://www.youtube.com/user/cfpbvideo">
+<cfpb-icon name="youtube-square"></cfpb-icon>
+</a>
+                </li>
+                <li class="m-list__item">
+                    <a aria-label="Visit us on Flickr" class="m-social-media__icon" href="https://www.flickr.com/photos/cfpbphotos">
+<cfpb-icon name="flickr-square"></cfpb-icon>
+</a>
+                </li>
+    </ul>
+</div>
+            </div>
+        </div>
+        <div class="o-footer-middle-left">
+            <cfpb-list color-theme="dark">
+                <cfpb-link>
+<a href="/foia-requests/">
+                        FOIA
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/privacy/website-privacy-policy/">
+                        Website Privacy Policy &amp; Legal Notices
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/accessibility/">
+                        Accessibility
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/office-civil-rights/no-fear-act-cummings-act/">
+                        No FEAR Act &amp; Cummings Act
+                    </a>
+</cfpb-link>
+            </cfpb-list>
+        </div>
+        <div class="o-footer-middle-right">
+            <cfpb-list color-theme="dark">
+                <cfpb-link link-variant="external" no-top-border="">
+<a href="https://www.usa.gov/">
+                        USA.gov
+                    </a>
+</cfpb-link>
+                <cfpb-link link-variant="external">
+<a href="https://oig.federalreserve.gov/">
+                        Office of Inspector General
+                    </a>
+</cfpb-link>
+                <cfpb-link link-variant="external">
+<a href="https://archive-it.org/organizations/2800">
+                        Public Archive
+                    </a>
+</cfpb-link>
+            </cfpb-list>
+        </div>
+        <div class="o-footer-post">
+<cfpb-tagline islarge
+  aria-label="Official website of the United States government">
+  An official website of the
+  <span class="u-nowrap">United States government</span>
+</cfpb-tagline>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
